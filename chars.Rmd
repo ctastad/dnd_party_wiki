@@ -1,0 +1,135 @@
+---
+title: "![](armour.svg) Characters"
+output:
+  html_document:
+      toc: yes
+      toc_float: yes
+      theme: readable
+---
+
+```{r global_options, include=F}
+knitr::opts_chunk$set(eval=F)
+```
+
+```{r eval=F, include=F}
+# Dependencies
+
+library(rmarkdown)
+library(knitr)
+```
+
+---
+
+## Player Characters
+
+---
+
+### [PC Name] (Chang)
+
+* Class: Paladin
+* Race:
+* Skill Rolls: 15, 14, 13, 12, 10, 8
+
+#### Niche
+
+#### Background
+
+#### Goals
+
+---
+
+### [PC Name] (Olson)
+
+* Class: Sorcerer
+* Race:
+* Skill Rolls: 15, 14, 13, 12, 10, 8
+
+#### Niche
+
+Spellcaster/jack-of-all-trades since I have some experience playing
+
+#### Background
+
+Hermit/outlander of some sort, someone from the wilderness
+
+#### Goals
+
+On a sort of quest of self-discovery, maybe a pilgrimage or something similar
+
+---
+
+### [PC Name] (Gervais)
+
+* Class: Monk
+* Race:
+* Skill Rolls: 12, 13, 11, 10, 16, 17
+
+#### Niche
+
+One for the people.  I will always do what is best in order to benefit the group.
+
+#### Background
+
+Trained in monastery until the age of 12 when a catastrophic storm hit the civilization where the monastery was located killing off all forms of life.  Miraculously Uji survived.  With all belongings, food, and clothing gone Uji scrambled to survive.  He stumbled upon colony of albino dwarves that looked to have food, clothing, and money.  Uji attempted to steal what he needed from a local bizarre, but was captured by the local authorities, and was imprisoned.  After multiple years of imprisonment, the local albino dwarves realized that Uji was not a dangerous threat to the community so he was released and given a job teaching Kung Fu to local dwarven folks.  Uji had no reason to leave as he now had everything he needed to survive.  Uji has an appetite for adventure and had an itch to explore but never the reason to leave.  Over the years, Uji became respected within the community where the albino dwarves consider Uji as one of their own.
+
+#### Goals
+
+To execute all things with complete and utter style and coolness.
+
+---
+
+### [PC Name] (Skoglund)
+
+* Class: Ranger
+* Race:
+* Skill Rolls: 15, 14, 13, 12, 10, 8
+
+#### Niche
+
+I can defend the group from shitty monsters that want to fuck up our shit. I will also help communicate with beasts of the wild and use my natural outdoorsiness to get the gang out of jams
+
+#### Background
+
+I'm an outlander who was cast out into the woods at a young age. My family was killed by a viscous monster and because of my halfling blood, neither the humans or the elves would take me in. I wandered the woods until a wiley, rag tag group of rangers found me and taught me their ways. Including human pleasures such as drinking, fucking, and enjoying a dabble in some of nature's many hallucinogenics. While oftentimes tempted by the money and spoils of wealthy criminals wishing us to do their nefarious bidding, we took an oath of dignity and goodness. Because of my half elf blood, I've outlived many of my mentors, but will sometimes work with the now-grown sons and daughters of my original squad who have grown up in the woods. And one day I'm going to find that monster and his bastard monster babies and fuck him up.
+
+#### Goals
+
+Fucking up the aforementioned monster and his bastard babies. Also, I would like to be a helpful contributor and not die in my first battle.
+
+---
+
+### Vaer&uuml;ne (Spaeth)
+
+* Class: Druid
+* Race: Elf - High Elf - Moon Elf (Teu-tel-quessir)
+* Skill Rolls: 12, 13, 10, 10, 9, 14
+* Age: 62
+* Skin Color: Ice Blue
+* Eye Color: Blue
+* Hair Color: Dark Brown
+* Height: 5’11”
+* Homeland: Northwest Faerûn / High Forest / Turlang’s Wood
+* Deity: Auril
+* Magics: Healing / Arcane / Animal Handling
+* Weapon: Shadowtop wood handled scimitars
+* Animal Companion: Aüir - Displacer Beast
+
+#### Niche
+
+Support
+
+#### Background
+
+I grew up in the forests of Northwest Faerûn, but was born near Waterdeep. My mother and father served as aids to Turlang, the treant who governed the High Forests. Originating from the Feywild, they were deeply connected to arcane magics and plane of the Faerie, but were lost during the Spellplague that shattered Waterdeep in 1389. After their deaths I was taken by Turlang to be raised by dryads. I learned to shape and care for the forests and developed a strong independence in my own explorations of the forests and training. I have a strong affinity for animals and the ability to tap into the spirit of all living things and feel the balance of nature has over them. Often spending weeks or months haunting the deepest and darkest areas of the forests I have become aligned with the Circle of the Moon and am highly changeable during a full moon. While I do not yet possess full control of my shape shifting powers I have experienced times when my arcane heritage and connection to the ethereal plane of the Feywild has taken over and I have uncontrollably shapeshifted into a displacer beast. During one of these sessions I came across a displacer beast, Aüir, who I befriended. Aüir is distrustful of others, but deeply loyal to me. He often roams the Feywild when not accompanying me on my travels. He prefers my displacer beast form over that of my High Elf form so often only appears during a full moon when I become highly prone to shapeshifting into a displacer beast myself.
+
+#### Goals
+
+I strive for balance and harmony through the creation and conservation of living beings. I am young (for an elf) so I have a strong tendency to be independent. I challenge the betrayal of nature in any form and seek to fight those aligned with darkness.
+
+## NPCs
+
+---
+
+### Big Bad Guy
+
+Spooky stuff

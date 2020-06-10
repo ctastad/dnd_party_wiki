@@ -1,0 +1,115 @@
+---
+title: "![](armour.svg) Tools"
+output:
+  html_document:
+      toc: yes
+      toc_float: yes
+      theme: readable
+---
+
+```{r global_options, include=F}
+knitr::opts_chunk$set(eval=F)
+```
+
+```{r eval=F, include=F}
+# Dependencies
+
+library(rmarkdown)
+library(knitr)
+```
+
+Our party organization will primarily revolve around 3 main tools: this wiki, a google drive, and discord. I've included several links to tools that are also found in the google drive as a measure to provide additional detail or expand on thier relevance.
+
+* [Party Docs Folder](https://drive.google.com/drive/folders/1zu_MXQO1ZcbxpZbVw4qZYd3dtcJSAGfM?usp=sharing)
+    + This is a catch all google drive folder for relevant party documents.
+
+---
+
+### References
+
+* [DnD Basic Rules](https://drive.google.com/file/d/12kdrzVSJmqy78xfFPGM8HIXh7bm4Ec8n/view?usp=sharing)
+
+* [Player's Handbook](https://drive.google.com/file/d/1vKoi7vRftAFWLN-eeHB6zmuCcbnA6Hk3/view?usp=sharing)
+
+* [The Trove](https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/Core/)
+    + This is a hosted repo of basically all table top game references you could imagine. If you delve into this make sure you are looking at DnD e5 core resources. Magic, realms, and other parameters change significantly across different modules.
+
+### Char Building
+
+* [Static Char Sheet](https://drive.google.com/file/d/1zw8NibT7-nNpPnV85ZKedEOG_jL1_2uO/view?usp=sharing)
+    + This is the base character sheet, useful if you wish to handwrite your char.
+
+* [Auto Char Sheet](https://docs.google.com/spreadsheets/d/1fW7mVdOvDuSKiaq2zZX2EXvSYbl2WbqHFrd3QYIhx1k/edit?usp=sharing)
+    + This is a google spreadsheet that will auto tabulate a significant portion of char parameters.
+    + Also, if you wish to import your char into the Avrae bot on the Discord server, this sheet will allow you to do that.
+    + See Avrae Bot > Full Command List > SheetManager
+
+* [Char Gen Tutorial](https://www.youtube.com/watch?v=vGyk5piGwrQ)
+    + This is part 1 of 4 of a detailed video series walk through on first time char creation.
+    + I found it very informative and would encourage everyone to watch it.
+
+---
+
+### Table top
+
+* Discord Server
+    + This server will provide several channels to organize party communication and in-game reference distribution.
+
+* [Combat theater](https://docs.google.com/spreadsheets/d/1z-yJxw-qwyysn1RGJ2UJUVPpVjCb3FZO4DGWxrPcfSk/edit?usp=sharing)
+    + On the ground, tactical game play will take place on this document.
+
+---
+
+### Avrae Bot
+
+The Avrae bot is extremely feature rich. Given the complexity, I don't want to overwhelm the party by forcing the full use of its complete feature set. Instead, I want it to be available for access to automation of mechanics to the extent that individual players see fit in their own setup.
+
+Below are a collection of basic commands I imagine will be more commonly used. This represents about 10% of Avrae's functionality, so feel free to explore.
+
+##### Important!
+
+I adjusted the prefix from `!` to `\`, so the syntax should be:
+
+* `\cmd|altcmd arguments`
+
+* [Full Command List](https://avrae.io/commands)
+
+Help command
+
+* `\help cmdname`
+
+##### Roll Calculator
+
+```{r}
+\roll|r xdy+z # performs a single roll
+\multiroll|rr iterations xdy+z # performs multiple role iterations
+```
+
+##### Lookup
+
+```{r}
+\background name
+\class name
+\classfeat name
+\condition|status name
+\feat name
+\item name
+\monster name
+\race name
+\racefeat name
+\rule|reference name
+\spell name
+\subclass name
+```
+
+##### Character Functions
+
+```{r}
+\attack|a atk_name args # roll for attack
+\check|c check # perform skill check
+\save|s skill # perform skill save
+\desc # list active character
+```
+
+
+

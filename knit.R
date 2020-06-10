@@ -1,0 +1,17 @@
+#!/usr/bin/env Rscript
+
+cur_dir <- getwd()
+setwd("/home/chris/Seafile/library/personal/hobbies/dnd/wiki")
+
+rmarkdown::render("index.Rmd")
+rmarkdown::render("tools.Rmd")
+rmarkdown::render("chars.Rmd")
+rmarkdown::render("lore.Rmd")
+rmarkdown::render_site("index.Rmd")
+
+fl <- Sys.glob("*.html")
+
+ifelse(file.exists(fl), file.remove(fl))
+
+setwd(cur_dir)
+

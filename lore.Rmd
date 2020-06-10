@@ -1,0 +1,21 @@
+---
+title: "![](armour.svg) Lore"
+output:
+  html_document:
+      toc: yes
+      toc_float: yes
+      theme: readable
+---
+
+```{r global_options, include=F}
+knitr::opts_chunk$set(eval=F)
+```
+
+```{r eval=F, include=F}
+# Dependencies
+
+library(rmarkdown)
+library(knitr)
+```
+
+---
