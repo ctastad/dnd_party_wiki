@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 cur_dir <- getwd()
-setwd("/home/chris/Seafile/library/personal/hobbies/dnd/wiki")
+setwd("/home/chris/Seafile/library/personal/hobbies/dnd/dnd_party_wiki")
 
 rmarkdown::render("index.Rmd")
 rmarkdown::render("tools.Rmd")
