@@ -23,3 +23,62 @@ library(knitr)
 #### *
 
 ---
+
+World Building
+
+## Places
+### ENTRY
+* Location:
+* NPCs:
+* Organizations:
+* Background:
+* Items:
+* Story arcs:
+* Description:
+
+## Chars
+### ENTRY
+* Traits:
+* Motivations:
+* Background:
+* Location:
+
+## Things
+### ENTRY
+* Item qualities:
+* Background:
+* Location:
+
+## Story arcs
+### ENTRY
+* Outline: 
+    + Event:
+    + Impact:
+    + Call to action:
+    + Turn:
+    + Resolution:
+* Further exposition:
+* Primary chars:
+* Events: anticipated, transpired:
+* Plot hooks:  
+
+## Encounters
+### ENTRY
+* Dungeon map: 
+* Location:
+* Weather:
+* Environment:
+
+## Organizations
+### ENTRY
+* Mission statement:
+* Motto:
+* Goals:
+* Background:
+* Location:
+* NPCs:
+* Story arcs:
+
+Session log
+
+Action summaries
