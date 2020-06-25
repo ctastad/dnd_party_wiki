@@ -2,11 +2,9 @@ name: "Adv DnD Wiki"
 navbar:
     title: "Adv DnD Wiki"
     left:
-        - text: "Home"
+        - text: "Log"
           href: index.html
         - text: "Tools"
           href: tools.html
-        - text: "Chars"
-          href: chars.html
-        - text: "Lore"
-          href: lore.html
+        - text: "World"
+          href: world.html

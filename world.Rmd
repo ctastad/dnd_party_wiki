@@ -1,5 +1,5 @@
 ---
-title: "![](armour.svg) Characters"
+title: "![](armour.svg) World"
 output:
   html_document:
       toc: yes
@@ -20,7 +20,7 @@ library(knitr)
 
 ---
 
-## Player Characters
+## Chars
 
 ---
 
@@ -38,11 +38,11 @@ library(knitr)
 
 ---
 
-### [PC Name] (Olson)
+### Dimaya (Olson)
 
 * Class: Sorcerer
 * Race:
-* Skill Rolls: 15, 14, 13, 12, 10, 8
+* Skill Rolls: 18, 12, 10, 13, 11, 16
 
 #### Niche
 
@@ -58,7 +58,7 @@ On a sort of quest of self-discovery, maybe a pilgrimage or something similar
 
 ---
 
-### [PC Name] (Gervais)
+### Uzi Soggybottom (Gervais)
 
 * Class: Monk
 * Race:
@@ -70,7 +70,7 @@ One for the people.  I will always do what is best in order to benefit the group
 
 #### Background
 
-Trained in monastery until the age of 12 when a catastrophic storm hit the civilization where the monastery was located killing off all forms of life.  Miraculously Uji survived.  With all belongings, food, and clothing gone Uji scrambled to survive.  He stumbled upon colony of albino dwarves that looked to have food, clothing, and money.  Uji attempted to steal what he needed from a local bizarre, but was captured by the local authorities, and was imprisoned.  After multiple years of imprisonment, the local albino dwarves realized that Uji was not a dangerous threat to the community so he was released and given a job teaching Kung Fu to local dwarven folks.  Uji had no reason to leave as he now had everything he needed to survive.  Uji has an appetite for adventure and had an itch to explore but never the reason to leave.  Over the years, Uji became respected within the community where the albino dwarves consider Uji as one of their own.
+Trained in monastery until the age of 12 when a catastrophic storm hit the civilization where the monastery was located killing off all forms of life.  Miraculously Uzi survived.  With all belongings, food, and clothing gone Uzi scrambled to survive.  He stumbled upon colony of albino dwarves that looked to have food, clothing, and money.  Uzi attempted to steal what he needed from a local bizarre, but was captured by the local authorities, and was imprisoned.  After multiple years of imprisonment, the local albino dwarves realized that Uzi was not a dangerous threat to the community so he was released and given a job teaching Kung Fu to local dwarven folks.  Uzi had no reason to leave as he now had everything he needed to survive.  Uzi has an appetite for adventure and had an itch to explore but never the reason to leave.  Over the years, Uzi became respected within the community where the albino dwarves consider Uzi as one of their own.
 
 #### Goals
 
@@ -78,10 +78,12 @@ To execute all things with complete and utter style and coolness.
 
 ---
 
-### [PC Name] (Skoglund)
+### Sk&auml;gd&umacr;n (Skoglund)
 
 * Class: Ranger
 * Race:
+  Height: 6'0"
+  Weight: 180lb
 * Skill Rolls: 15, 14, 13, 12, 10, 8
 
 #### Niche
@@ -126,10 +128,9 @@ I grew up in the forests of Northwest Faerûn, but was born near Waterdeep. My m
 
 I strive for balance and harmony through the creation and conservation of living beings. I am young (for an elf) so I have a strong tendency to be independent. I challenge the betrayal of nature in any form and seek to fight those aligned with darkness.
 
-## NPCs
-
 ---
 
 ### Big Bad Guy
 
 Spooky stuff
+

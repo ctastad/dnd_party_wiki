@@ -48,6 +48,18 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
     + This is part 1 of 4 of a detailed video series walk through on first time char creation.
     + I found it very informative and would encourage everyone to watch it.
 
+#### PCs
+
+* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
+
+* [Vaer&uuml;une](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
+
+* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
+
+* [Uzi Soggybottom]() (Gervais)
+
+* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
+
 ---
 
 ### Table top
@@ -111,5 +123,8 @@ Help command
 \desc # list active character
 ```
 
+---
 
+### DM Tools
 
+* https://dungeonmastertools.github.io/

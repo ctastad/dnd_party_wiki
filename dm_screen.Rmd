@@ -1,0 +1,411 @@
+---
+title: "![](armour.svg) Notes - DM ONLY!"
+output:
+  html_document:
+      toc: yes
+      toc_float: yes
+      theme: readable
+---
+
+```{r global_options, include=F}
+knitr::opts_chunk$set(eval=F)
+```
+
+```{r eval=F, include=F}
+# Dependencies
+
+library(rmarkdown)
+library(knitr)
+```
+
+---
+
+Session log
+
+Action summaries
+
+* Add folding element to entry templates.
+* Make entry subheadings bold
+* construct experimentation methodolgy as mechanism for puzzle solving
+* teleportation circles
+* make a calendar
+
+* NPCs needed
+    + leader of local hero's union
+    + cell leader for emerald compact
+
+## Chars
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Traits:**
+* **Motivations:**
+* **Location:**
+* **Background:**
+
+</details>
+<br />
+
+### Farmer
+* **Traits:** old, feeble
+* **Motivations:** Live a simply after a life of adventuring
+* **Location:** Farm off main road outside main city
+* **Background:** Spent a career as an adventurer but has since retired
+
+
+### W. Fitzhugh Brundage
+* **Traits:** intelligent, curious, persistent
+* **Motivations:** discovery, aid the party in pursuit of discovery, support Progenitor Trust
+* **Location:** Threapnalt University
+* **Background:**
+    + Conducts academic work on the arcane.
+    + Stands as a leader in the early findings of arcane mechanisms (Ves-Tonder System).
+    + Currently expanding into area of esoteric drift.
+    + Is an active member of the Progenitor Trust.
+
+### Mule
+* **Traits:** feeble, psynic abilities, appears to be harmless
+* **Motivations:** serve BBG as main lieutenant
+* **Location:**
+* **Background:**
+
+---
+
+## Encounters
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Dungeon map:**
+* **Combat map:**
+* **Location:**
+* **Weather:**
+* **Environment:**
+
+</details>
+<br />
+
+---
+
+## Organizations
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Description:**
+* **Mission statement:**
+* **Motto:**
+* **Goals:**
+* **Location:**
+* **Services:**
+* **Membership:**
+* **NPCs:**
+* **Story arcs:**
+* **Background:**
+
+</details>
+<br />
+
+### Round Earth Society
+* **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
+* **Mission statement:** 
+* **Motto:** We're ahead of the curve.
+* **Goals:** Promote the belief that the world is spherical.
+* **Location:**
+* **Services:**
+* **Membership:**
+* **NPCs:** Leo Ferrari
+* **Story arcs:**
+* **Background:** This group is one of many elements who have embraced psuedointellectual leanings in the wake of the Awakening. The degree to which society's understanding of reality was fundamentally changed has uprooted many previously steadfast beliefs.
+
+### Progenitor Trust
+* **Description:** An order of Verdan mages who, previously beset by oppression, heavily embraced magic post-[awakening].
+* **Mission statement:**
+* **Motto:**
+* **Goals:** Employ academic head start in magic prowess to organize a coup. Upon seizing power, embark on aggressive conquest in expansion of race influence.
+* **Location:** Threapnalt University
+* **Services:**
+* **Membership:**
+* **NPCs:**
+    + W. Fitzhugh Brundage
+* **Story arcs:** 
+    + Realignment
+* **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
+
+### Emerald Compact
+* **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
+* **Mission statement:** 
+* **Motto:** The earth laughs in flowers
+* **Goals:** 
+    + Enlists agents to support their cause of environmental intervention.
+    + Coordinate efforts to obstruct humanoid causes of environmental damage by any means necessary.
+    + A primary target of their focus is the recent expansion in mining for magical ore.
+* **Location:** Unknown
+* **Services:**
+* **Membership:**
+    + Allegiance is sworn upon receiving an invitation to become an agent.
+    + Agents are conscripted to secrecy.
+    + All druids are given an opportunity at membership.
+* **NPCs:**
+* **Story arcs:**
+* **Background:**
+
+### Hero’s Alliance
+* **Description:** A union of adventuring members with common goals and public professional services.
+* **Mission statement:**
+* **Motto:** I wish to see what lies beyond
+* **Goals:**
+    + Provide public access to adventurer talent and services through contract hire.
+    + Serve as support union for adventurers.
+    + Give endless feed of easy quest plot hooks.
+    + Remain apolitical.
+* **Location:** Branches in most major cities.
+* **Services:**
+    + Contract to hire adventurer jobs
+    + Training
+    + Practice combat theater
+* **Membership:**
+    + Must be actively working as a professional adventurer.
+    + Complete a test job at discretion of branch warden
+* **NPCs:**
+* **Story arcs:**
+    + An introduction
+* **Background:**
+
+### Snail Mail
+* **Description:** [world name] Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
+* **Mission statement:**
+* **Motto:**
+* **Goals:** Provide high fidelity messaging services across the realm.
+* **Location:** Branches in most major cities.
+* **Services:**
+    + Priority Telepathy –
+    + Priority Express Telepathy -
+    + Beacon License – recipients receive charm which allows for persistent tracking in roaming message delivery.
+    + Joke payment – flail snails love jokes. A new joke (and food) can substitute as payment for a received message.
+* **Membership:**
+    + Standard pricing array for varying services
+    + Certain Licenses that allow for elevated access and pricing gratuity
+* **NPCs:** flail snail hive mind collective
+* **Story arcs:** An introduction
+* **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
+
+### Threapnalt University
+* **Description:** An institution of higher learning in the arcane arts
+* **Mission statement:**
+* **Motto:** Driven to Discover
+* **Goals:** Advance the discovery of arcane knowledge.
+* **Location:** Main city
+* **Services:**
+    + Library
+    + Training
+* **Membership:**
+    + Admissions process for students
+    + Hiring process for faculty
+* **NPCs:**
+    + W. Fitzhugh Brundage
+* **Story arcs:**
+    + Main plot
+    + Realignment
+* **Background:**
+
+---
+
+## Places
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Location:**
+* **Description:**
+* **NPCs:**
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
+</details>
+<br />
+
+---
+
+## Story arcs
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Outline:**
+    + Event:
+    + Impact:
+    + Call to action:
+    + Turn:
+    + Resolution:
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
+
+</details>
+<br />
+
+### Cows in the village
+
+### HA Contracts
+* Bandits have overrun a nearby holy site and captured priest. 
+    + Obj: Clear the site, and free priest.
+    + Pay: 
+* A monster is making travel dangerous to the NE. 
+    + Obj: Eliminate monster. Return with proof.
+    + Pay:
+* A local smith is experiencing daily vandalism. 
+    + Obj: Stand watch for night to deal with vandals.
+    + Pay:
+* A territorial dispute between merchant guilds has led to bouts of violence. 
+    + Obj: Mediate terms. Address any non-compliance.
+    + Pay:
+* A minning operation is experiencing insurrection among its workforce.
+    + Obj: Infiltrate the operation and eliminate sedition leadership.
+    + Pay: 
+* A noble is in need of an escort.
+    + Obj: Act as guide and defense for noble's detail
+    + Pay: 
+* Something with the university
+* Recent evidence of an assumed lost family heirloom has surfaced. 
+    + Obj: Confer with client, and retrieve item.
+    + Pay:
+* A farmer outside of town is experiencing frequent [monsters] run ins. 
+    + Obj: Inspect property, and eliminate [monsters].
+    + Pay:
+* The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
+    + Obj: Clear stronghold. Destroy any stronghold infrastructure.
+    + Pay:
+
+Join a banner to fight in Challenger Guantlet 
+
+### Main
+* **Outline:**
+    + *Event:*
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+        - "blackout" event where magic shuts off momentarily. BBG is testing something that impacts esoteric permanence.
+    + Transpired:**
+
+### Heralds Inbound
+* **Outline:**
+    + *Event:* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of "fresh" territory.
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
+
+### An Introduction
+* **Outline:**
+    + *Event:* PCs appear and witness farm being attacked.
+    + *Impact:* Risk of harm to everyone in area.
+    + *Call to action:* Only the party can save the farmer.
+    + *Turn:* Party decides to intervene.
+    + *Resolution:* Farmer is grateful and passes on prized adventuring items
+* **Exposition:** The PCs were drawn to the starting city as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
+* **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
+* **Chars:**
+    + Old farmer
+    + Attacking NPCs
+* **Plot hooks:**  NA
+* **Events:**
+    + Anticipated:**
+        - Random encounter with aggressor NPCs
+        - Party intervenes to save farmer
+        - Party carries on to investigate leads from items they received
+    + Transpired:**
+
+### Realignment
+* **Outline:**
+    + *Event:* The Progenitor Trust attempts to organize a coup and seize power within their locality.
+    + *Impact:* With their early investments in magical capability, the Trust is able to upend the historical power structure and seek greater ambitions (conquest).
+    + *Call to action:* 1) Gain sympathy of party and participate in the coup. 2) Prevent coup.
+    + *Turn:* 1) Party becomes aware of intentions beyond coup
+    + *Resolution:* Party succeeds in either C2A they choose.
+* **Exposition:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
+* **Items:**
+* **Chars:**
+* **Plot hooks:** 
+* **Events:**
+    + Anticipated:**
+        - Party interacts with race leadership.
+        - Blackout creates window for local leader to raid race hq.
+        - Coup succeeds and race installs new power structure.
+        - Race begins expansion of forces in effort to embark on aggressive conquest
+    + Transpired:**
+
+
+### Arms Race
+* **Outline:**
+    + *Event:* arms manufacturer offers lucrative contract to party
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
+
+### Twin Metals
+* **Outline:**
+    + *Event:* mining for magical ore has expanded dramatically
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
+
+---
+
+## Things
+
+<details>
+
+  <summary>**Template**</summary>
+
+* **Qualities:**
+* **Location:**
+* **Background:**
+
+</details>
+<br />
+
+ArcReader, Snail Mail beacon license
+
