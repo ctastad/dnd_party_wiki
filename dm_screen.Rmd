@@ -18,17 +18,16 @@ library(rmarkdown)
 library(knitr)
 ```
 
+## Session
+
 ---
 
 Session log
 
 Action summaries
 
-* Add folding element to entry templates.
-* Make entry subheadings bold
 * construct experimentation methodolgy as mechanism for puzzle solving
 * teleportation circles
-* make a calendar
 
 * NPCs needed
     + leader of local hero's union
@@ -87,6 +86,19 @@ Action summaries
 
 </details>
 <br />
+
+* poem that is a for loop to complete task
+* backward wall - wall appears when party turns around. cryptic enscription indicating they need to walk backward to go forward
+* rude door
+* items dissappear, task completed without equipment
+* prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
+* pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
+* hoffman encoding for BBG encrypted messages
+* graph algorithm
+* timed effects
+* kobe - party needs to cast fireball through basketball hoop
+* https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
+
 
 ---
 
@@ -256,6 +268,55 @@ Action summaries
 
 </details>
 <br />
+
+main premise
+
+* EVENT: main villan introduces magic to realm
+* MOTIVATION: his realm is failing. player realm contains resource that sustains magic with his influence. entering player realm allows him to continue magical work (become divinity or something)
+* PLAYER CHOICE: recieve benefits of magic at the expense of authoritarian/theocratic rule under villan or eliminate villan and lose magic.
+* PLAYER DISCOVERY: identify method to sustain resource independently and weaken villan.
+* PLAYER GOAL: enable resource. defeate villan.
+
+An Alhoon is probably the best candidate for BB.
+
+https://docs.google.com/document/d/1ADbrYtsI6_EhYRgBtzKQB1Iv4TgbouZfLKV7YRU2XeM/edit
+
+Either arcane tearing or esoteric drift stand as the best mechanism to explain the introduction and interference of magic.
+
+With esoteric drift:
+
+* The realm lacks magical properties due to an arcane energy void
+* BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
+* BB discovers method to manipulate esoteric drift that fills arcane void, making interaction with the weave possible
+* Need: ability or artifact to manipulate esoteric drift.
+* This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
+* Party can discover method of controlling ability or forging artifact to give esoteric drift permanence.
+
+
+subplots
+
+* with great power comes great imbalance
+* genocide of religious cultural faction
+* magic discovered in faction previously subjecgated creates full realignment of power dynamics.
+
+leader wants to harvest magic resource to detrimental effect
+political factions of mage guild
+strong spell castor working on behalf of big bad. getting in on the ground floor
+member of zealots helps party
+
+* order of thieves - secretly enlist party thief as plot mechanism
+* construct experimentation methodolgy as mechanism for puzzle solving
+* create historian character to provide exposition on discovery of magic
+* create university and academic chars to provide exposition on magical properties
+* subjegated race embraces magic early and forms strong fabric within magic community at heart of country where magic is introduced. they intend to over throw their oppressors and embark on aggressive conquest.
+* radical environmentalist group forms and enlists agents to support their cause of intervention
+* mining for magical ore has expanded dramatically
+* [world name] distributed messaging brokerage - A service of the flail snail hive mind collective. party receives credentials for premium beacon \"tracking\" service. snails take payment in food or jokes.
+* create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for BBG.
+* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
+* arms manufacturer offers lucrative contract to party
+
+
 
 ### Cows in the village
 
