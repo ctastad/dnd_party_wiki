@@ -39,24 +39,46 @@ Action summaries
 
   <summary>**Template**</summary>
 
-* **Traits:**
+* **Race:**
+* **Class:**
 * **Motivations:**
+* **Traits:**
 * **Location:**
 * **Background:**
 
 </details>
 <br />
 
+### Leo Ferrari
+* **Race:**
+* **Class:**
+* **Motivations:**
+* **Traits:**
+* **Location:**
+* **Background:**
+
+### Prahmethoth
+* **Race:** Alhoon
+* **Class:**
+* **Motivations:**
+* **Traits:**
+* **Location:**
+* **Background:**
+
 ### Farmer
-* **Traits:** old, feeble
+* **Race:** Alhoon
+* **Class:**
 * **Motivations:** Live a simply after a life of adventuring
+* **Traits:** old, feeble
 * **Location:** Farm off main road outside main city
 * **Background:** Spent a career as an adventurer but has since retired
 
 
 ### W. Fitzhugh Brundage
-* **Traits:** intelligent, curious, persistent
+* **Race:**
+* **Class:**
 * **Motivations:** discovery, aid the party in pursuit of discovery, support Progenitor Trust
+* **Traits:** intelligent, curious, persistent
 * **Location:** Threapnalt University
 * **Background:**
     + Conducts academic work on the arcane.
@@ -65,6 +87,8 @@ Action summaries
     + Is an active member of the Progenitor Trust.
 
 ### Mule
+* **Race:**
+* **Class:**
 * **Traits:** feeble, psynic abilities, appears to be harmless
 * **Motivations:** serve BBG as main lieutenant
 * **Location:**
@@ -87,6 +111,8 @@ Action summaries
 </details>
 <br />
 
+puzzle ideas
+
 * poem that is a for loop to complete task
 * backward wall - wall appears when party turns around. cryptic enscription indicating they need to walk backward to go forward
 * rude door
@@ -98,7 +124,6 @@ Action summaries
 * timed effects
 * kobe - party needs to cast fireball through basketball hoop
 * https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
-
 
 ---
 
@@ -223,7 +248,7 @@ Action summaries
 * **Story arcs:**
     + Main plot
     + Realignment
-* **Background:**
+* **Background:** Named for founding leader of Progenitor Trust.
 
 ---
 
@@ -269,19 +294,8 @@ Action summaries
 </details>
 <br />
 
-main premise
-
-* EVENT: main villan introduces magic to realm
-* MOTIVATION: his realm is failing. player realm contains resource that sustains magic with his influence. entering player realm allows him to continue magical work (become divinity or something)
-* PLAYER CHOICE: recieve benefits of magic at the expense of authoritarian/theocratic rule under villan or eliminate villan and lose magic.
-* PLAYER DISCOVERY: identify method to sustain resource independently and weaken villan.
-* PLAYER GOAL: enable resource. defeate villan.
-
-An Alhoon is probably the best candidate for BB.
 
 https://docs.google.com/document/d/1ADbrYtsI6_EhYRgBtzKQB1Iv4TgbouZfLKV7YRU2XeM/edit
-
-Either arcane tearing or esoteric drift stand as the best mechanism to explain the introduction and interference of magic.
 
 With esoteric drift:
 
@@ -292,17 +306,9 @@ With esoteric drift:
 * This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
 * Party can discover method of controlling ability or forging artifact to give esoteric drift permanence.
 
-
 subplots
 
-* with great power comes great imbalance
-* genocide of religious cultural faction
-* magic discovered in faction previously subjecgated creates full realignment of power dynamics.
-
-leader wants to harvest magic resource to detrimental effect
 political factions of mage guild
-strong spell castor working on behalf of big bad. getting in on the ground floor
-member of zealots helps party
 
 * order of thieves - secretly enlist party thief as plot mechanism
 * construct experimentation methodolgy as mechanism for puzzle solving
@@ -315,8 +321,6 @@ member of zealots helps party
 * create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for BBG.
 * gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
 * arms manufacturer offers lucrative contract to party
-
-
 
 ### Cows in the village
 
@@ -352,16 +356,23 @@ member of zealots helps party
 
 Join a banner to fight in Challenger Guantlet 
 
-### Main
+* EVENT: main villan introduces magic to realm
+* MOTIVATION: his realm is failing. player realm contains resource that sustains magic with his influence. entering player realm allows him to continue magical work (become divinity or something)
+* PLAYER CHOICE: recieve benefits of magic at the expense of authoritarian/theocratic rule under villan or eliminate villan and lose magic.
+* PLAYER DISCOVERY: identify method to sustain resource independently and weaken villan.
+* PLAYER GOAL: enable resource. defeate villan.
+
+### A Titan's Price
 * **Outline:**
-    + *Event:*
-    + *Impact:*
-    + *Call to action:*
-    + *Turn:*
-    + *Resolution:*
-* **Exposition:**
+    + *Event:* Prahmethoth introduces magic to realm.
+    + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technilogical awakening.
+    + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
+    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of the arcane weave, rendering him virtually invincible.
+    + *Resolution:* The PCs attempt to develop a method for esoteric permanence, allowing them to fight Prahmethoth at full strength.
+* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacany. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
 * **Items:**
 * **Chars:**
+    + Prahmethoth
 * **Plot hooks:**  
 * **Events:**
     + Anticipated:**

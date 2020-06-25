@@ -28,9 +28,7 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
 ### References
 
 * [DnD Basic Rules](https://drive.google.com/file/d/12kdrzVSJmqy78xfFPGM8HIXh7bm4Ec8n/view?usp=sharing)
-
 * [Player's Handbook](https://drive.google.com/file/d/1vKoi7vRftAFWLN-eeHB6zmuCcbnA6Hk3/view?usp=sharing)
-
 * [The Trove](https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/Core/)
     + This is a hosted repo of basically all table top game references you could imagine. If you delve into this make sure you are looking at DnD e5 core resources. Magic, realms, and other parameters change significantly across different modules.
 
@@ -38,37 +36,30 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
 
 * [Static Char Sheet](https://drive.google.com/file/d/1zw8NibT7-nNpPnV85ZKedEOG_jL1_2uO/view?usp=sharing)
     + This is the base character sheet, useful if you wish to handwrite your char.
-
 * [Auto Char Sheet](https://docs.google.com/spreadsheets/d/1fW7mVdOvDuSKiaq2zZX2EXvSYbl2WbqHFrd3QYIhx1k/edit?usp=sharing)
     + This is a google spreadsheet that will auto tabulate a significant portion of char parameters.
     + Also, if you wish to import your char into the Avrae bot on the Discord server, this sheet will allow you to do that.
     + See Avrae Bot > Full Command List > SheetManager
-
 * [Char Gen Tutorial](https://www.youtube.com/watch?v=vGyk5piGwrQ)
     + This is part 1 of 4 of a detailed video series walk through on first time char creation.
     + I found it very informative and would encourage everyone to watch it.
 
 #### PCs
 
-* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
-
-* [Vaer&uuml;une](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
-
-* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
-
-* [Uzi Soggybottom]() (Gervais)
-
 * [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
+* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
+* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
+* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
+* [Vaer&uuml;une](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
 
 ---
 
 ### Table top
 
-* Discord Server
+* [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
     + This server will provide several channels to organize party communication and in-game reference distribution.
-
-* [Combat theater](https://docs.google.com/spreadsheets/d/1z-yJxw-qwyysn1RGJ2UJUVPpVjCb3FZO4DGWxrPcfSk/edit?usp=sharing)
-    + On the ground, tactical game play will take place on this document.
+* [Combat theater](https://shmeppy.com/) (Schmeppy)
+    + On the ground, tactical game play will take place in this app.
 
 ---
 
@@ -83,7 +74,6 @@ Below are a collection of basic commands I imagine will be more commonly used. T
 I adjusted the prefix from `!` to `\`, so the syntax should be:
 
 * `\cmd|altcmd arguments`
-
 * [Full Command List](https://avrae.io/commands)
 
 Help command
