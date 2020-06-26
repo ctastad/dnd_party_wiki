@@ -217,6 +217,13 @@ puzzle ideas
 * rude door
 * items dissappear, task completed without equipment
 * prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
+    + players role covert int saves
+    + split party in half to seperately meet the king
+    + king explains they've been selected for their intelectual and strategic prowess and brought to his "strategic plane" (think of better term for situation room)
+    + king states he is in need of guidance on how to spend resources in his kingdom for the next 3 yrs relative to his neighboring rival
+    + he can invest in his kingdom or go to war
+    + should he prepare for peace or prepare for war
+    + players receive payment for lucrative guidance and punishment for lopsided outcomes.
 * pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
 * hoffman encoding for BBG encrypted messages
 * graph algorithm
