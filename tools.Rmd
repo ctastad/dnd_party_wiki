@@ -32,7 +32,7 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
 * [Player's Handbook](https://drive.google.com/file/d/1vKoi7vRftAFWLN-eeHB6zmuCcbnA6Hk3/view?usp=sharing)
 
 * [The Trove](https://thetrove.net/Books/Dungeons%20&%20Dragons/5th%20Edition%20(5e)/Core/)
-    + This is a hosted repo of basically all table top game references you could imagine. If you delve into this make sure you are looking at DnD e5 core resources. Magic, realms, and other parameters change significantly across different modules.
+    + This is a hosted repo of basically all table top game references you could imagine. If you delve into this make sure you are looking at DnD 5e core resources. Magic, realms, and other parameters change significantly across different modules.
 
 ### Char Building
 
@@ -68,7 +68,7 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
     + This server will provide several channels to organize party communication and in-game reference distribution.
 
 * [Combat theater](https://docs.google.com/spreadsheets/d/1z-yJxw-qwyysn1RGJ2UJUVPpVjCb3FZO4DGWxrPcfSk/edit?usp=sharing)
-    + On the ground, tactical game play will take place on this document.
+    + On the ground, tactical game play and dungeon crawling will take place on this document.
 
 ---
 
