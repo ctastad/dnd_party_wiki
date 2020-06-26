@@ -18,10 +18,6 @@ library(rmarkdown)
 library(knitr)
 ```
 
-## Session
-
----
-
 Session log
 
 Action summaries
@@ -32,6 +28,109 @@ Action summaries
 * NPCs needed
     + leader of local hero's union
     + cell leader for emerald compact
+
+## Session Notes {.tabset .tabset-fade}
+
+### Current
+
+#### Previous Summary
+
+NA
+
+#### Game Dates
+* **Start:** 3rd day of Kythorn (The Time of Flowers)
+* **End:**
+
+#### NPCs Present
+*
+
+#### Location(s)
+*
+
+#### General Loot
+*
+
+#### Plot Hooks
+*
+
+#### UA NPCs
+*
+
+#### UA Encounters
+*
+
+#### Session Events
+*
+
+---
+
+### Template
+
+#### Previous Summary
+
+NA
+
+#### Game Dates
+* **Start:**
+* **End:**
+
+#### NPCs Present
+*
+
+#### Location(s)
+*
+
+#### General Loot
+*
+
+#### Plot Hooks
+*
+
+#### UA NPCs
+*
+
+#### UA Encounters
+*
+
+#### Session Events
+*
+
+---
+
+### 0
+
+My job as DM:
+
+* Success as a DM
+    + is delivering narrative depth, game realism, and player reward through process. Winning does not take a binary form in DnD. Those can be player goals as well. 
+* Specifics of my job as DM
+    + I am the god of this world, but my purpose is to be an impartial narrator and referee. When I use discretion, it will always be in the larger interest of the above stated goals.
+    + There will routinely be game knowledge I need but don't posses in the moment. As a result, I will be constantly thinking of the cost-benefit of how difficult it would be to address the lacking info. If it's prohibitive, I will make a judgement and note I need to clarify post-session.
+* I will generally be hands off.
+* The story may be fragmented.
+    + and things may feel clunky and we may ultimately never complete major arcs. My job is to guide the game in a manner that is adaptive to the direction, momentum, and needs of the party.
+
+Your job as players:
+
+* Participate in the creation of the world.
+    + There are times I may call on you to do this. There are times you will be totally unaware your actions spurred unplanned events. You are just as vital as the DM to the creation of the narrative.
+* Embrace the suspension of disbelief.
+    + Avoid metagame awareness by compartmentalizing knowledge and working through mechanisms that make sense for your char.
+* Personify your char as much as possible.
+    + Aim for maximum cognitive immersion. DnD is unique in the level of mental access you have to connect with and guide the actions of a char. Strengths are obviously emphasized, but flaws hold relevance too.
+* Cheating or buffing gameplay holds no value.
+    + Meaningful party outcomes, good or bad, are where success is had. As the players of dwarf fortress say, "losing is fun". Get out of the "beowulf" mindset (success is automatic and always assumed).
+* Cheating in-character definitely holds value
+    + but it should make sense. For instance, a CN type would be out of character only doing good natured things. Steal from the party, murder every hobo, just do it with broad consideration for relevance and impact.
+* Talking about success
+    + it includes the thoughts and preferences of each party member. If something makes you uncomfortable, if there is an aspect of game play you'd like to see elevated or diminished, raise these issues as we go.
+
+---
+
+### 0627
+
+
+---
 
 ## Chars
 
@@ -149,7 +248,7 @@ puzzle ideas
 
 ### Round Earth Society
 * **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
-* **Mission statement:** 
+* **Mission statement:**
 * **Motto:** We're ahead of the curve.
 * **Goals:** Promote the belief that the world is spherical.
 * **Location:**
@@ -169,15 +268,15 @@ puzzle ideas
 * **Membership:**
 * **NPCs:**
     + W. Fitzhugh Brundage
-* **Story arcs:** 
+* **Story arcs:**
     + Realignment
 * **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
 
 ### Emerald Compact
 * **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
-* **Mission statement:** 
+* **Mission statement:**
 * **Motto:** The earth laughs in flowers
-* **Goals:** 
+* **Goals:**
     + Enlists agents to support their cause of environmental intervention.
     + Coordinate efforts to obstruct humanoid causes of environmental damage by any means necessary.
     + A primary target of their focus is the recent expansion in mining for magical ore.
@@ -325,36 +424,39 @@ political factions of mage guild
 ### Cows in the village
 
 ### HA Contracts
-* Bandits have overrun a nearby holy site and captured priest. 
+* Bandits have overrun a nearby holy site and captured priest.
     + Obj: Clear the site, and free priest.
-    + Pay: 
-* A monster is making travel dangerous to the NE. 
+    + Pay:
+* A monster is making travel dangerous to the NE.
     + Obj: Eliminate monster. Return with proof.
     + Pay:
-* A local smith is experiencing daily vandalism. 
+* A local smith is experiencing daily vandalism.
     + Obj: Stand watch for night to deal with vandals.
     + Pay:
-* A territorial dispute between merchant guilds has led to bouts of violence. 
+* A territorial dispute between merchant guilds has led to bouts of violence.
     + Obj: Mediate terms. Address any non-compliance.
     + Pay:
 * A minning operation is experiencing insurrection among its workforce.
     + Obj: Infiltrate the operation and eliminate sedition leadership.
-    + Pay: 
+    + Pay:
 * A noble is in need of an escort.
     + Obj: Act as guide and defense for noble's detail
-    + Pay: 
+    + Pay:
 * Something with the university
-* Recent evidence of an assumed lost family heirloom has surfaced. 
+* Recent evidence of an assumed lost family heirloom has surfaced.
     + Obj: Confer with client, and retrieve item.
     + Pay:
-* A farmer outside of town is experiencing frequent [monsters] run ins. 
+* A farmer outside of town is experiencing frequent [monsters] run ins.
     + Obj: Inspect property, and eliminate [monsters].
     + Pay:
 * The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
     + Obj: Clear stronghold. Destroy any stronghold infrastructure.
     + Pay:
+* A dragon hatchling has been discovered in the countryside.
+    + Obj: Venture to its nest and eliminate it before it becomes a major liability
+    + Pay:
 
-Join a banner to fight in Challenger Guantlet 
+Join a banner to fight in Challenger Guantlet
 
 * EVENT: main villan introduces magic to realm
 * MOTIVATION: his realm is failing. player realm contains resource that sustains magic with his influence. entering player realm allows him to continue magical work (become divinity or something)
