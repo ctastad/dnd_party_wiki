@@ -44,28 +44,14 @@ Our party organization will primarily revolve around 3 main tools: this wiki, a 
     + This is part 1 of 4 of a detailed video series walk through on first time char creation.
     + I found it very informative and would encourage everyone to watch it.
 
-#### PCs
-
-* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
-* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
-* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
-* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
-* [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
-
 ---
 
 ### Table top
 
 * [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
     + This server will provide several channels to organize party communication and in-game reference distribution.
-<<<<<<< HEAD
 * [Combat theater](https://shmeppy.com/) (Schmeppy)
     + On the ground, tactical game play will take place in this app.
-=======
-
-* [Combat theater](https://docs.google.com/spreadsheets/d/1z-yJxw-qwyysn1RGJ2UJUVPpVjCb3FZO4DGWxrPcfSk/edit?usp=sharing)
-    + On the ground, tactical game play and dungeon crawling will take place on this document.
->>>>>>> 066873801d39865ce9344f06ffeb018562e9c5c5
 
 ---
 

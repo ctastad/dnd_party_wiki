@@ -129,6 +129,30 @@ Your job as players:
 
 ### 0627
 
+---
+
+## Tools
+
+### Tables
+
+* [DM Tables](https://dungeonmastertools.github.io/)
+    + Player ref sheet
+    + Treasure tables
+    + Magic Items tables
+    + Travel
+* [donjon](https://donjon.bin.sh/5e/)
+    + Spell sheet
+    + Enc table
+    + Shop generator
+    + Dungeon generator
+
+### PCs
+
+* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
+* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
+* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
+* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
+* [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
 
 ---
 
@@ -148,6 +172,9 @@ Your job as players:
 </details>
 <br />
 
+### UA NPCs
+* npc bard named onry strong sense of nationalism
+
 ### Leo Ferrari
 * **Race:**
 * **Class:**
@@ -165,12 +192,12 @@ Your job as players:
 * **Background:**
 
 ### Farmer
-* **Race:** Alhoon
+* **Race:**
 * **Class:**
 * **Motivations:** Live a simply after a life of adventuring
 * **Traits:** old, feeble
-* **Location:** Farm off main road outside main city
-* **Background:** Spent a career as an adventurer but has since retired
+* **Location:** Farm off main road south of Holworth.
+* **Background:** Spent a career as an adventurer but has since retired.
 
 
 ### W. Fitzhugh Brundage
@@ -342,7 +369,7 @@ puzzle ideas
 * **Mission statement:**
 * **Motto:** Driven to Discover
 * **Goals:** Advance the discovery of arcane knowledge.
-* **Location:** Main city
+* **Location:** Holworth, Noon Orchard district
 * **Services:**
     + Library
     + Training
@@ -453,7 +480,7 @@ political factions of mage guild
 * Recent evidence of an assumed lost family heirloom has surfaced.
     + Obj: Confer with client, and retrieve item.
     + Pay:
-* A farmer outside of town is experiencing frequent [monsters] run ins.
+* A farmer outside of town is experiencing a giant wolf spider infestation.
     + Obj: Inspect property, and eliminate [monsters].
     + Pay:
 * The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
@@ -510,11 +537,11 @@ Join a banner to fight in Challenger Guantlet
     + *Call to action:* Only the party can save the farmer.
     + *Turn:* Party decides to intervene.
     + *Resolution:* Farmer is grateful and passes on prized adventuring items
-* **Exposition:** The PCs were drawn to the starting city as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
+* **Exposition:** The PCs were drawn to Holworth as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
 * **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
 * **Chars:**
     + Old farmer
-    + Attacking NPCs
+    + Attacking giant wolf spiders
 * **Plot hooks:**  NA
 * **Events:**
     + Anticipated:**
