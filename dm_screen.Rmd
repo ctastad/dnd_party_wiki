@@ -22,7 +22,7 @@ Session log
 
 Action summaries
 
-* construct experimentation methodolgy as mechanism for puzzle solving
+* construct experimentation methodology as mechanism for puzzle solving
 * teleportation circles
 
 * NPCs needed
@@ -35,17 +35,20 @@ Action summaries
 
 #### Previous Summary
 
-NA
+* On their journey to Holworth, came across a farmer’s plot and fought a collection of wolf spiders.
+* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be redeemed at the Snail Mail office, and the ArcReader. Ashitaka provides a tender offering of a love pillow to the farmer.
+* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+* The party set out to complete contract #1 and ended the session outside the holy site.
 
 #### Game Dates
 * **Start:** 3rd day of Kythorn (The Time of Flowers)
 * **End:**
 
 #### NPCs Present
-*
+* None
 
 #### Location(s)
-*
+* Holy site from HA contract #1
 
 #### General Loot
 *
@@ -128,6 +131,39 @@ Your job as players:
 ---
 
 ### 0627
+
+#### Previous Summary
+
+NA
+
+#### Game Dates
+* **Start:** 3rd day of Kythorn (The Time of Flowers)
+* **End:** 3rd day of Kythorn (The Time of Flowers)
+
+#### NPCs Present
+*
+
+#### Location(s)
+* Hero's Alliance
+* Wonky Donkey
+
+#### General Loot
+*
+
+#### Plot Hooks
+*
+
+#### UA NPCs
+*
+
+#### UA Encounters
+*
+
+#### Session Events
+* On their journey to Holworth, came across a farmer’s plot and fought a collection of wolf spiders.
+* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be redeemed at the Snail Mail office, and the ArcReader. Ashitaka provides a tender offering of a love pillow to the farmer.
+* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+* The party set out to complete contract #1 and ended the session outside the holy site.
 
 ---
 
@@ -216,9 +252,33 @@ Your job as players:
 * **Race:**
 * **Class:**
 * **Traits:** feeble, psynic abilities, appears to be harmless
-* **Motivations:** serve BBG as main lieutenant
+* **Motivations:** serve Prahmethoth as main lieutenant
 * **Location:**
 * **Background:**
+
+### Siyorac
+* **Race:**
+* **Class:** Guard
+* **Traits:**
+* **Motivations:** Serve Aldock
+* **Location:** Holworth South Gate
+* **Background:**
+
+### Laquillal
+* **Race:** Orc
+* **Class:** Barkeep, commoner
+* **Traits:** Non-binary, energetic
+* **Motivations:** Serve good beer
+* **Location:** Wonky Donkey
+* **Background:** Laquillal is the barkeep of the Wonky Donkey.
+
+### Asarkal
+* **Race:** Human
+* **Class:** Warlock
+* **Traits:** loyal, organized
+* **Motivations:** Serve with dignity
+* **Location:** Holworth Hero's Alliance
+* **Background:** Asarkal is the commander of the Holworth HA branch.
 
 ---
 
@@ -240,19 +300,19 @@ Your job as players:
 puzzle ideas
 
 * poem that is a for loop to complete task
-* backward wall - wall appears when party turns around. cryptic enscription indicating they need to walk backward to go forward
+* backward wall - wall appears when party turns around. Cryptic inscription indicating they need to walk backward to go forward
 * rude door
-* items dissappear, task completed without equipment
+* items disappear, task completed without equipment
 * prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
     + players role covert int saves
-    + split party in half to seperately meet the king
-    + king explains they've been selected for their intelectual and strategic prowess and brought to his "strategic plane" (think of better term for situation room)
+    + split party in half to separately meet the king
+    + king explains they've been selected for their intellectual and strategic prowess and brought to his "strategic plane" (think of better term for situation room)
     + king states he is in need of guidance on how to spend resources in his kingdom for the next 3 yrs relative to his neighboring rival
     + he can invest in his kingdom or go to war
     + should he prepare for peace or prepare for war
     + players receive payment for lucrative guidance and punishment for lopsided outcomes.
 * pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
-* hoffman encoding for BBG encrypted messages
+* hoffman encoding for Prahmethoth encrypted messages
 * graph algorithm
 * timed effects
 * kobe - party needs to cast fireball through basketball hoop
@@ -402,6 +462,24 @@ puzzle ideas
 </details>
 <br />
 
+### Wonkey Donkey
+* **Location:** Holworth, Stormgrove dist
+* **Description:** Energetic atmosphere
+* **NPCs:** Laquillal
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
+### Holworth Hero's Alliance
+* **Location:** Holworth, Applearch
+* **Description:**
+* **NPCs:** Asarkal
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
 ---
 
 ## Story arcs
@@ -444,75 +522,70 @@ subplots
 political factions of mage guild
 
 * order of thieves - secretly enlist party thief as plot mechanism
-* construct experimentation methodolgy as mechanism for puzzle solving
+* construct experimentation methodology as mechanism for puzzle solving
 * create historian character to provide exposition on discovery of magic
 * create university and academic chars to provide exposition on magical properties
-* subjegated race embraces magic early and forms strong fabric within magic community at heart of country where magic is introduced. they intend to over throw their oppressors and embark on aggressive conquest.
+* subjugated race embraces magic early and forms strong fabric within magic community at heart of country where magic is introduced. they intend to over throw their oppressors and embark on aggressive conquest.
 * radical environmentalist group forms and enlists agents to support their cause of intervention
 * mining for magical ore has expanded dramatically
 * [world name] distributed messaging brokerage - A service of the flail snail hive mind collective. party receives credentials for premium beacon \"tracking\" service. snails take payment in food or jokes.
-* create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for BBG.
+* create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for Prahmethoth
 * gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
 * arms manufacturer offers lucrative contract to party
 
 ### Cows in the village
 
 ### HA Contracts
-* Bandits have overrun a nearby holy site and captured priest.
+1. Bandits have overrun a nearby holy site and captured priest.
     + Obj: Clear the site, and free priest.
-    + Pay:
-* A monster is making travel dangerous to the NE.
+    + Pay: 200gp
+2. A monster is making travel dangerous to the NE.
     + Obj: Eliminate monster. Return with proof.
-    + Pay:
-* A local smith is experiencing daily vandalism.
+    + Pay: 100gp
+3. A local smith is experiencing daily vandalism.
     + Obj: Stand watch for night to deal with vandals.
-    + Pay:
-* A territorial dispute between merchant guilds has led to bouts of violence.
+    + Pay: 125gp, use of shop
+4. A territorial dispute between merchant guilds has led to bouts of violence.
     + Obj: Mediate terms. Address any non-compliance.
-    + Pay:
-* A minning operation is experiencing insurrection among its workforce.
+    + Pay: 300gp
+5. A farmer outside of town is experiencing a giant wolf spider infestation.
+    + Obj: Inspect property, and eliminate [monsters].
+    + Pay: 50gp
+6. The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
+    + Obj: Clear stronghold. Destroy any stronghold infrastructure.
+    + Pay: 225gp
+7. A dragon hatchling has been discovered in the countryside.
+    + Obj: Venture to its nest and eliminate it before it becomes a major liability
+    + Pay: 150gp
+
+8. A noble is in need of an escort.
+    + Obj: Act as guide and defense for noble's detail
+    + Pay: 300gp
+9. A mining operation is experiencing insurrection among its workforce.
     + Obj: Infiltrate the operation and eliminate sedition leadership.
     + Pay:
-* A noble is in need of an escort.
-    + Obj: Act as guide and defense for noble's detail
-    + Pay:
-* Something with the university
-* Recent evidence of an assumed lost family heirloom has surfaced.
+10. Recent evidence of an assumed lost family heirloom has surfaced.
     + Obj: Confer with client, and retrieve item.
     + Pay:
-* A farmer outside of town is experiencing a giant wolf spider infestation.
-    + Obj: Inspect property, and eliminate [monsters].
-    + Pay:
-* The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
-    + Obj: Clear stronghold. Destroy any stronghold infrastructure.
-    + Pay:
-* A dragon hatchling has been discovered in the countryside.
-    + Obj: Venture to its nest and eliminate it before it becomes a major liability
-    + Pay:
+11. Something with the university
 
-Join a banner to fight in Challenger Guantlet
-
-* EVENT: main villan introduces magic to realm
-* MOTIVATION: his realm is failing. player realm contains resource that sustains magic with his influence. entering player realm allows him to continue magical work (become divinity or something)
-* PLAYER CHOICE: recieve benefits of magic at the expense of authoritarian/theocratic rule under villan or eliminate villan and lose magic.
-* PLAYER DISCOVERY: identify method to sustain resource independently and weaken villan.
-* PLAYER GOAL: enable resource. defeate villan.
+Join a banner to fight in Challenger Gauntlet
 
 ### A Titan's Price
 * **Outline:**
     + *Event:* Prahmethoth introduces magic to realm.
-    + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technilogical awakening.
+    + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technological awakening.
     + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
-    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of the arcane weave, rendering him virtually invincible.
+    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of esoteric drift, rendering him virtually invincible.
     + *Resolution:* The PCs attempt to develop a method for esoteric permanence, allowing them to fight Prahmethoth at full strength.
-* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacany. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
+* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
 * **Items:**
 * **Chars:**
     + Prahmethoth
 * **Plot hooks:**  
 * **Events:**
     + Anticipated:**
-        - "blackout" event where magic shuts off momentarily. BBG is testing something that impacts esoteric permanence.
+        - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts esoteric permanence.
     + Transpired:**
 
 ### Heralds Inbound
