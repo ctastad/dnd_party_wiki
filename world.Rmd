@@ -24,17 +24,36 @@ library(knitr)
 
 ---
 
-### [PC Name] (Chang)
+### Ashitaka (Chang)
 
 * Class: Paladin
-* Race:
+* Race: Dragonborn
 * Skill Rolls: 15, 14, 13, 12, 10, 8
 
 #### Niche
 
+Tank
+
 #### Background
 
+History:
+I grew up in a remote village of dragonborns, and I was chosen to be a holy soldier for Sirrion. I was tantalized by the stories of passing merchants and travelers, and I dreamed of going on a grand adventure. My curiosity and distain for commands often landed me in trouble with the elders of the tribe. I always questioned the reasoning behind my duties, and I often disobeyed. At 13, I refused an order to execute a villager who had been accused of heresy. The Church of Sirrion ex-communicated me, and I was banished from the tribe. I embarked on my grand adventure to seek freedom and to defend the oppressed.
+
+Background: Outlander
+
+Origin: Outcast
+
+Personality trait: I value my personal freedom the most, and every action I take is on my own volition. I detest oppressors and love new and interesting people.
+
+Ideal: Change. Life is like the seasons, in constant change, and we must change with it.
+
+Bond: I seek to free and protect those bounded by physical or metaphorical chains.
+
+Flaw: Large crowds and tight spaces give me anxiety, and I am easily enticed by slabs of meat.
+
 #### Goals
+
+Have fun, learn new things, and meet new people
 
 ---
 
@@ -129,6 +148,38 @@ I grew up in the forests of Northwest Faerûn, but was born near Waterdeep. My m
 I strive for balance and harmony through the creation and conservation of living beings. I am young (for an elf) so I have a strong tendency to be independent. I challenge the betrayal of nature in any form and seek to fight those aligned with darkness.
 
 ---
+
+### Siyorac
+* **Race:** Human
+* **Class:** Guard
+* **Traits:**
+* **Motivations:** Serve Aldock
+* **Location:** Holworth South Gate
+* **Background:**
+
+### Laquillal
+* **Race:** Orc
+* **Class:** Barkeep, commoner
+* **Traits:** Non-binary, energetic
+* **Motivations:** Serve good beer
+* **Location:** Wonky Donkey
+* **Background:** Laquillal is the barkeep of the Wonky Donkey.
+
+### Asarkal
+* **Race:** Human
+* **Class:** Warlock
+* **Traits:** loyal, organized
+* **Motivations:** Serve with dignity
+* **Location:** Holworth Hero's Alliance
+* **Background:** Asarkal is the commander of the Holworth HA branch.
+
+### Farmer
+* **Race:** Human
+* **Class:** Fighter
+* **Motivations:** Live a simply after a life of adventuring
+* **Traits:** old, feeble
+* **Location:** Farm off main road south of Holworth.
+* **Background:** Spent a career as an adventurer with wife but has since retired.
 
 ### Big Bad Guy
 

@@ -1,0 +1,8 @@
+### [NPC NAME]
+* **Race:**
+* **Class:**
+* **Motivations:**
+* **Traits:**
+* **Location:**
+* **Background:**
+

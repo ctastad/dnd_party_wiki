@@ -1,0 +1,70 @@
+#### Previous Summary
+*
+
+#### Game Dates
+* **Start:**
+* **End:**
+
+#### NPCs Present
+*
+
+#### Starting Conditions
+* **Weather:**
+* **Location(s):**
+    + *Start:*
+    +
+* **Circumstances:**
+
+#### Session Events
+*
+
+#### UA Content
+
+*Loot*
+
+* axe
+
+*Plot Hooks*
+
+*
+
+*Random Encounters*
+
+<details>
+  <summary>**Savanna - Hill**</summary>
+
+
+</details>
+
+<details>
+  <summary>**Grassland**</summary>
+
+
+</details>
+
+<details>
+  <summary>**Coastal - Tropical**</summary>
+
+
+</details>
+
+<details>
+  <summary>**Urban**</summary>
+
+
+</details>
+
+<details>
+  <summary>**Forest - Temperate**</summary>
+
+
+</details>
+
+</br>
+
+*NPCs*
+
+*
+
+---
+

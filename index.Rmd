@@ -2,8 +2,6 @@
 title: "![](armour.svg) Mead Hall"
 output:
   html_document:
-    toc: yes
-    toc_float: yes
     theme: readable
 ---
 
@@ -21,6 +19,39 @@ library(knitr)
 ### Weekly Recap {.tabset .tabset-fade}
 
 #### *
+
+My job as DM:
+
+* Success as a DM
+    + is delivering narrative depth, game realism, and player reward through process. Winning does not take a binary form in DnD. Those can be player goals as well. 
+* Specifics of my job as DM
+    + I am the god of this world, but my purpose is to be an impartial narrator and referee. When I use discretion, it will always be in the larger interest of the above stated goals.
+    + There will routinely be game knowledge I need but don't posses in the moment. As a result, I will be constantly thinking of the cost-benefit of how difficult it would be to address the lacking info. If it's prohibitive, I will make a judgement and note I need to clarify post-session.
+* I will generally be hands off.
+* The story may be fragmented.
+    + and things may feel clunky and we may ultimately never complete major arcs. My job is to guide the game in a manner that is adaptive to the direction, momentum, and needs of the party.
+
+Your job as players:
+
+* Participate in the creation of the world.
+    + There are times I may call on you to do this. There are times you will be totally unaware your actions spurred unplanned events. You are just as vital as the DM to the creation of the narrative.
+* Embrace the suspension of disbelief.
+    + Avoid metagame awareness by compartmentalizing knowledge and working through mechanisms that make sense for your char.
+* Personify your char as much as possible.
+    + Aim for maximum cognitive immersion. DnD is unique in the level of mental access you have to connect with and guide the actions of a char. Strengths are obviously emphasized, but flaws hold relevance too.
+* Cheating or buffing gameplay holds no value.
+    + Meaningful party outcomes, good or bad, are where success is had. As the players of dwarf fortress say, "losing is fun". Get out of the "beowulf" mindset (success is automatic and always assumed).
+* Cheating in-character definitely holds value
+    + but it should make sense. For instance, a CN type would be out of character only doing good natured things. Steal from the party, murder every hobo, just do it with broad consideration for relevance and impact.
+* Talking about success
+    + it includes the thoughts and preferences of each party member. If something makes you uncomfortable, if there is an aspect of game play you'd like to see elevated or diminished, raise these issues as we go.
+
+#### 06/27
+
+* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
+* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
+* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+* The party set out to complete contract #1 and ended the session outside the holy site.
 
 ---
 
