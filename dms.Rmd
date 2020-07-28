@@ -1,5 +1,5 @@
 ---
-title: "![](armour.svg) Notes - DM ONLY!"
+title: "![](armour.svg) DM Screen - DM ONLY!"
 output:
   html_document:
       toc: yes
@@ -18,40 +18,42 @@ library(rmarkdown)
 library(knitr)
 ```
 
-## Session Notes {.tabset .tabset-fade}
+## Session Notes
 
-### Current
+### Previous Summary
+* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
+* They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
+* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
 
-#### Previous Summary
-
-* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
-* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
-* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
-* The party set out to complete contract #1 and ended the session outside the holy site.
-
-#### Game Dates
-* **Start:** 3rd day of Kythorn (The Time of Flowers)
-* **End:**
-
-#### NPCs Present
-* None
-
-#### Starting Conditions
-* **Weather:** clear, wind 14mph, high 53
+### Starting Conditions
+* **Start:** 4th day of Kythorn (The Time of Flowers)
+* **End:** 4th day of Kythorn (The Time of Flowers)
+* **Weather:** Clear, 0mph, 53F
 * **Location(s):**
-    + *Start:* Temple of Purpose from HA contract #1
-    +
-* **Circumstances:** Setting up in LOS of holy site, preparing to attack.
+    + *Start:* Temple of Purpose, underground operation, rm4
+* **NPCs:** Priest and bandit captain in secret rm2
+* **Circumstances:**
+    + The party is in rm4 of the Temple of Purpose having just defeated a bandit in the hall.
+    + The first encounter was handled recklessly and may have stirred up awareness in the halls.
 
-#### Session Events
-**Anticipated:**
+### Session Events
+
+**Anticipated**
 
 * Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
-* Return to Hero's Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
-* If it's the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
+* Return to Hero’s Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
+* If it’s the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
 * Party will hopefully redeem snail mail license.
 
-#### UA Content
+**Occurred**
+
+* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+* The party then returned to the Holworth HA to claim their contract and pickup a new one
+
+---
+
+### UA Content
 
 *Plot Hooks*
 
@@ -143,15 +145,19 @@ library(knitr)
 
 </details>
 
-</br>
+---
 
-*NPCs*
+**Names**
 
 * **Elfs**: Arbelladon Yinwarin , Ailas Omajyre , Alluin Balmys , Theodred Aralana , Taleasin Vasandoral , Gormar Farbalar , Ornthalas Virjyre , Nesterin Triswarin , Volodar Sylbella , Zaos Josatra
 * **Dwarf**: Darendrog Metalstone , Skobrouth Keggrog , Varfulir Forgebuckle , Darefoid Steelbane , Huvouth Thunderforged , Vomdag Lavamaul , Nolgrarlug Shattermaul , Ararril Chaosshoulder , Joded Anvilbringer , Gotrad Snowview
 * **Dragon**: poidhi, the Life Giver , tiorvaen, Protector of the Weak , chaervorth, the Gifted , bieperth, the Jealous One , tudhait, the Dark , dennian, the Puny , gaekae, the Tall , payvinteil, the Bunny Killer , xudaepheo, the Warm , uvirus, the Dragonlord
-* **Dragon**: micdic , iktec , gosuph , krecshu , baizax , grona , roldrebuph , rocdraelo , velarciks , hoshiroz
+* **Dragon**: micdic , iktec , gosuph , krecshu , ~~baizax~~ , grona , roldrebuph , rocdraelo , velarciks , hoshiroz
 * **Human**: rishun cinom , bhurad cukhen , birkudd Fourclaw , nibrork Silentbelly , mabram ven , kem navrosk , golvor Roughbow , murth Voiddrifter , thehvezuz michahkem , dinas muuhreft , temondesk netrotvurgu , zirlat vruvzako , ioy li , jiap chuen , uerdeanez zascudrul , venin paldurgel
+
+---
+
+**NPCs**
 
 * **Onry**: Human Bard, strong sense of nationalism.
 * **Loby Finell**: Female Halfling Paladin, Good. Str 15, Dex 8, Con 7, Int 11, Wis 14, Cha 16. Loby has a round face, with golden hair and brown eyes. She wears splint armor and wields a warhammer and shield.
@@ -164,6 +170,70 @@ library(knitr)
 * **Thrica**: Male Half-orc Alchemist, N. Str 9, Dex 6, Con 13, Int 10, Wis 14, Cha 8. Thrica has a narrow face, with blonde hair and bright green eyes. He wears well-made clothing and a sling of vials and potions. Thrica seeks revenge against the sister who betrayed him.
 * **Ursas**: Female Gnome Scofflaw, NG. Str 8, Dex 10, Con 12, Int 11, Wis 11, Cha 10. Ursas has auburn hair and sharp amber eyes, and pointed ears. She wears sturdy clothing and several pouches hang from her belt.
 * **Staga Jornidotr**: Female Dwarf Merchant, LN. Str 10, Dex 12, Con 12, Int 6, Wis 11, Cha 6. Staga is rough in appearance, with white hair and soft brown eyes. She wears plain clothing and a wide-brimmed hat. Staga has an animal companion, a gray rabbit named Bifar.
+
+---
+
+## Notes Log {.tabset .tabset-fade}
+
+### 07/12
+
+#### Previous Summary
+
+* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
+* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
+* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+* The party set out to complete contract #1 and ended the session outside the holy site.
+
+#### Game Dates
+
+#### NPCs Present
+* None
+
+#### Starting Conditions
+* **Weather:** clear, wind 14mph, high 53
+* **Location(s):**
+    + *Start:* Temple of Purpose from HA contract #1
+    +
+* **Circumstances:** Setting up in LOS of holy site, preparing to attack.
+
+#### Session Events
+**Anticipated:**
+
+* Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
+* Return to Hero's Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
+* If it's the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
+* Party will hopefully redeem snail mail license.
+
+**Occurred**
+
+* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
+* They had a brush with fate as Skagdun nearly perished in confronting a set of guards.
+* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
+
+---
+
+### 06/27
+
+#### Previous Summary
+
+NA
+
+#### Game Dates
+* **Start:** 3rd day of Kythorn (The Time of Flowers)
+* **End:** 3rd day of Kythorn (The Time of Flowers)
+
+#### NPCs Present
+* Farmer
+
+#### Location(s)
+* Hero's Alliance
+* Wonky Donkey
+
+#### Session Events
+* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
+* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
+* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+* The party set out to complete contract #1 and ended the session outside the holy site.
 
 ---
 
@@ -197,31 +267,6 @@ Your job as players:
 
 ---
 
-### 06/27
-
-#### Previous Summary
-
-NA
-
-#### Game Dates
-* **Start:** 3rd day of Kythorn (The Time of Flowers)
-* **End:** 3rd day of Kythorn (The Time of Flowers)
-
-#### NPCs Present
-* Farmer
-
-#### Location(s)
-* Hero's Alliance
-* Wonky Donkey
-
-#### Session Events
-* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
-* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
-* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
-* The party set out to complete contract #1 and ended the session outside the holy site.
-
----
-
 ## Tools
 
 ### Tables
@@ -244,6 +289,13 @@ NA
 * [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
 * [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
 * [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
+
+### Table top
+
+* [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
+    + This server will provide several channels to organize party communication and in-game reference distribution.
+* [Combat theater](https://shmeppy.com/) (Schmeppy)
+    + On the ground, tactical game play will take place in this app.
 
 ---
 
@@ -335,6 +387,16 @@ NA
 * **Motivations:** Serve with dignity
 * **Location:** Holworth Hero's Alliance
 * **Background:** Asarkal is the commander of the Holworth HA branch.
+
+### Baizax
+* **Race:** Silver Dragon
+* **Class:** Wyrmling
+* **Motivations:** Follow a drive for exploration. Maintain a deep conviction of honor. Support the efforts of a great cause. Defend the innocent.
+* **Traits:** lawful good, curious, honorable
+    * prominent neck frills, a beaklike snout, plated facial armor, and long, backswept horns. From a distance, the exceptionally fine scales appear to blend together, lending the dragon the appearance of a sculpture
+    * scent reminiscent of rain and evergreen needles
+* **Location:** Lair of Baizax
+* **Background:** Approximately a 4yo silver dragon
 
 ---
 
@@ -502,6 +564,40 @@ puzzle ideas
 * **Items:**
 * **Story arcs:** HA contract #1
 * **Background:** Built about 400 years ago, this eternal flame just outside the city limits is here to celebrate the rich musical and artistic history of this region, which is still part of it today. Its position within this community is meant to represent the heart and soul of the people and the unbreakable bond between past and future generations. It was designed by a famous international artist who accurately captured the varied history of the region and used an elegant style to convey her vision in this piece of art.  Every element was crafted and created with durable materials from local suppliers, ensuring this monument will continue to adorn the community for generations to come.
+
+### Lair of Baizax the Wyrmling
+* **Location:** Upstream of the Dunter River, W of Holworth near small burough of Brushgathershire
+* **Description:** A small cave network with a large central cavern where Baizax has settled in.
+* **NPCs:** Baizax the silver dragon wyrmling
+* **Organizations:** NA
+* **Items:**
+* **Story arcs:** HA contract #7
+* **Background:** Cavern was unoccupied prior to Baizax taking up temporary shelter here. The cave is fille with typical cavern vermin otherwise.
+
+### Brushgathershire
+
+* Brushgathershire is a primarily Halfling village with a population of 313. The population is 86% halfling, 1% human, 1% elf, 1% dwarf, and 11% other races.
+* Public Figures:
+* Mayor: Alton Tosscobble, Halfling
+* Greeter: Verna Tealeaf, Halfling
+* Guard Captain: Portia Fingertoes, Halfling
+* Religious Leader: Wellby Tosscobble, Halfling
+* Town Gossip: Vani Tosscobble, Halfling
+* Tavern
+    * Name: Sapphire Crocodile
+    * Owner: Milo Greenbottle, Halfling
+* Most Popular Smith
+    * Name: Andry's Smithy
+    * Owner: Andry High-hill, Halfling
+* Tailor
+    * Name: Modern Raiments
+    * Owner: Wellby Tosscobble, Halfling
+* Bakery
+    * Name: Hot Pastries
+    * Owner: Paela Greenbottle, Halfling
+* Most Popular Butcher
+    * Name: Exalted Meatmarket
+    * Owner: Eldon Thorngage, Halfling
 
 ---
 
