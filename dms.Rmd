@@ -633,9 +633,8 @@ political factions of mage guild
 ### Cows in the village
 
 ### HA Contracts
-1. Bandits have overrun a nearby holy site and captured priest.
-    + Obj: Clear the site, and free priest.
-    + Pay: 200gp
+
+#### Active
 2. A monster is making travel dangerous to the NE.
     + Obj: Eliminate monster. Return with proof.
     + Pay: 100gp
@@ -645,19 +644,17 @@ political factions of mage guild
 4. A territorial dispute between merchant guilds has led to bouts of violence.
     + Obj: Mediate terms. Address any non-compliance.
     + Pay: 300gp
-5. A farmer outside of town is experiencing a giant wolf spider infestation.
-    + Obj: Inspect property, and eliminate [monsters].
-    + Pay: 50gp
 6. The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
     + Obj: Clear stronghold. Destroy any stronghold infrastructure.
     + Pay: 225gp
 7. A dragon hatchling has been discovered in the countryside.
     + Obj: Venture to its nest and eliminate it before it becomes a major liability
     + Pay: 150gp
-
 8. A noble is in need of an escort.
     + Obj: Act as guide and defense for noble's detail
     + Pay: 300gp
+
+#### Pending
 9. A mining operation is experiencing insurrection among its workforce.
     + Obj: Infiltrate the operation and eliminate sedition leadership.
     + Pay:
@@ -665,8 +662,15 @@ political factions of mage guild
     + Obj: Confer with client, and retrieve item.
     + Pay:
 11. Something with the university
+12. Join a banner to fight in Challenger Gauntlet
 
-Join a banner to fight in Challenger Gauntlet
+#### Completed
+1. Bandits have overrun a nearby holy site and captured priest.
+    + Obj: Clear the site, and free priest.
+    + Pay: 200gp
+5. A farmer outside of town is experiencing a giant wolf spider infestation.
+    + Obj: Inspect property, and eliminate the spiders.
+    + Pay: 50gp
 
 ### A Titan's Price
 * **Outline:**
