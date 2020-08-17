@@ -297,6 +297,18 @@ Your job as players:
 * [Combat theater](https://shmeppy.com/) (Schmeppy)
     + On the ground, tactical game play will take place in this app.
 
+### Books
+
+* [DMG](/home/chris/Seafile/library/personal/hobbies/dnd/refs/books/Dungeon \Master's \Guide.pdf)
+* [PHB](/home/chris/Seafile/library/personal/hobbies/dnd/refs/books/Player_s \Handbook.pdf)
+
+### Avrae Aliases
+
+* sane
+* generate
+* weather
+* date
+
 ---
 
 ## Chars
