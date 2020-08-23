@@ -20,36 +20,34 @@ library(knitr)
 
 ## Session Notes
 
-### Previous Summary
-* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
-* They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
-* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
+#### Previous Summary
+* The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
+* In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the roard toward Marwark.
+* During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
 
-### Starting Conditions
-* **Start:** 4th day of Kythorn (The Time of Flowers)
-* **End:** 4th day of Kythorn (The Time of Flowers)
-* **Weather:** Clear, 0mph, 53F
+#### Starting Conditions
+* **Start:** 5th day of Kythorn (The Time of Flowers)
+* **End:**
+* **Weather:** clear, 9mph, 56
 * **Location(s):**
-    + *Start:* Temple of Purpose, underground operation, rm4
-* **NPCs:** Priest and bandit captain in secret rm2
+    + *Start:* Campsite just NE of Marwark
+* **NPCs:**
+    - Lady Luna
+    - Onry
 * **Circumstances:**
-    + The party is in rm4 of the Temple of Purpose having just defeated a bandit in the hall.
-    + The first encounter was handled recklessly and may have stirred up awareness in the halls.
+    + The party had just finished a battle and was nearing EoD. They have just begun a long rest.
 
-### Session Events
+#### Session Events
 
 **Anticipated**
 
-* Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
-* Return to Hero’s Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
-* If it’s the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
-* Party will hopefully redeem snail mail license.
+* The party will continue on their journey toward the Laurentz mine.
+* At some point, they will be attacked by a unit Progenitor Trust mages who want to interogate Lady Luna.
+* In an effort to avoid bloodshed and deter the party from accomplishing their goal, the PT mages will send the party to a puzzle filled pocket dimension.
 
 **Occurred**
 
-* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
-* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
-* The party then returned to the Holworth HA to claim their contract and pickup a new one
+*
 
 ---
 
@@ -174,6 +172,73 @@ library(knitr)
 ---
 
 ## Notes Log {.tabset .tabset-fade}
+
+### 08/16
+
+#### Previous Summary
+* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+* The party then returned to the Holworth HA to claim their contract and pickup a new one
+
+#### Starting Conditions
+* **Start:** 4th day of Kythorn (The Time of Flowers)
+* **End:** 5th day of Kythorn (The Time of Flowers)
+* **Weather:** clear, 10mph, 57F
+* **Location(s):**
+    + *Start:* The lobby of the Holworth HA
+* **NPCs:** Asarkal
+* **Circumstances:**
+    + The party is in the process of accepting HA contract #8
+
+#### Session Events
+
+**Anticipated**
+
+* The party will be confonted by a member of the Aldock Distributed Messaging Brokerage to update their Beacon License.
+* Contract #8 will take the party to meet with Lady Luna to initiate their travel to the Laurentz Mine.
+
+**Occurred**
+
+* The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
+* In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the roard toward Marwark.
+* During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
+
+---
+
+### 07/26
+
+#### Previous Summary
+* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
+* They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
+* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
+
+#### Starting Conditions
+* **Start:** 4th day of Kythorn (The Time of Flowers)
+* **End:** 4th day of Kythorn (The Time of Flowers)
+* **Weather:** Clear, 0mph, 53F
+* **Location(s):**
+    + *Start:* Temple of Purpose, underground operation, rm4
+* **NPCs:** Priest and bandit captain in secret rm2
+* **Circumstances:**
+    + The party is in rm4 of the Temple of Purpose having just defeated a bandit in the hall.
+    + The first encounter was handled recklessly and may have stirred up awareness in the halls.
+
+#### Session Events
+
+**Anticipated**
+
+* Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
+* Return to Hero’s Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
+* If it’s the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
+* Party will hopefully redeem snail mail license.
+
+**Occurred**
+
+* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+* The party then returned to the Holworth HA to claim their contract and pickup a new one
+
+---
 
 ### 07/12
 
@@ -304,10 +369,22 @@ Your job as players:
 
 ### Avrae Aliases
 
-* sane
-* generate
-* weather
+* background
+* class
+* classfeat
+* condition
 * date
+* feat
+* generate
+* item
+* monster
+* race
+* racefeat
+* rule
+* spell
+* sane
+* token
+* weather
 
 ---
 
@@ -506,7 +583,7 @@ puzzle ideas
 * **Background:**
 
 ### Snail Mail
-* **Description:** [world name] Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
+* **Description:** Aldock Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
 * **Mission statement:**
 * **Motto:**
 * **Goals:** Provide high fidelity messaging services across the realm.
