@@ -1,15 +1,15 @@
 ### [ARC NAME]
 * **Outline:**
-    + Event:
-    + Impact:
-    + Call to action:
-    + Turn:
-    + Resolution:
+    - Event:
+    - Impact:
+    - Call to action:
+    - Turn:
+    - Resolution:
 * **Exposition:**
 * **Items:**
 * **Chars:**
 * **Plot hooks:**  
 * **Events:**
-    + Anticipated:**
-    + Transpired:**
+    - Anticipated:**
+    - Transpired:**
 

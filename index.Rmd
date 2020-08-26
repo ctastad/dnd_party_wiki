@@ -18,8 +18,25 @@ library(knitr)
 
 ### Weekly Recap {.tabset .tabset-fade}
 
-#### 07/12
+#### 08/23
+* The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
+* The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
+* In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
+* They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
 
+
+#### 08/16
+* The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
+* In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the road toward Marwark.
+* During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
+
+
+#### 07/26
+* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+* The party then returned to the Holworth HA to claim their contract and pickup a new one
+
+#### 07/12
 * The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
 * They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
 * After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
@@ -27,7 +44,6 @@ library(knitr)
 ---
 
 #### 06/27
-
 * On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
 * Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
 * After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
@@ -36,7 +52,6 @@ library(knitr)
 ---
 
 #### 0
-
 My job as DM:
 
 * Success as a DM
