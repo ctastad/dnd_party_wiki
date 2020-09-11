@@ -319,6 +319,74 @@ library(knitr)
 
 ---
 
+### Tools
+
+#### Tables
+
+* [DM Tables](https://dungeonmastertools.github.io/)
+    + Player ref sheet
+    + Treasure tables
+    + Magic Items tables
+    + Travel
+* [donjon](https://donjon.bin.sh/5e/)
+    + Spell sheet
+    + Enc table
+    + Shop generator
+    + Dungeon generator
+* [Zenith Games](https://zenithgames.blogspot.com/2013/06/200-random-campfire-events.html)
+    - Random campsite encounters
+* [DnD Speak](http://dndspeak.com/2018/03/100-social-encounters-on-the-road/)
+    - Social encounters
+
+#### PCs
+
+* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
+* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
+* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
+* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
+* [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
+
+#### Table top
+
+* [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
+    + This server will provide several channels to organize party communication and in-game reference distribution.
+* [Combat Theater](https://shmeppy.com/) (Schmeppy)
+    + On the ground, tactical game play will take place in this app.
+* [Combat Tracker](https://docs.google.com/spreadsheets/d/1rL39CGCfN8QkO9EGfUOtDL7sh1ExGMEJ0Z29MF1lG7Q/edit?usp=sharing)
+
+#### Books
+
+* [DMG](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/dmg.pdf)
+* [PHB](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/phb.pdf)
+
+#### Avrae Aliases
+
+* background
+* class
+* classfeat
+* condition
+* date
+* feat
+* generate
+    - who
+    - tavern
+    - ship
+    - hook
+    - weapon
+    - island
+    - town
+* item
+* monster
+* race
+* racefeat
+* rule
+* spell
+* sane
+* token
+* weather
+
+---
+
 ### Notes Log {.tabset .tabset-fade}
 
 ---
@@ -519,93 +587,267 @@ Your job as players:
 
 ---
 
-### Tools
+## Story Arcs
 
-#### Tables
+### A Titan's Price
+* **Outline:**
+    + *Event:* Prahmethoth introduces magic to realm.
+    + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technological awakening.
+    + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
+    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of esoteric drift, rendering him virtually invincible.
+    + *Resolution:* The PCs attempt to develop a method for esoteric permanence, allowing them to fight Prahmethoth at full strength.
+* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
+* **Items:**
+* **Chars:**
+    + Prahmethoth
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+        - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts esoteric permanence.
+    + Transpired:**
 
-* [DM Tables](https://dungeonmastertools.github.io/)
-    + Player ref sheet
-    + Treasure tables
-    + Magic Items tables
-    + Travel
-* [donjon](https://donjon.bin.sh/5e/)
-    + Spell sheet
-    + Enc table
-    + Shop generator
-    + Dungeon generator
-* [Zenith Games](https://zenithgames.blogspot.com/2013/06/200-random-campfire-events.html)
-    - Random campsite encounters
-* [DnD Speak](http://dndspeak.com/2018/03/100-social-encounters-on-the-road/)
-    - Social encounters
+### An Introduction
+* **Outline:**
+    + *Event:* PCs appear and witness farm being attacked.
+    + *Impact:* Risk of harm to everyone in area.
+    + *Call to action:* Only the party can save the farmer.
+    + *Turn:* Party decides to intervene.
+    + *Resolution:* Farmer is grateful and passes on prized adventuring items
+* **Exposition:** The PCs were drawn to Holworth as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
+* **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
+* **Chars:**
+    + Old farmer
+    + Attacking giant wolf spiders
+* **Plot hooks:**  NA
+* **Events:**
+    + Anticipated:**
+        - Random encounter with aggressor NPCs
+        - Party intervenes to save farmer
+        - Party carries on to investigate leads from items they received
+    + Transpired:**
 
-#### PCs
+### Arms Race
+* **Outline:**
+    + *Event:* arms manufacturer offers lucrative contract to party
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
 
-* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
-* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
-* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
-* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
-* [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
+### Cows in the village
 
-#### Table top
+### HA Contracts
 
-* [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
-    + This server will provide several channels to organize party communication and in-game reference distribution.
-* [Combat Theater](https://shmeppy.com/) (Schmeppy)
-    + On the ground, tactical game play will take place in this app.
-* [Combat Tracker](https://docs.google.com/spreadsheets/d/1rL39CGCfN8QkO9EGfUOtDL7sh1ExGMEJ0Z29MF1lG7Q/edit?usp=sharing)
+#### Active
+2. A monster is making travel dangerous to the NE.
+    + Obj: Eliminate monster. Return with proof.
+    + Pay: 100gp
+3. A local smith is experiencing daily vandalism.
+    + Obj: Stand watch for night to deal with vandals.
+    + Pay: 125gp, use of shop
+4. A territorial dispute between merchant guilds has led to bouts of violence.
+    + Obj: Mediate terms. Address any non-compliance.
+    + Pay: 300gp
+6. The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
+    + Obj: Clear stronghold. Destroy any stronghold infrastructure.
+    + Pay: 225gp
+7. A dragon hatchling has been discovered in the countryside.
+    + Obj: Venture to its nest and eliminate it before it becomes a major liability
+    + Pay: 150gp
+8. A noble is in need of an escort.
+    + Obj: Act as guide and defense for noble's detail
+    + Pay: 300gp
 
-#### Books
+#### Pending
+9. A mining operation is experiencing insurrection among its workforce.
+    + Obj: Infiltrate the operation and eliminate sedition leadership.
+    + Pay:
+10. Recent evidence of an assumed lost family heirloom has surfaced.
+    + Obj: Confer with client, and retrieve item.
+    + Pay:
+11. Something with the university
+12. Join a banner to fight in Challenger Gauntlet
 
-* [DMG](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/dmg.pdf)
-* [PHB](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/phb.pdf)
+#### Completed
+1. Bandits have overrun a nearby holy site and captured priest.
+    + Obj: Clear the site, and free priest.
+    + Pay: 200gp
+5. A farmer outside of town is experiencing a giant wolf spider infestation.
+    + Obj: Inspect property, and eliminate the spiders.
+    + Pay: 50gp
 
-#### Avrae Aliases
+### Heralds Inbound
+* **Outline:**
+    + *Event:* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of "fresh" territory.
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
 
-* background
-* class
-* classfeat
-* condition
-* date
-* feat
-* generate
-    - who
-    - tavern
-    - ship
-    - hook
-    - weapon
-    - island
-    - town
-* item
-* monster
-* race
-* racefeat
-* rule
-* spell
-* sane
-* token
-* weather
+### Realignment
+* **Outline:**
+    + *Event:* The Progenitor Trust attempts to organize a coup and seize power within their locality.
+    + *Impact:* With their early investments in magical capability, the Trust is able to upend the historical power structure and seek greater ambitions (conquest).
+    + *Call to action:* 1) Gain sympathy of party and participate in the coup. 2) Prevent coup.
+    + *Turn:* 1) Party becomes aware of intentions beyond coup
+    + *Resolution:* Party succeeds in either C2A they choose.
+* **Exposition:**
+    - The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the Awakening, the Verdan made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
+* **Items:**
+* **Chars:**
+    - W. Fitzhugh Brundage
+    - Lady Luna
+* **Plot hooks:** 
+    - Party encounters group of PT agents looking to interrogate Lady Luna. The agents dispatch the party to a pocket dimension to avoid confrontation.
+* **Events:**
+    + Anticipated:**
+        - Party interacts with race leadership.
+        - Blackout creates window for local leader to raid race hq.
+        - Coup succeeds and race installs new power structure.
+        - Race begins expansion of forces in effort to embark on aggressive conquest
+    + Transpired:**
+        - Given the party's first contact with the PT is in the presence of their stated enemy, the PT is characterized as a terrorist group by Lady Lunda and Onry.
+
+### Twin Metals
+* **Outline:**
+    + *Event:* mining for magical ore has expanded dramatically
+    + *Impact:*
+    + *Call to action:*
+    + *Turn:*
+    + *Resolution:*
+* **Exposition:**
+* **Items:**
+* **Chars:**
+* **Plot hooks:**  
+* **Events:**
+    + Anticipated:**
+    + Transpired:**
 
 ---
 
-## Chars
+## Institutions
 
-### UA NPCs
-* **Elfs**: Arbelladon Yinwarin , Ailas Omajyre , Alluin Balmys , Theodred Aralana , Taleasin Vasandoral , Gormar Farbalar , Ornthalas Virjyre , Nesterin Triswarin , Volodar Sylbella , Zaos Josatra
-* **Dwarf**: Darendrog Metalstone , Skobrouth Keggrog , Varfulir Forgebuckle , Darefoid Steelbane , Huvouth Thunderforged , Vomdag Lavamaul , Nolgrarlug Shattermaul , Ararril Chaosshoulder , Joded Anvilbringer , Gotrad Snowview
-* **Dragon**: poidhi, the Life Giver , tiorvaen, Protector of the Weak , chaervorth, the Gifted , bieperth, the Jealous One , tudhait, the Dark , dennian, the Puny , gaekae, the Tall , payvinteil, the Bunny Killer , xudaepheo, the Warm , uvirus, the Dragonlord
-* **Dragon**: micdic , iktec , gosuph , krecshu , baizax , grona , roldrebuph , rocdraelo , velarciks , hoshiroz
-* **Human**: rishun cinom , bhurad cukhen , birkudd Fourclaw , nibrork Silentbelly , mabram ven , kem navrosk , golvor Roughbow , murth Voiddrifter , thehvezuz michahkem , dinas muuhreft , temondesk netrotvurgu , zirlat vruvzako , ioy li , jiap chuen , uerdeanez zascudrul , venin paldurgel
+### Emerald Compact
+* **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
+* **Mission statement:**
+* **Motto:** The earth laughs in flowers
+* **Goals:**
+    + Enlists agents to support their cause of environmental intervention.
+    + Coordinate efforts to obstruct humanoid causes of environmental damage by any means necessary.
+    + A primary target of their focus is the recent expansion in mining for magical ore.
+* **Location:** Unknown
+* **Services:**
+* **Membership:**
+    + Allegiance is sworn upon receiving an invitation to become an agent.
+    + Agents are conscripted to secrecy.
+    + All druids are given an opportunity at membership.
+* **NPCs:**
+* **Story arcs:**
+* **Background:**
 
-* **Loby Finell**: Female Halfling Paladin, Good. Str 15, Dex 8, Con 7, Int 11, Wis 14, Cha 16. Loby has a round face, with golden hair and brown eyes. She wears splint armor and wields a warhammer and shield.
-* **Arget Courte**: Female Halfling Mercenary, CG. Str 10, Dex 12, Con 6, Int 13, Wis 10, Cha 15. Arget is tall and willowy, with auburn hair and soft gray eyes. She wears leather armor and wields a shortsword.
-* **Threri**: Male Dwarf Cleric, NG. Str 9, Dex 12, Con 11, Int 9, Wis 15, Cha 15. Threri has blonde hair and hazel eyes, and a curly moustache. He wears hide armor and wields a light hammer. Threri seeks to discover the truth of his lineage.
-* **Amira**: Female Halfling Peasant, NE. Str 10, Dex 9, Con 11, Int 9, Wis 8, Cha 9. Amira has thin gray hair and narrow brown eyes, and large ears. She wears simple clothing and carries a long knife. Amira is envious and deceitful.
-* **Hildga**: Female Dwarf Ranger, N. Str 8, Dex 10, Con 12, Int 12, Wis 13, Cha 8. Hildga has cropped golden hair and gray eyes. She wears half plate and wields a whip and shield. Hildga is extravagant and fierce.
-* **Ancin Gere**: Male Human Merchant, NG. Str 10, Dex 11, Con 10, Int 10, Wis 11, Cha 8. Ancin has thin red hair and blue eyes. He wears modest garments and a blue cloak. Ancin has an animal companion, a black cat named Ethen.
-* **Zita**: Male Half-orc Priest, NG. Str 8, Dex 10, Con 9, Int 11, Wis 12, Cha 12. Zita has copper hair and blue eyes, and prominent ears. He wears well-made clothing and carries a fine stiletto. Zita secretly serves Kaveph, an ancient god of chaos.
-* **Thrica**: Male Half-orc Alchemist, N. Str 9, Dex 6, Con 13, Int 10, Wis 14, Cha 8. Thrica has a narrow face, with blonde hair and bright green eyes. He wears well-made clothing and a sling of vials and potions. Thrica seeks revenge against the sister who betrayed him.
-* **Ursas**: Female Gnome Scofflaw, NG. Str 8, Dex 10, Con 12, Int 11, Wis 11, Cha 10. Ursas has auburn hair and sharp amber eyes, and pointed ears. She wears sturdy clothing and several pouches hang from her belt.
-* **Staga Jornidotr**: Female Dwarf Merchant, LN. Str 10, Dex 12, Con 12, Int 6, Wis 11, Cha 6. Staga is rough in appearance, with white hair and soft brown eyes. She wears plain clothing and a wide-brimmed hat. Staga has an animal companion, a gray rabbit named Bifar.
+### Hero’s Alliance
+* **Description:** A union of adventuring members with common goals and public professional services.
+* **Mission statement:**
+* **Motto:** I wish to see what lies beyond
+* **Goals:**
+    + Provide public access to adventurer talent and services through contract hire.
+    + Serve as support union for adventurers.
+    + Give endless feed of easy quest plot hooks.
+    + Remain apolitical.
+* **Location:** Branches in most major cities.
+* **Services:**
+    + Contract to hire adventurer jobs
+    + Training
+    + Practice combat theater
+* **Membership:**
+    + Must be actively working as a professional adventurer.
+    + Complete a test job at discretion of branch warden
+* **NPCs:**
+* **Story arcs:**
+    + An introduction
+* **Background:**
+
+### Progenitor Trust
+* **Description:** An order of Verdan mages who, previously beset by oppression, heavily embraced magic post-Awakening.
+* **Mission statement:**
+* **Motto:**
+* **Goals:** Employ academic head start in magic prowess to organize a coup. Upon seizing power, embark on aggressive conquest in expansion of race influence.
+* **Location:** Threapnalt University
+* **Services:**
+* **Membership:**
+* **NPCs:**
+    + W. Fitzhugh Brundage
+* **Story arcs:**
+    + Realignment
+* **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
+    - HA contract #8
+
+### Round Earth Society
+* **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
+* **Mission statement:**
+* **Motto:** We're ahead of the curve.
+* **Goals:** Promote the belief that the world is spherical.
+* **Location:**
+* **Services:**
+* **Membership:**
+* **NPCs:** Leo Ferrari
+* **Story arcs:**
+* **Background:** This group is one of many elements who have embraced psuedointellectual leanings in the wake of the Awakening. The degree to which society's understanding of reality was fundamentally changed has uprooted many previously steadfast beliefs.
+
+### Snail Mail
+* **Description:** Aldock Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
+* **Mission statement:**
+* **Motto:**
+* **Goals:** Provide high fidelity messaging services across the realm.
+* **Location:** Branches in most major cities.
+* **Services:**
+    + Priority Telepathy –
+    + Priority Express Telepathy -
+    + Beacon License – recipients receive charm which allows for persistent tracking in roaming message delivery.
+    + Joke payment – flail snails love jokes. A new joke (and food) can substitute as payment for a received message.
+* **Membership:**
+    + Standard pricing array for varying services
+    + Certain Licenses that allow for elevated access and pricing gratuity
+* **NPCs:** flail snail hive mind collective
+* **Story arcs:** An introduction
+* **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
+
+### Threapnalt University
+* **Description:** An institution of higher learning in the arcane arts
+* **Mission statement:**
+* **Motto:** Driven to Discover
+* **Goals:** Advance the discovery of arcane knowledge.
+* **Location:** Holworth, Noon Orchard district
+* **Services:**
+    + Library
+    + Training
+* **Membership:**
+    + Admissions process for students
+    + Hiring process for faculty
+* **NPCs:**
+    + W. Fitzhugh Brundage
+* **Story arcs:**
+    + Main plot
+    + Realignment
+* **Background:** Named for founding leader of Progenitor Trust.
+
+---
+
+## People
 
 ### Asarkal
 * **Race:** Human
@@ -742,168 +984,9 @@ Prepared Spells
 
 ---
 
-## Organizations
-
-### Round Earth Society
-* **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
-* **Mission statement:**
-* **Motto:** We're ahead of the curve.
-* **Goals:** Promote the belief that the world is spherical.
-* **Location:**
-* **Services:**
-* **Membership:**
-* **NPCs:** Leo Ferrari
-* **Story arcs:**
-* **Background:** This group is one of many elements who have embraced psuedointellectual leanings in the wake of the Awakening. The degree to which society's understanding of reality was fundamentally changed has uprooted many previously steadfast beliefs.
-
-### Progenitor Trust
-* **Description:** An order of Verdan mages who, previously beset by oppression, heavily embraced magic post-Awakening.
-* **Mission statement:**
-* **Motto:**
-* **Goals:** Employ academic head start in magic prowess to organize a coup. Upon seizing power, embark on aggressive conquest in expansion of race influence.
-* **Location:** Threapnalt University
-* **Services:**
-* **Membership:**
-* **NPCs:**
-    + W. Fitzhugh Brundage
-* **Story arcs:**
-    + Realignment
-* **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
-    - HA contract #8
-
-### Emerald Compact
-* **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
-* **Mission statement:**
-* **Motto:** The earth laughs in flowers
-* **Goals:**
-    + Enlists agents to support their cause of environmental intervention.
-    + Coordinate efforts to obstruct humanoid causes of environmental damage by any means necessary.
-    + A primary target of their focus is the recent expansion in mining for magical ore.
-* **Location:** Unknown
-* **Services:**
-* **Membership:**
-    + Allegiance is sworn upon receiving an invitation to become an agent.
-    + Agents are conscripted to secrecy.
-    + All druids are given an opportunity at membership.
-* **NPCs:**
-* **Story arcs:**
-* **Background:**
-
-### Hero’s Alliance
-* **Description:** A union of adventuring members with common goals and public professional services.
-* **Mission statement:**
-* **Motto:** I wish to see what lies beyond
-* **Goals:**
-    + Provide public access to adventurer talent and services through contract hire.
-    + Serve as support union for adventurers.
-    + Give endless feed of easy quest plot hooks.
-    + Remain apolitical.
-* **Location:** Branches in most major cities.
-* **Services:**
-    + Contract to hire adventurer jobs
-    + Training
-    + Practice combat theater
-* **Membership:**
-    + Must be actively working as a professional adventurer.
-    + Complete a test job at discretion of branch warden
-* **NPCs:**
-* **Story arcs:**
-    + An introduction
-* **Background:**
-
-### Snail Mail
-* **Description:** Aldock Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
-* **Mission statement:**
-* **Motto:**
-* **Goals:** Provide high fidelity messaging services across the realm.
-* **Location:** Branches in most major cities.
-* **Services:**
-    + Priority Telepathy –
-    + Priority Express Telepathy -
-    + Beacon License – recipients receive charm which allows for persistent tracking in roaming message delivery.
-    + Joke payment – flail snails love jokes. A new joke (and food) can substitute as payment for a received message.
-* **Membership:**
-    + Standard pricing array for varying services
-    + Certain Licenses that allow for elevated access and pricing gratuity
-* **NPCs:** flail snail hive mind collective
-* **Story arcs:** An introduction
-* **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
-
-### Threapnalt University
-* **Description:** An institution of higher learning in the arcane arts
-* **Mission statement:**
-* **Motto:** Driven to Discover
-* **Goals:** Advance the discovery of arcane knowledge.
-* **Location:** Holworth, Noon Orchard district
-* **Services:**
-    + Library
-    + Training
-* **Membership:**
-    + Admissions process for students
-    + Hiring process for faculty
-* **NPCs:**
-    + W. Fitzhugh Brundage
-* **Story arcs:**
-    + Main plot
-    + Realignment
-* **Background:** Named for founding leader of Progenitor Trust.
-
----
-
 ## Places
 
-### Holes Magic Potions
-* **Location:** Holworth, Applearch
-* **Description:** A trade shop dedicated to potions.
-* **NPCs:**
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
-
-
-### Wonkey Donkey
-* **Location:** Holworth, Stormgrove dist
-* **Description:** Energetic atmosphere
-* **NPCs:** Laquillal
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
-
-### Holworth Hero's Alliance
-* **Location:** Holworth, Applearch
-* **Description:**
-* **NPCs:** Asarkal
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
-
-### Temple of Purpose
-* **Location:** Just off the lesser route, 5mi S of Chilseading
-* **Description:**
-    + *Map:*
-    + An open air regional holy site of the Witnesses of Morinzi.
-    + The site features a large assembly platform that centers on a lecturn and the main feature of an eternal flame.
-    + Additionally, there is an underground structure that serves as an organizing and worship environment for the religious leadership.
-* **NPCs:**
-* **Organizations:** Witnesses of Morinzi
-* **Items:**
-* **Story arcs:** HA contract #1
-* **Background:** Built about 400 years ago, this eternal flame just outside the city limits is here to celebrate the rich musical and artistic history of this region, which is still part of it today. Its position within this community is meant to represent the heart and soul of the people and the unbreakable bond between past and future generations. It was designed by a famous international artist who accurately captured the varied history of the region and used an elegant style to convey her vision in this piece of art.  Every element was crafted and created with durable materials from local suppliers, ensuring this monument will continue to adorn the community for generations to come.
-
-### Lair of Baizax the Wyrmling
-* **Location:** Upstream of the Dunter River, W of Holworth near small burough of Brushgathershire
-* **Description:** A small cave network with a large central cavern where Baizax has settled in.
-* **NPCs:** Baizax the silver dragon wyrmling
-* **Organizations:** NA
-* **Items:**
-* **Story arcs:** HA contract #7
-* **Background:** Cavern was unoccupied prior to Baizax taking up temporary shelter here. The cave is fille with typical cavern vermin otherwise.
-
 ### Brushgathershire
-
 * Brushgathershire is a primarily Halfling village with a population of 313. The population is 86% halfling, 1% human, 1% elf, 1% dwarf, and 11% other races.
 * Public Figures:
 * Mayor: Alton Tosscobble, Halfling
@@ -927,9 +1010,118 @@ Prepared Spells
     * Name: Exalted Meatmarket
     * Owner: Eldon Thorngage, Halfling
 
+### Holes Magic Potions
+* **Location:** Holworth, Applearch
+* **Description:** A trade shop dedicated to potions.
+* **NPCs:**
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
+### Holworth Hero's Alliance
+* **Location:** Holworth, Applearch
+* **Description:**
+* **NPCs:** Asarkal
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
+### Lair of Baizax the Wyrmling
+* **Location:** Upstream of the Dunter River, W of Holworth near small burough of Brushgathershire
+* **Description:** A small cave network with a large central cavern where Baizax has settled in.
+* **NPCs:** Baizax the silver dragon wyrmling
+* **Organizations:** NA
+* **Items:**
+* **Story arcs:** HA contract #7
+* **Background:** Cavern was unoccupied prior to Baizax taking up temporary shelter here. The cave is filled with typical cavern vermin otherwise.
+
+
+### PT Pocket Dimension
+* **Location:** A contained void in space
+* **Description:**
+    - Consists of 3 magically conjoined environments that contain visualizations and interactive objects that have been arranged in a manner to be solvable puzzles.
+    - Room 1 (Kobe)
+    - Room 2 (Rude Guantlet)
+    - Room 3 (Program for Art)
+        - Creation is execution \
+        For I in works of art \
+        If man exists, you give restoration \
+        Else, bring destruction
+
+* **NPCs:**
+* **Organizations:** Progenitor Trust
+* **Items:**
+    - Rude Guantlet
+* **Story arcs:** Realignment
+* **Background:** This dimension was created to be a testing ground as a academic exercise by W. Fitzhugh Brundage. It has since become a useful tool for him in avoiding combat.
+
+
+### Temple of Purpose
+* **Location:** Just off the lesser route, 5mi S of Chilseading
+* **Description:**
+    + *Map:*
+    + An open air regional holy site of the Witnesses of Morinzi.
+    + The site features a large assembly platform that centers on a lecturn and the main feature of an eternal flame.
+    + Additionally, there is an underground structure that serves as an organizing and worship environment for the religious leadership.
+* **NPCs:**
+* **Organizations:** Witnesses of Morinzi
+* **Items:**
+* **Story arcs:** HA contract #1
+* **Background:** Built about 400 years ago, this eternal flame just outside the city limits is here to celebrate the rich musical and artistic history of this region, which is still part of it today. Its position within this community is meant to represent the heart and soul of the people and the unbreakable bond between past and future generations. It was designed by a famous international artist who accurately captured the varied history of the region and used an elegant style to convey her vision in this piece of art.  Every element was crafted and created with durable materials from local suppliers, ensuring this monument will continue to adorn the community for generations to come.
+
+### Wonkey Donkey
+* **Location:** Holworth, Stormgrove dist
+* **Description:** Energetic atmosphere
+* **NPCs:** Laquillal
+* **Organizations:**
+* **Items:**
+* **Story arcs:**
+* **Background:**
+
 ---
 
-## Story arcs
+## Things
+
+ArcReader, Snail Mail beacon license
+
+## Workshop
+
+### Random
+
+dwarf fortress stronghold
+
+bog walkers
+
+ozamandib
+
+### Puzzles
+
+* air lock
+    - barren room with one other door and impression for single medium char.
+    - ceiling slowly drops as first door is closed. ceiling stops at 1 ft and raises. 2nd door opens.
+    - only dmg is what chars commit themselves.
+* poem that is a for loop to complete task
+* backward wall - wall appears when party turns around. Cryptic inscription indicating they need to walk backward to go forward
+* rude door
+* items disappear, task completed without equipment
+* prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
+    + players role covert int saves
+    + split party in half to separately meet the king
+    + king explains they've been selected for their intellectual and strategic prowess and brought to his "strategic plane" (think of better term for situation room)
+    + king states he is in need of guidance on how to spend resources in his kingdom for the next 3 yrs relative to his neighboring rival
+    + he can invest in his kingdom or go to war
+    + should he prepare for peace or prepare for war
+    + players receive payment for lucrative guidance and punishment for lopsided outcomes.
+* pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
+* hoffman encoding for Prahmethoth encrypted messages
+* graph algorithm
+* timed effects
+* kobe - party needs to cast fireball through basketball hoop
+* https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
+
+### Story Arcs
 
 https://docs.google.com/document/d/1ADbrYtsI6_EhYRgBtzKQB1Iv4TgbouZfLKV7YRU2XeM/edit
 
@@ -957,181 +1149,6 @@ political factions of mage guild
 * create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for Prahmethoth
 * gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
 * arms manufacturer offers lucrative contract to party
-
-### Cows in the village
-
-### HA Contracts
-
-#### Active
-2. A monster is making travel dangerous to the NE.
-    + Obj: Eliminate monster. Return with proof.
-    + Pay: 100gp
-3. A local smith is experiencing daily vandalism.
-    + Obj: Stand watch for night to deal with vandals.
-    + Pay: 125gp, use of shop
-4. A territorial dispute between merchant guilds has led to bouts of violence.
-    + Obj: Mediate terms. Address any non-compliance.
-    + Pay: 300gp
-6. The activity of a kobold stronghold has begun to encroach on the neighboring hamlet.
-    + Obj: Clear stronghold. Destroy any stronghold infrastructure.
-    + Pay: 225gp
-7. A dragon hatchling has been discovered in the countryside.
-    + Obj: Venture to its nest and eliminate it before it becomes a major liability
-    + Pay: 150gp
-8. A noble is in need of an escort.
-    + Obj: Act as guide and defense for noble's detail
-    + Pay: 300gp
-
-#### Pending
-9. A mining operation is experiencing insurrection among its workforce.
-    + Obj: Infiltrate the operation and eliminate sedition leadership.
-    + Pay:
-10. Recent evidence of an assumed lost family heirloom has surfaced.
-    + Obj: Confer with client, and retrieve item.
-    + Pay:
-11. Something with the university
-12. Join a banner to fight in Challenger Gauntlet
-
-#### Completed
-1. Bandits have overrun a nearby holy site and captured priest.
-    + Obj: Clear the site, and free priest.
-    + Pay: 200gp
-5. A farmer outside of town is experiencing a giant wolf spider infestation.
-    + Obj: Inspect property, and eliminate the spiders.
-    + Pay: 50gp
-
-### A Titan's Price
-* **Outline:**
-    + *Event:* Prahmethoth introduces magic to realm.
-    + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technological awakening.
-    + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
-    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of esoteric drift, rendering him virtually invincible.
-    + *Resolution:* The PCs attempt to develop a method for esoteric permanence, allowing them to fight Prahmethoth at full strength.
-* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
-* **Items:**
-* **Chars:**
-    + Prahmethoth
-* **Plot hooks:**  
-* **Events:**
-    + Anticipated:**
-        - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts esoteric permanence.
-    + Transpired:**
-
-### Heralds Inbound
-* **Outline:**
-    + *Event:* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of "fresh" territory.
-    + *Impact:*
-    + *Call to action:*
-    + *Turn:*
-    + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
-    + Anticipated:**
-    + Transpired:**
-
-### An Introduction
-* **Outline:**
-    + *Event:* PCs appear and witness farm being attacked.
-    + *Impact:* Risk of harm to everyone in area.
-    + *Call to action:* Only the party can save the farmer.
-    + *Turn:* Party decides to intervene.
-    + *Resolution:* Farmer is grateful and passes on prized adventuring items
-* **Exposition:** The PCs were drawn to Holworth as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
-* **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
-* **Chars:**
-    + Old farmer
-    + Attacking giant wolf spiders
-* **Plot hooks:**  NA
-* **Events:**
-    + Anticipated:**
-        - Random encounter with aggressor NPCs
-        - Party intervenes to save farmer
-        - Party carries on to investigate leads from items they received
-    + Transpired:**
-
-### Realignment
-* **Outline:**
-    + *Event:* The Progenitor Trust attempts to organize a coup and seize power within their locality.
-    + *Impact:* With their early investments in magical capability, the Trust is able to upend the historical power structure and seek greater ambitions (conquest).
-    + *Call to action:* 1) Gain sympathy of party and participate in the coup. 2) Prevent coup.
-    + *Turn:* 1) Party becomes aware of intentions beyond coup
-    + *Resolution:* Party succeeds in either C2A they choose.
-* **Exposition:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
-* **Items:**
-* **Chars:**
-* **Plot hooks:** 
-    - Party encounters group of PT agents looking to interrogate Lady Luna. The agents dispatch the party to a pocket dimension to avoid confrontation.
-* **Events:**
-    + Anticipated:**
-        - Party interacts with race leadership.
-        - Blackout creates window for local leader to raid race hq.
-        - Coup succeeds and race installs new power structure.
-        - Race begins expansion of forces in effort to embark on aggressive conquest
-    + Transpired:**
-
-### Arms Race
-* **Outline:**
-    + *Event:* arms manufacturer offers lucrative contract to party
-    + *Impact:*
-    + *Call to action:*
-    + *Turn:*
-    + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
-    + Anticipated:**
-    + Transpired:**
-
-### Twin Metals
-* **Outline:**
-    + *Event:* mining for magical ore has expanded dramatically
-    + *Impact:*
-    + *Call to action:*
-    + *Turn:*
-    + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
-    + Anticipated:**
-    + Transpired:**
-
----
-
-## Things
-
-ArcReader, Snail Mail beacon license
-
-## Workshop
-
-dwarf fortress stronghold
-
-puzzle ideas
-
-* poem that is a for loop to complete task
-* backward wall - wall appears when party turns around. Cryptic inscription indicating they need to walk backward to go forward
-* rude door
-* items disappear, task completed without equipment
-* prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
-    + players role covert int saves
-    + split party in half to separately meet the king
-    + king explains they've been selected for their intellectual and strategic prowess and brought to his "strategic plane" (think of better term for situation room)
-    + king states he is in need of guidance on how to spend resources in his kingdom for the next 3 yrs relative to his neighboring rival
-    + he can invest in his kingdom or go to war
-    + should he prepare for peace or prepare for war
-    + players receive payment for lucrative guidance and punishment for lopsided outcomes.
-* pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
-* hoffman encoding for Prahmethoth encrypted messages
-* graph algorithm
-* timed effects
-* kobe - party needs to cast fireball through basketball hoop
-* https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
 
 ---
 
