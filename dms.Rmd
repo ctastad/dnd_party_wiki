@@ -1086,15 +1086,20 @@ Prepared Spells
 
 ArcReader, Snail Mail beacon license
 
+Robe of Useful Items
+
 ## Workshop
 
-### Random
+### House Rules
 
-dwarf fortress stronghold
-
-bog walkers
-
-ozamandib
+- Moded sides init
+    - all turns follow group turn style, including first round.
+    - everyone roles individual init.
+    - first round proceeds in modified sided format.
+    - order is: PCs higher than BGs, BGs, PCs lower than BGs.
+    - successive rounds follow standard sides init.
+    - order for successive rounds is determined by average of PC init vs BGs.
+- Tumble    
 
 ### Puzzles
 
@@ -1103,8 +1108,16 @@ ozamandib
     - ceiling slowly drops as first door is closed. ceiling stops at 1 ft and raises. 2nd door opens.
     - only dmg is what chars commit themselves.
 * poem that is a for loop to complete task
-* backward wall - wall appears when party turns around. Cryptic inscription indicating they need to walk backward to go forward
+* backward wall - wall appears when party turns around.
+    - "Life can only be understood backward, but it must be lived forward"
+    - "AH, look out behind you. There's a monster."
+    - "The obstacle is the only way."
+    - "Back street's back, alright."
 * rude door
+    - located in an armory, 3 iron doors, 2 won't open, 1 is guarded by rude gauntlet.
+    - touching any equipment causes damage.
+    - tea party setup in middle of room
+    - book of etiquette on table -  principles of applied manners: from going to tea or declaring war
 * items disappear, task completed without equipment
 * prisoners dilemma - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
     + players role covert int saves
@@ -1114,12 +1127,47 @@ ozamandib
     + he can invest in his kingdom or go to war
     + should he prepare for peace or prepare for war
     + players receive payment for lucrative guidance and punishment for lopsided outcomes.
+    
+[game square]
+
+P,W
+P|2,2|-2,3|
+w|3,-2|-1,-1|
+    
+After a blinding transition and fade to black, you find yourself stationary, standing on a surface that carries a light shimmer and a hue of deep onyx. Looking up, the space around you only differs in its lack of texture as the emptiness feels both on your skin and 1000 feet away. There is somehow no light, yet you can see every detail of the companion by your side. This place seems to have no boundary.
+
+A voice to your right breaks the tension:
+
+"Great! You've made it. Hurry over."
+
+A man of significant regality is seated at the head of a grand table. He gestures for you to join him at the table.
+
+[Players should join the king at the table]
+
+King: "I've called you here to my plane of strategic deliberation for your well known intellectual renown. We have matters to discuss."
+
+King: "As you know, our kingdom's fiscal period is up, and I have a decision to make in finalizing our resource allocation. I'd like to run a few simulations here in my strategic plane with your guidance."
+
+King: "I've had two budgets devised to prepare for the two prevailing conditions: peace or war."
+
+King: "My choice is impacted by the actions of our rival kingdom. Investing in peace will bring the greatest prosperity, but our rival may betray that peace and declare war, bringing significant loss. Alternatively, we could take advantage of our rival's lack of readiness if we were to attack while they are at peace. If we both commit to war, prosperity will be hindered, but our forces will likely be equal."
+
+King: "So, do I prepare for peace, or do I prepare for war?"
+
 * pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
 * hoffman encoding for Prahmethoth encrypted messages
 * graph algorithm
 * timed effects
 * kobe - party needs to cast fireball through basketball hoop
 * https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
+
+### Random
+
+dwarf fortress stronghold
+
+bog walkers
+
+ozamandib
 
 ### Story Arcs
 
