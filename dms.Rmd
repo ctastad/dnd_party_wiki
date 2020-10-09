@@ -28,7 +28,7 @@ library(knitr)
 
 ##### Starting Conditions
 * *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:*
+* *End:* 6th day of Kythorn (The Time of Flowers)
 * *Weather:*
 * *Location(s):*
     - *Start:* PT pocket dimension
@@ -48,7 +48,9 @@ library(knitr)
 
 *Occurred*
 
-*
+* After the confruntation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+  The space carried a setting not unfamilar from their home plane but was clearly embued with magical parameters
+
 
 
 
