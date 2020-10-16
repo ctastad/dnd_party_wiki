@@ -18,6 +18,20 @@ library(knitr)
 
 ### Weekly Recap {.tabset .tabset-fade}
 
+#### 10/11
+* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
+* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+
+#### 09/20
+* After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+* The space was a setting with features not unfamiliar from their home plane but was clearly defined magical parameters.
+* With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
+* When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
+
 #### 08/23
 * The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
 * The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.

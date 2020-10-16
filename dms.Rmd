@@ -20,39 +20,34 @@ library(knitr)
 
 ## Session
 
+
 ##### Previous Summary
-* The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
-* The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
-* In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
-* They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
+* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
+* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
 
 ##### Starting Conditions
 * *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
+* *End:*
 * *Weather:*
 * *Location(s):*
-    - *Start:* PT pocket dimension
+    - *Start:*
 * *NPCs:*
-    - Lady Luna and Onry outside pocket dimension
 * *Circumstances:*
-    - The party has just been trasported to the PT pocket dimension and will have to navigate their way out.
+    -
 
 ##### Session Events
 
 *Anticipated*
 
-* Vaerune is approached by a flail snal while on watch. They bring a message re an opportunity to join the Emerald Compact.
-* The party passes through the pocket dimension and escapes.
-* After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
-* The party arrives at the mine and is given a day before their return trip.
+*
 
 *Occurred*
 
-* After the confruntation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
-  The space carried a setting not unfamilar from their home plane but was clearly embued with magical parameters
-
-
-
+*
 
 ---
 
@@ -382,6 +377,7 @@ library(knitr)
     - island
     - town
 * item
+* monimage
 * monster
 * race
 * racefeat
@@ -394,6 +390,81 @@ library(knitr)
 ---
 
 ### Notes Log {.tabset .tabset-fade}
+
+#### 10/11
+
+##### Previous Summary
+* After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+* The space was a setting features not unfamiliar from their home plane but was clearly defined magical parameters.
+* With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
+* When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 6th day of Kythorn (The Time of Flowers)
+* *Weather:* partly cloudy, wind 14mph, high 59
+* *Location(s):*
+    - *Start:* original campsite before pocket dimension
+* *NPCs:*
+    - lady luna
+    - onry
+* *Circumstances:*
+    - The party has just navigated their way through the pocket dimension and have arrived back at their campsite just moments before. They will discover both Lady Luna and Onry just outside the perimeter of the campsite in a confused state totally unaware of the events that just transpired. If prompted, they will elect to continue on to the mine.
+
+##### Session Events
+
+*Anticipated*
+
+* Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
+* After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
+* The party arrives at the mine and is given a day before their return trip.
+* With this downtime, the party will potentially enter the mine and get into some shenanigans.
+
+*Occurred*
+
+* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
+* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+
+---
+
+#### 09/20
+
+##### Previous Summary
+* The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
+* The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
+* In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
+* They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 6th day of Kythorn (The Time of Flowers)
+* *Weather:*
+* *Location(s):*
+    - *Start:* PT pocket dimension
+* *NPCs:*
+    - Lady Luna and Onry outside pocket dimension
+* *Circumstances:*
+    - The party has just been transported to the PT pocket dimension and will have to navigate their way out.
+
+##### Session Events
+
+*Anticipated*
+
+* Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
+* The party passes through the pocket dimension and escapes.
+* After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
+* The party arrives at the mine and is given a day before their return trip.
+
+*Occurred*
+
+* After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+* The space was a setting with features not unfamiliar from their home plane but was clearly defined magical parameters.
+* With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
+* When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
 
 ---
 
@@ -1068,7 +1139,10 @@ Prepared Spells
 
 ### Laurentz Mine
 * **Location:** A mile NE of Greenbottle Hill
-* **Description:** This is a strip mine under recent development by Lady Luna Laurentz.
+* **Description:** This is a slopped outcropping mine under recent development by Lady Luna Laurentz.
+    - Map: The Catacombs of Demonic Terror.html
+    - This is a naturally formed cavern that was identified to have iron veins present.
+    - The cave opens to cavern #2 with the primary exploration for cold iron taking place in caver #7
 * **NPCs:**
     - Lady Luna
     - Nidei the Accursed
@@ -1082,7 +1156,6 @@ Prepared Spells
 * **Location:** A contained void in space
 * **Description:**
     - Consists of 3 magically conjoined environments that contain visualizations and interactive objects that have been arranged in a manner to be solvable puzzles.
-    - Room 1 (Kobe)
     - Room 1 (Art of Programming)
     - Room 2 (Rude Guantlet)
     - Room 2b (Backward Hall)
@@ -1188,7 +1261,7 @@ ArcReader, Snail Mail beacon license
 - book of etiquette on table -  principles of applied manners: from going to tea or declaring war
 - PCs must ask politely to enter through door.
 
-#### prisoners dilemma
+#### king's dilemma
 - players enter room where they respectively enter visual\/audio cones of isolation. must figure out dynamic collectively to solve puzzle
     + players role covert int saves
     + split party in half to separately meet the king
