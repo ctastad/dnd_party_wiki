@@ -20,34 +20,36 @@ library(knitr)
 
 ## Session
 
-
 ##### Previous Summary
-* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
-* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
-* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
-* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
-* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
-* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
 
 ##### Starting Conditions
 * *Start:* 6th day of Kythorn (The Time of Flowers)
 * *End:*
-* *Weather:*
+* *Weather:* Overcast, 20mph wind, 56F
 * *Location(s):*
-    - *Start:*
+    - *Start:* Outside the entrance of the Laurentz Mine.
 * *NPCs:*
+    - Nidei the Accursed
+    - Samuta the Enslaved
 * *Circumstances:*
-    -
+    - Ashitaka just failed to covertly approach Nidei and Samuta while they were processing ore. In his panicked escape, he provoked Nidei who released Samuta to initiate pursuit of the party. The session ended when Dimaya attempted to communicate with Samuta.
 
 ##### Session Events
 
 *Anticipated*
 
-*
+* Honestly don't even know. Could go any direction depending on how the party interacts with Nidei and Samuta. Nidei is not inherently hostile, but he party could provoke combat if handled poorly.
 
 *Occurred*
 
 *
+
 
 ---
 
@@ -66,80 +68,80 @@ library(knitr)
 <details>
   <summary>**Savanna - Hill**</summary>
 
-1. 1 x Giant Boar (cr 2, mm 323); easy, 450 xp; treasure 4 pp
-1. 1 x Redcap (cr 3, vgm 188); medium, 700 xp; treasure 14 gp
-1. Green Hag (cr 3, mm 177) and 1 x Boggle (cr 1/8, vgm 128); medium, 725 xp; treasure 18 gp + 17 cp
-1. Hobgoblin Devastator (cr 4, vgm 161) and 1 x Hobgoblin (cr 1/2, mm 186); deadly, 1200 xp; treasure 5 gp + 8 ep
-1. Xvart Warlock of Raxivort (cr 1, vgm 200) and 3 x Xvart (cr 1/8, vgm 200); medium, 275 xp; treasure 12 gp + 18 cp + 19 cp + 4 pp
-1. 2 x Bronze Scout (cr 1, mtf 125); medium, 400 xp; treasure 16 sp + 17 sp
-1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 1 x Gnoll (cr 1/2, mm 163); deadly, 1200 xp; treasure 9 ep + 9 gp
-1. 1 x Manticore (cr 3, mm 213); medium, 700 xp; treasure 8 gp
-1. 2 x Half-ogre (cr 1, mm 238); medium, 400 xp; treasure 17 cp + 16 cp
-1. Firenewt Warlock of Imix (cr 1, vgm 143) and 3 x Firenewt Warrior (cr 1/2, vgm 142); deadly, 500 xp; treasure 16 sp + 15 sp + 12 gp + 13 cp
+1. 1 x Shadow Mastiff (cr 2, vgm 190); easy, 450 xp; treasure 9 gp
+1. Ogre Battering Ram (cr 4, mtf 220) and 1 x Ogre (cr 2, mm 237); deadly, 1550 xp; treasure 16 cp + 13 gp
+1. Ogre Bolt Launcher (cr 2, mtf 220) and 1 x Ogre (cr 2, mm 237); hard, 900 xp; treasure 19 cp + 14 gp
+1. 2 x Werewolf (cr 3, mm 211) and 4 x Wolf (cr 1/4, mm 341); deadly, 1600 xp; treasure 11 ep + 14 sp + 18 cp + 17 cp + 14 gp + 16 sp
+1. Neogi (cr 3, vgm 180) and 6 x Neogi Hatchling (cr 1/8, vgm 179); deadly, 850 xp; treasure 20 cp + 13 sp + 2 pp + 15 gp + 9 sp + 12 sp + 9 gp
+1. Bandit Captain (cr 2, mm 344) and 2 x Bandit (cr 1/8, mm 343); easy, 500 xp; treasure 12 cp + 16 sp + 7 sp
+1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 7 gp
+1. Barghest (cr 4, vgm 123) and 1 x Goblin (cr 1/4, mm 166); hard, 1150 xp; treasure 11 sp + 13 ep
+1. 1 x Bulette (cr 5, mm 34); hard, 1800 xp; treasure 210 sp, 90 gp
+1. Green Hag (cr 3, mm 177) and 1 x Boggle (cr 1/8, vgm 128); easy, 725 xp; treasure 10 ep + 12 ep
 
 </details>
 
 <details>
   <summary>**Grassland**</summary>
 
-1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 1 x Gnoll (cr 1/2, mm 163); deadly, 1200 xp; treasure 16 cp + 16 sp
-1. 1 x Wereboar (cr 4, mm 209); deadly, 1100 xp; treasure 18 sp
-1. 1 x Gnoll Flesh Gnawer (cr 1, vgm 154) and 1 x Maw Demon (cr 1, vgm 137); medium, 400 xp; treasure 8 gp + 18 cp
-1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 14 sp
-1. 1 x Vampiric Mist (cr 3, mtf 246); medium, 700 xp; treasure 11 gp
-1. 3 x Giant Vulture (cr 1, mm 329); deadly, 600 xp; treasure 22 cp + 8 gp + 11 gp
-1. Barghest (cr 4, vgm 123) and 1 x Goblin (cr 1/4, mm 166); deadly, 1150 xp; treasure 17 cp + 10 gp
-1. 2 x Giant Vulture (cr 1, mm 329); medium, 400 xp; treasure 15 cp + 13 sp
-1. 2 x Hippogriff (cr 1, mm 184); medium, 400 xp; treasure 9 sp + 9 gp
-1. 1 x Veteran (cr 3, mm 350); medium, 700 xp; treasure 17 cp
+1. 2 x Ogre (cr 2, mm 237); hard, 900 xp; treasure 21 cp + 18 sp
+1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 12 gp
+1. Ogre Battering Ram (cr 4, mtf 220) and 1 x Ogre (cr 2, mm 237); deadly, 1550 xp; treasure 17 sp + 17 sp
+1. 2 x Allosaurus (cr 2, mm 79); hard, 900 xp; treasure 7 sp + 12 sp
+1. 1 x Oaken Bolter (cr 5, mtf 126); hard, 1800 xp; treasure 1500 cp, 60 ep
+1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 2 x Gnoll Witherling (cr 1/4, vgm 155); hard, 1200 xp; treasure 17 cp + 11 gp + 9 gp
+1. Vampiric Mist (cr 3, mtf 246) and 2 x Shadow (cr 1/2, mm 269); hard, 900 xp; treasure 9 gp + 14 ep + 16 sp
+1. Barghest (cr 4, vgm 123) and 2 x Goblin (cr 1/4, mm 166); hard, 1200 xp; treasure 16 cp + 16 sp + 22 cp
+1. 1 x Iron Cobra (cr 4, mtf 125); medium, 1100 xp; treasure 14 gp
+1. 1 x Stegosaurus (cr 4, vgm 140); medium, 1100 xp; treasure 14 sp
 
 </details>
 
 <details>
   <summary>**Coastal - Tropical**</summary>
 
-1. 1 x Manticore (cr 3, mm 213); medium, 700 xp; treasure 14 sp
-1. 2 x Giant Eagle (cr 1, mm 324); medium, 400 xp; treasure 14 gp + 16 cp
-1. 1 x Tortle Druid (cr 2, mtf 242) and 1 x Tortle (cr 1/4, mtf 242); medium, 500 xp; treasure 7 ep + 11 gp
-1. 1 x Plesiosaurus (cr 2, mm 80); easy, 450 xp; treasure 12 cp
-1. 1 x Plesiosaurus (cr 2, mm 80); easy, 450 xp; treasure 7 gp
-1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 13 sp
-1. 1 x Veteran (cr 3, mm 350); medium, 700 xp; treasure 16 cp
-1. 3 x Giant Eagle (cr 1, mm 324); deadly, 600 xp; treasure 14 cp + 18 sp + 18 cp
-1. 1 x Banshee (cr 4, mm 23); deadly, 1100 xp; treasure 8 gp
-1. 3 x Sea Spawn (cr 1, vgm 189); deadly, 600 xp; treasure 12 gp + 12 gp + 17 sp
+1. 2 x Sea Spawn (cr 1, vgm 189); easy, 400 xp; treasure 22 cp + 15 gp
+1. 1 x Berserker (cr 2, mm 344); easy, 450 xp; treasure 3 pp
+1. Sahuagin Baron (cr 5, mm 264) and 1 x Sahuagin (cr 1/2, mm 263); hard, 1900 xp; treasure 130 gp + 15 sp
+1. 2 x Plesiosaurus (cr 2, mm 80); hard, 900 xp; treasure 10 gp + 13 gp
+1. 1 x Plesiosaurus (cr 2, mm 80); easy, 450 xp; treasure 13 cp
+1. 2 x Giant Eagle (cr 1, mm 324); easy, 400 xp; treasure 18 cp + 18 cp
+1. 2 x Sea Spawn (cr 1, vgm 189); easy, 400 xp; treasure 14 ep + 2 pp
+1. 2 x Tortle Druid (cr 2, mtf 242) and 3 x Tortle (cr 1/4, mtf 242); hard, 1050 xp; treasure 10 gp + 24 cp + 9 gp + 10 ep + 11 sp
+1. 1 x Druid (cr 2, mm 346) and 1 x Wood Woad (cr 5, vgm 198); deadly, 2250 xp; treasure 20 cp + 180 sp, 50 gp
+1. Sahuagin Priestess (cr 2, mm 264) and 2 x Sahuagin (cr 1/2, mm 263); hard, 650 xp; treasure 9 sp + 9 gp + 9 gp
 
 </details>
 
 <details>
   <summary>**Urban**</summary>
 
-1. 1 x Wererat (cr 2, mm 209); easy, 450 xp; treasure 13 sp
-1. Dybbuk (cr 4, mtf 132) and 1 x Cultist (cr 1/8, mm 345); deadly, 1125 xp; treasure 20 cp + 14 cp
-1. 1 x Phase Spider (cr 3, mm 334); medium, 700 xp; treasure 9 gp
-1. Knight (cr 3, mm 347) and 4 x Commoner (cr 0, mm 344); medium, 740 xp; treasure 12 cp + 14 sp + 16 cp + 12 gp + 12 sp
-1. 1 x Incubus (cr 4, mm 285); deadly, 1100 xp; treasure 12 sp
-1. 3 x Spy (cr 1, mm 349); deadly, 600 xp; treasure 6 sp + 13 gp + 13 cp
-1. 1 x Vampiric Mist (cr 3, mtf 246); medium, 700 xp; treasure 7 gp
-1. 1 x Meenlock (cr 2, vgm 170) and 1 x Shadow (cr 1/2, mm 269); medium, 550 xp; treasure 12 ep + 8 gp
-1. Kobold Scale Sorcerer (cr 1, vgm 167) and 7 x Kobold (cr 1/8, mm 195); hard, 375 xp; treasure 20 cp + 14 sp + 14 cp + 17 cp + 15 sp + 8 gp + 17 sp + 16 sp
-1. Knight (cr 3, mm 347) and 4 x Commoner (cr 0, mm 344); medium, 740 xp; treasure 6 sp + 10 ep + 18 cp + 14 sp + 8 gp
+1. Bandit Captain (cr 2, mm 344) and 10 x Bandit (cr 1/8, mm 343); deadly, 700 xp; treasure 27 cp + 14 sp + 16 cp + 8 sp + 14 gp + 16 sp + 23 cp + 4 ep + 17 cp + 10 ep + 14 sp
+1. 1 x Giff (cr 3, mtf 204); easy, 700 xp; treasure 15 sp
+1. 1 x Wight (cr 3, mm 300); easy, 700 xp; treasure 2 pp
+1. Deathlock (cr 4, mtf 128) and 1 x Cultist (cr 1/8, mm 345); hard, 1125 xp; treasure 12 gp + 15 gp
+1. Wight (cr 3, mm 300) and 2 x Zombie (cr 1/4, mm 316); medium, 800 xp; treasure 11 sp + 15 sp + 8 ep
+1. 1 x Babau (cr 4, vgm 136); medium, 1100 xp; treasure 16 cp
+1. Ghast (cr 2, mm 148) and 2 x Ghoul (cr 1, mm 148); hard, 850 xp; treasure 6 ep + 20 sp + 11 sp
+1. 1 x Will-o-wisp (cr 2, mm 301); easy, 450 xp; treasure 16 gp
+1. 1 x Veteran (cr 3, mm 350); easy, 700 xp; treasure 10 gp
+1. 2 x Orc Red Fang of Shargaas (cr 3, vgm 185) and 2 x Giant Bat (cr 1/4, mm 323); deadly, 1500 xp; treasure 11 cp + 18 sp + 7 sp + 5 pp
 
 </details>
 
 <details>
   <summary>**Forest - Temperate**</summary>
 
-1. Vegepygmy Chief (cr 2, vgm 197) and 1 x Vegepygmy (cr 1/4, vgm 196); medium, 500 xp; treasure 17 cp + 13 sp
-1. 1 x Orc Red Fang of Shargaas (cr 3, vgm 185); medium, 700 xp; treasure 15 gp
-1. 3 x Giant Toad (cr 1, mm 329); deadly, 600 xp; treasure 18 sp + 20 cp + 20 cp
-1. 1 x Redcap (cr 3, vgm 188); medium, 700 xp; treasure 11 ep
-1. 3 x Meazel (cr 1, mtf 214); deadly, 600 xp; treasure 13 cp + 11 sp + 17 sp
-1. 1 x Yeth Hound (cr 4, vgm 201); deadly, 1100 xp; treasure 15 sp
-1. Grung Elite Warrior (cr 2, vgm 157) and 2 x Grung (cr 1/4, vgm 156); deadly, 550 xp; treasure 4 ep + 21 sp + 13 cp
-1. Gnoll Pack Lord (cr 2, mm 163) and 1 x Gnoll (cr 1/2, mm 163); medium, 550 xp; treasure 9 sp + 12 gp
-1. 1 x Yuan-ti Malison (cr 3, mm 309); medium, 700 xp; treasure 20 cp
-1. 3 x Tiger (cr 1, mm 339); deadly, 600 xp; treasure 15 sp + 20 cp + 10 gp
+1. 1 x Banshee (cr 4, mm 23); medium, 1100 xp; treasure 4 pp
+1. Werebear (cr 5, mm 208) and 1 x Brown Bear (cr 1, mm 319); deadly, 2000 xp; treasure 80 gp, 13 pp + 4 ep
+1. 1 x Awakened Tree (cr 2, mm 317); easy, 450 xp; treasure 1 pp
+1. Grung Elite Warrior (cr 2, vgm 157) and 1 x Grung (cr 1/4, vgm 156); easy, 500 xp; treasure 19 sp + 19 cp
+1. Hobgoblin Devastator (cr 4, vgm 161) and 1 x Hobgoblin (cr 1/2, mm 186); hard, 1200 xp; treasure 9 ep + 11 sp
+1. 2 x Orc Red Fang of Shargaas (cr 3, vgm 185) and 2 x Giant Bat (cr 1/4, mm 323); deadly, 1500 xp; treasure 15 cp + 11 cp + 14 sp + 11 cp
+1. Unicorn (cr 5, mm 294) and 1 x Dryad (cr 1, mm 121); deadly, 2000 xp; treasure 210 sp, 50 gp + 7 gp
+1. 1 x Werewolf (cr 3, mm 211) and 1 x Wolf (cr 1/4, mm 341); medium, 750 xp; treasure 19 cp + 7 gp
+1. 1 x Yuan-ti Broodguard (cr 2, vgm 203) and 1 x Yuan-ti Malison (cr 3, mm 309); hard, 1150 xp; treasure 14 sp + 16 cp
+1. Hobgoblin Captain (cr 3, mm 186) and 3 x Hobgoblin (cr 1/2, mm 186); deadly, 1000 xp; treasure 18 cp + 16 sp + 10 gp + 9 gp
 
 </details>
 
@@ -293,6 +295,7 @@ library(knitr)
 <details>
   <summary>**Names**</summary>
 
+* **Random**: Spotswood, Bushrod
 * **Elfs**: Arbelladon Yinwarin , Ailas Omajyre , Alluin Balmys , Theodred Aralana , Taleasin Vasandoral , Gormar Farbalar , Ornthalas Virjyre , Nesterin Triswarin , Volodar Sylbella , Zaos Josatra
 * **Dwarf**: Darendrog Metalstone , Skobrouth Keggrog , Varfulir Forgebuckle , Darefoid Steelbane , Huvouth Thunderforged , Vomdag Lavamaul , Nolgrarlug Shattermaul , Ararril Chaosshoulder , Joded Anvilbringer , Gotrad Snowview
 * **Dragon**: poidhi, the Life Giver , tiorvaen, Protector of the Weak , chaervorth, the Gifted , bieperth, the Jealous One , tudhait, the Dark , dennian, the Puny , gaekae, the Tall , payvinteil, the Bunny Killer , xudaepheo, the Warm , uvirus, the Dragonlord
@@ -390,6 +393,82 @@ library(knitr)
 ---
 
 ### Notes Log {.tabset .tabset-fade}
+
+#### 11/5
+
+##### Previous Summary
+* The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 6th day of Kythorn (The Time of Flowers)
+* *Weather:* Clear, 21mph wind, high 57
+* *Location(s):*
+    - *Start:* At the base of the opening cavern of he Laurentz Mine.
+* *NPCs:*
+    - Nidei the Accursed
+    - Samuta the Enslaved
+* *Circumstances:*
+    - The party aggressively entered the mine and fought off 2 spiders dwelling near the entrance.
+    - The caverns are very cold.
+
+##### Session Events
+
+*Anticipated*
+
+* The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
+* A confrontation will ensue, and the outcome will depend on the party's approach.
+* Nidei is not inherently hostile but is well equipped to defend himself.
+* In the event the party returns to Holworth, a flail snail will approach them with an invitation for Dimaya to join the Threapnalt ...
+
+*Occurred*
+
+* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+
+---
+
+#### 10/29
+
+##### Previous Summary
+* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+* Skagdun conducts a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+* Unable to make sense of these events, they continue on to eventually arrive at the mine where the party is told not to enter.
+* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 6th day of Kythorn (The Time of Flowers)
+* *Weather:* Clear, 21mph wind, high 57
+* *Location(s):*
+    - *Start:* At the base of the opening cavern of he Laurentz Mine.
+* *NPCs:*
+    - Nidei the Accursed
+    - Samuta the Enslaved
+* *Circumstances:*
+    - The party aggressively entered the mine and fought off 2 spiders dwelling near the entrance.
+    - The caverns are very cold.
+
+##### Session Events
+
+*Anticipated*
+
+* The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
+* A confrontation will ensue, and the outcome will depend on the party's approach.
+* Nidei is not inherently hostile but is well equipped to defend himself.
+* Tell spaeth retconned emerald compact passphrase
+
+*Occurred*
+
+* The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
+
+---
 
 #### 10/11
 
@@ -903,6 +982,8 @@ Your job as players:
 * **Story arcs:** An introduction
 * **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
 
+### Sovereign Academcy of Metamagical Sciences
+
 ### Threapnalt University
 * **Description:** An institution of higher learning in the arcane arts
 * **Mission statement:**
@@ -1046,6 +1127,16 @@ Prepared Spells
 * **Location:**
 * **Background:**
 
+
+### Samuta
+* **Race:** White Dragon Wyrmling
+* **Class:**
+* **Motivations:** Escape enslavement
+* **Traits:** Chaotic Evil
+* **Location:** Laurentz Mine
+* **Background:** Samuta was captured by Nidei the Accursed as a hatchling. In developing his technique for synthesizing cold iron, Nidei conscripted Samuta to a life of indentured servitude by using her frost breath in his transmutation process.
+
+
 ### Siyorac
 * **Race:** Human
 * **Class:** Guard
@@ -1140,12 +1231,12 @@ Prepared Spells
 ### Laurentz Mine
 * **Location:** A mile NE of Greenbottle Hill
 * **Description:** This is a slopped outcropping mine under recent development by Lady Luna Laurentz.
-    - Map: The Catacombs of Demonic Terror.html
     - This is a naturally formed cavern that was identified to have iron veins present.
-    - The cave opens to cavern #2 with the primary exploration for cold iron taking place in caver #7
+    - The cave opens to cavern #2 with the primary exploration for cold iron taking place in cavern #7
 * **NPCs:**
     - Lady Luna
     - Nidei the Accursed
+    - Samuta the Enslaved
 * **Organizations:** Laurentz Family Enterprises
 * **Items:**
 * **Story arcs:** Realignment
@@ -1338,12 +1429,17 @@ bog walkers
 
 ozamandib
 
+land component
+
 ### Story Arcs
 
 https://docs.google.com/document/d/1ADbrYtsI6_EhYRgBtzKQB1Iv4TgbouZfLKV7YRU2XeM/edit
 
 With esoteric drift:
 
+* Amira Tonder, Spotswood Bushrod
+
+* W. Fitzhugh Brundage and Amira Tonder collaborated as academics to research and create the Brundage-Tonder system of esoteric drift.
 * The realm lacks magical properties due to an arcane energy void
 * BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
 * BB discovers method to manipulate esoteric drift that fills arcane void, making interaction with the weave possible

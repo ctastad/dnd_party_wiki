@@ -18,10 +18,21 @@ library(knitr)
 
 ### Weekly Recap {.tabset .tabset-fade}
 
+#### 11/5
+* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+
+#### 10/29
+* The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
+
 #### 10/11
 * After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
-* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
-* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
+* Skagdun conducts a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+* Unable to make sense of these events, they continue on to eventually arrive at the mine where the party is told not to enter.
 * The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
 * While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
 * Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
