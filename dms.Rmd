@@ -20,36 +20,40 @@ library(knitr)
 
 ## Session
 
+
 ##### Previous Summary
-* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
-* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
-* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
-* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
-* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
-* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+* In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
 
 ##### Starting Conditions
 * *Start:* 6th day of Kythorn (The Time of Flowers)
 * *End:*
-* *Weather:* Overcast, 20mph wind, 56F
+* *Weather:*
 * *Location(s):*
-    - *Start:* Outside the entrance of the Laurentz Mine.
+    - *Start:* In hiding at camp site within distance of Laurentz Mine.
 * *NPCs:*
-    - Nidei the Accursed
-    - Samuta the Enslaved
+    - Nidei
+    - Lady Lunda
+    - Onry
+    - local militia
 * *Circumstances:*
-    - Ashitaka just failed to covertly approach Nidei and Samuta while they were processing ore. In his panicked escape, he provoked Nidei who released Samuta to initiate pursuit of the party. The session ended when Dimaya attempted to communicate with Samuta.
+    - After confronting both Samuta and Nidei the party resolved to lay low and assess fall out. The scene starts at the beginning of a long rest.
 
 ##### Session Events
 
 *Anticipated*
 
-* Honestly don't even know. Could go any direction depending on how the party interacts with Nidei and Samuta. Nidei is not inherently hostile, but he party could provoke combat if handled poorly.
+* The party concluded they should not directly confront their employer after the fallout from the mine. I expect they will observe the ongoings around the mine and potentially Greenbottle Hill and look for either an opportunity to intervene or escape.
+* If the party attempts to meet LL, they will find Onry and a hastily assembled local militia anticipating their arrival. They will learn Samuta alerted LL of the events in the mine leading to her departure, leaving Onry to manage the situation with reinforcement.
 
 *Occurred*
 
 *
-
 
 ---
 
@@ -393,6 +397,44 @@ library(knitr)
 ---
 
 ### Notes Log {.tabset .tabset-fade}
+
+#### 11/21
+
+##### Previous Summary
+* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 6th day of Kythorn (The Time of Flowers)
+* *Weather:* Overcast, 20mph wind, 56F
+* *Location(s):*
+    - *Start:* Outside the entrance of the Laurentz Mine.
+* *NPCs:*
+    - Nidei the Accursed
+    - Samuta the Enslaved
+* *Circumstances:*
+    - Ashitaka just failed to covertly approach Nidei and Samuta while they were processing ore. In his panicked escape, he provoked Nidei who released Samuta to initiate pursuit of the party. The session ended when Dimaya attempted to communicate with Samuta.
+
+##### Session Events
+
+*Anticipated*
+
+* Honestly don't even know. Could go any direction depending on how the party interacts with Nidei and Samuta. Nidei is not inherently hostile, but he party could provoke combat if handled poorly.
+
+*Occurred*
+
+* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+* In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
 
 #### 11/5
 

@@ -18,6 +18,15 @@ library(knitr)
 
 ### Weekly Recap {.tabset .tabset-fade}
 
+#### 11/21
+* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+* In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+
 #### 11/5
 * Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
 * The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
