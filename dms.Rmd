@@ -792,16 +792,52 @@ Your job as players:
     + *Event:* Prahmethoth introduces magic to realm.
     + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technological awakening.
     + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
-    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of esoteric drift, rendering him virtually invincible.
-    + *Resolution:* The PCs attempt to develop a method for esoteric permanence, allowing them to fight Prahmethoth at full strength.
-* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, esoteric drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate esoteric drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
+    + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of arcane drift, rendering him virtually invincible.
+    + *Resolution:* The PCs attempt to develop a method for arcane permanence, allowing them to fight Prahmethoth at full strength.
+* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, arcane drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate arcane drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
+
+* The realm lacks magical properties due to an arcane energy void
+* BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
+* BB discovers method to manipulate arcane drift that fills arcane void, making interaction with the weave possible
+* Need: ability or artifact to manipulate arcane drift.
+* This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
+* Party can discover method of controlling ability or forging artifact to give arcane drift permanence.
+
+#### Investigation
+* Spell casting has become a routine nature that is focused on the functional outcome of its action without holding an understanding of the underlying mechanisms
+* What change occured to introduce the state of magic we see today? The capabilities of casting existed prior as shown by our psyonic colleagues, so what about the weave changed.
+
+* W. Fitzhugh Brundage and Amira Tonder collaborated as academics with Spotswood Bushrod (artificer) to research and create the Brundage-Tonder system of that includes Arcane Drift.
+* Created a conductive arcane energy device that allows for the measurement of energy transfer. Uses a unipolar gate that relies on a field effect.- The device is two concentric circles mounted in a substrate. The circles are composed of varying specialized alloys that mark both points of human interface for the user along with the location of the central logic gate wear measurement that takes place in the material of the device.
+* Collaborated with artificer colleague to engineer and manipulate the device
+* Isolated component mechanisms of casting process through independent measurement
+* Used dispel magic as a negative control to detect arcane energy vacancy
+
+##### Experiments
+
+**Tear**
+
+* detect arcane energy procurement (flame) use conductive device
+
+**Amplification**
+
+* quantify and show difference in containment of energy (lvl difference between spells) (fuel) use conductive device
+
+**Diffraction**
+
+* delineate difference in channeling arcane energy to different schools of magic. (lens) something with diffraction
+
+**Containment**
+
+* prove ability to hold casting (aperture)
+
 * **Items:**
 * **Chars:**
     + Prahmethoth
 * **Plot hooks:**  
 * **Events:**
     + Anticipated:**
-        - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts esoteric permanence.
+        - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts arcane permanence.
     + Transpired:**
 
 ### An Introduction
@@ -1075,6 +1111,131 @@ Your job as players:
 * **Location:** Farm off main road south of Holworth.
 * **Background:** Spent a career as an adventurer with wife but has since retired.
 
+### Greenbottle Hill Militia
+* **Leader:** Onry
+* **Members:** x12 stout halfling locals, x3 fern domesticated fern hounds
+
+
+<details>
+  <summary>**Class Features**</summary>
+
+**Onry**
+
+Armor Class: 14 (Padded)
+
+Hit Points: 19 (3d8 +6)
+
+Speed: 30ft (9m / 6 sqr)
+
+Proficiency: +2
+
+STR 9 (-1) DEX 17 (+3) CON 14 (+2) INT 12 (+1) WIS 11 (+0) CHA 18 (+4)
+
+Skills: Perception +2 Deception +6 Performance +6
+
+Saving Throws: Charisma +6 Dexterity +5
+
+Challenge: 2 (450 XP)
+Actions
+
+Scimitar. Melee Weapon Attack +5 to hit, reach 5 ft, one target. Hit: 6 (1d6 +3 ) slashing damage.
+
+Properties: Finesse, Light,
+
+Spells
+
+Spellcasting. the Minstrel is an 3rd-level bard. Its spellcasting ability is Charisma (spell save DC 14, to hit with spell attacks +6)
+
+Cantrips (at will): Mending, Mage Hand, Dancing Lights,
+
+1st level (4 slots): Illusory Script, Identify, Bane, Sleep,
+
+2nd level (2 slots): Phantasmal Force, Lesser Restoration, See Invisibility,
+
+Bard Class Features [PHB p. 41]
+
+• Ritual Casting
+
+• Bardic Inspiration (d6) (2 uses per day)
+
+• Jack of All Trades (non-prof. bonus)
+
+• Song of Rest (+1d6 hp/rest)
+
+**Halfing**
+
+Armor Class: 13 (Leather)
+
+Hit Points: 16 (3d8 +3)
+
+Speed: 25ft (7,5m / 5 sqr)
+
+Proficiency: +2
+
+STR 15 (+2) DEX 15 (+2) CON 13 (+1) INT 11 (+0) WIS 13 (+1) CHA 12 (+1)
+
+Skills: Intimidation +3 Perception +3
+
+Challenge: 1/4 (50XP)
+Actions
+
+Javelin. Melee Weapon Attack +4 to hit, range 30/120ft, one target. Hit: 5 (1d6 +2 ) piercing damage.
+
+Properties: Thrown: range 30/120ft,
+
+Dagger. Melee Weapon Attack +4 to hit, range 20/60ft, one target. Hit: 4 (1d4 +2 ) piercing damage.
+
+Properties: Thrown: range 20/60ft, Finesse, Light,
+
+Special Abilities
+Strenght in numbers: As Pack Tactics. The creature has advantage on attack rolls against an enemy if at least one of the creatures allies is within 5 feet of the enemy and the ally isn't incapacitated.
+Fear when alone: The militia is high succeptible to moral and mind effects when left alone. If no ally is on sight or further than 60ft the militia has disvantage on WIS, INT and CHA saving throws.
+Racial Features
+
+Ability Modifiers: +2 Dex, +1 Cha
+
+Small Size: small creatures should use d6 for hit dices
+
+Lucky: When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+
+Brave: You have advantage on saving throws against being frightened.
+
+Halfling Nimbleness: You can move through the space of any creature that is of a size larger than yours.
+
+Stout Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage.
+
+Languages: speaks Common and Halfling
+
+**Fern Hound**
+
+Medium plant, unaligned
+
+Armor Class 13 (natural armor)
+Hit Points 11 (2d8 + 2)
+Speed 40 ft.
+STR 	DEX 	CON 	INT 	WIS 	CHA
+12 (+1) 	15 (+2) 	12 (+1) 	3 (-4) 	12 (+1) 	6 (-2)
+
+Skills Perception +3
+Senses passive Perception 13
+Languages Ancient
+Challenge 1/4 (50 XP)
+
+Bioluminescent. The fern hound sheds dim light in a 10-foot radius.
+
+False Appearance. While the fern hound remains motionless, it is indistinguishable from a normal growth of ferns.
+
+Keen Hearing and Smell. The fern hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+Pack Tactics. The fern hound has advantage on an attack roll against a creature if at least one of the fern hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+ACTIONS
+
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
+
+</details>
+</br>
+
+
 ### Lady Luna Laurentz
 * **Race:** Human
 * **Class:** na, noble
@@ -1129,34 +1290,61 @@ Your job as players:
 
 <details>
   <summary>**Class Features**</summary>
+Armor Class: 14 (Padded)
 
-STR: 8, -1
-DEX: 16, +3
-CON: 13, +1
-INT: 12 +1
-WIS: 11 +0
-CHA: 16 +3
+Hit Points: 19 (3d8 +6)
 
-Bard Class Features [PHB p. 41]
+Speed: 30ft (9m / 6 sqr)
 
-• Ritual Casting
+Proficiency: +2
 
-• Bardic Inspiration (d6) (2 uses per day)
+STR 9 (-1) DEX 17 (+3) CON 14 (+2) INT 12 (+1) WIS 11 (+0) CHA 18 (+4)
 
-• Jack of All Trades (non-prof. bonus)
+Skills: Perception +2 Deception +6 Performance +6
 
-• Song of Rest (+1d6 hp/rest)
+Saving Throws: Charisma +6 Dexterity +5
 
+Challenge: 2 (450 XP)
+Actions
 
-Spellcasting [PHB p. 201]
-Spell Attack Modifier +4
-Spell Save DC 12
+Scimitar. Melee Weapon Attack +5 to hit, reach 5 ft, one target. Hit: 6 (1d6 +3 ) slashing damage.
 
-Cantrips Known: Minor Illusion, Vicious Mockery
+Properties: Finesse, Light,
 
-Prepared Spells
+Spells
 
-1st Level (3 slots): Charm Person, Detect Magic, Faerie Fire, Comprehend Languages, Disguise Self
+Spellcasting. the Minstrel is an 3rd-level bard. Its spellcasting ability is Charisma (spell save DC 14, to hit with spell attacks +6)
+
+Cantrips (at will): Mending, Mage Hand, Dancing Lights,
+
+1st level (4 slots): Illusory Script, Identify, Bane, Sleep,
+
+2nd level (2 slots): Phantasmal Force, Lesser Restoration, See Invisibility,
+
+Click here to see spells descriptions (external tool)
+Special Abilities
+Fame and Glamour: The minstrel is a bon vivant who tries to live the most of his life each day and has a renown for his increadible ability with music, dance and charm. Simply by playing a show or chatting with right persons he can make others pay his modest life expenses. With a CR 3 this benefit goes to Comfortable, CR 10 Wealthy and CR 15 Aristocrat life style.
+Contacts, Enemies and Allies: He knows a lot of people on his region and made a lot of good and bad choices during his life. He has a incredible high chance to have met or to be known by anyone. The GM can roll a d10 to see if another NPC know the Minstrel, on 1 the Minstrel is hated by the NPC, on 2-3 the NPC is unfrendly, on 4-7 the NPC don't know him, on 8 he has a minor connection, a friend in common, member of family, etc; on 9 the minstrel already worked for the NPC and on a 10 he is an old friend or someone who owns the minstrel a favor.
+Tool Proficiency: The minstrel is proficient with 2 Musical instruments of his choice and 2 kinds of Gaming Sets.
+Racial Features
+
+Ability Modifiers: +2 Dex, +1 Cha
+
+Fey Ancestry: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+Superior Darkvision: 120ft (36m / 24sqr)
+
+Sunlight Sensitivity: Disvantage on attack rolls and wisdom perception (sight) when your target is on direct sunlight
+
+Trance: meditate for 4 hours instead of sleep.
+
+Keen Senses: proficiency in the Perception skill.
+
+Drow Weapon Training: proficiency with the rapiers, shortswords, and hand crossbows (not considered for template)
+
+Drow Magic: know Dancing Lights cantrip, once per day can cast Faerie Fire (if CR is greater than 3) and Darkness, also once per day (if CR is greater than 5). Charisma as spellcasting ability for those spells
+
+Languages: speaks Elvish and Undercommon.
 
 </details>
 </br>
@@ -1196,7 +1384,7 @@ Prepared Spells
 * **Background:**
     + Conducts academic work on the arcane.
     + Stands as a leader in the early findings of arcane mechanisms (Ves-Tonder System).
-    + Currently expanding into area of esoteric drift.
+    + Currently expanding into area of arcane drift.
     + Is an active member of the Progenitor Trust.
 
 ---
@@ -1472,6 +1660,8 @@ King: Alas, we've lost miserably, and I must face my people in great shame. I ca
 * create pun trap for darin
 * brainstorm how to integrate pc background better
 
+https://www.dmsguild.com/browse.php?filters=0_0_0_45752_0_0_0_0
+
 dwarf fortress stronghold
 
 bog walkers
@@ -1480,21 +1670,11 @@ ozamandib
 
 land component
 
+barnaby suttle
+
 ### Story Arcs
 
 https://docs.google.com/document/d/1ADbrYtsI6_EhYRgBtzKQB1Iv4TgbouZfLKV7YRU2XeM/edit
-
-With esoteric drift:
-
-* Amira Tonder, Spotswood Bushrod
-
-* W. Fitzhugh Brundage and Amira Tonder collaborated as academics to research and create the Brundage-Tonder system of esoteric drift.
-* The realm lacks magical properties due to an arcane energy void
-* BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
-* BB discovers method to manipulate esoteric drift that fills arcane void, making interaction with the weave possible
-* Need: ability or artifact to manipulate esoteric drift.
-* This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
-* Party can discover method of controlling ability or forging artifact to give esoteric drift permanence.
 
 subplots
 
