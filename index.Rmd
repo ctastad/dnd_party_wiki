@@ -18,6 +18,12 @@ library(knitr)
 
 ### Weekly Recap {.tabset .tabset-fade}
 
+#### 12/13
+* A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
+* With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
+* The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
+* Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
+
 #### 11/21
 * At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
 * In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.

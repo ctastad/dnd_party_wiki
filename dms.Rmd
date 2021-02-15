@@ -20,36 +20,31 @@ library(knitr)
 
 ## Session
 
-
 ##### Previous Summary
-* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
-* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
-* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
-* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
-* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
-* In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
-* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+* A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
+* With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
+* The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
+* Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *Start:* 7th day of Kythorn (The Time of Flowers)
 * *End:*
-* *Weather:*
+* *Weather:* Clear, 14 mph NE wind, High of 57
 * *Location(s):*
-    - *Start:* In hiding at camp site within distance of Laurentz Mine.
+    - *Start:* Leo Ferrari's home
 * *NPCs:*
-    - Nidei
-    - Lady Lunda
     - Onry
     - local militia
 * *Circumstances:*
-    - After confronting both Samuta and Nidei the party resolved to lay low and assess fall out. The scene starts at the beginning of a long rest.
+    - The party has been unable to avoid confrontation with the militia and is holed up in Leo's cellar. At the point they party leaves Leo's they will find one of the fern hounds who will alert the militia waiting in tow.
 
 ##### Session Events
 
 *Anticipated*
 
-* The party concluded they should not directly confront their employer after the fallout from the mine. I expect they will observe the ongoings around the mine and potentially Greenbottle Hill and look for either an opportunity to intervene or escape.
-* If the party attempts to meet LL, they will find Onry and a hastily assembled local militia anticipating their arrival. They will learn Samuta alerted LL of the events in the mine leading to her departure, leaving Onry to manage the situation with reinforcement.
+* The party will have a confrontation with the militia.
+* It's possible they will attempt to apprehend Onry after dispatching the other members of the millitia. That would be nice.
+* I'm hoping they read into Leo's the minor backstory elements alluding to a connection between him and LL as a connection to return to Holworth.
 
 *Occurred*
 
@@ -345,6 +340,7 @@ library(knitr)
     - Random campsite encounters
 * [DnD Speak](http://dndspeak.com/2018/03/100-social-encounters-on-the-road/)
     - Social encounters
+* [The Loot Shop](https://www.5elootshop.com/)
 
 #### PCs
 
@@ -397,6 +393,45 @@ library(knitr)
 ---
 
 ### Notes Log {.tabset .tabset-fade}
+
+#### 12/13
+
+##### Previous Summary
+* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+* In separate confrontations - Samuta through serpentine force and Nidei through parlor tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+
+##### Starting Conditions
+* *Start:* 6th day of Kythorn (The Time of Flowers)
+* *End:* 7th day of Kythorn (The Time of Flowers)
+* *Weather:*
+* *Location(s):*
+    - *Start:* In hiding at camp site within distance of Laurentz Mine.
+* *NPCs:*
+    - Nidei
+    - Lady Luna
+    - Onry
+    - local militia
+* *Circumstances:*
+    - After confronting both Samuta and Nidei the party resolved to lay low and assess fall out. The scene starts at the beginning of a long rest.
+
+##### Session Events
+
+*Anticipated*
+
+* The party concluded they should not directly confront their employer after the fallout from the mine. I expect they will observe the on goings around the mine and potentially Greenbottle Hill and look for either an opportunity to intervene or escape.
+* If the party attempts to meet LL, they will find Onry and a hastily assembled local militia anticipating their arrival. They will learn Samuta alerted LL of the events in the mine leading to her departure, leaving Onry to manage the situation with reinforcement.
+
+*Occurred*
+
+* A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
+* With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
+* The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
+* Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
 
 #### 11/21
 
@@ -808,7 +843,7 @@ Your job as players:
 * What change occured to introduce the state of magic we see today? The capabilities of casting existed prior as shown by our psyonic colleagues, so what about the weave changed.
 
 * W. Fitzhugh Brundage and Amira Tonder collaborated as academics with Spotswood Bushrod (artificer) to research and create the Brundage-Tonder system of that includes Arcane Drift.
-* Created a conductive arcane energy device that allows for the measurement of energy transfer. Uses a unipolar gate that relies on a field effect.- The device is two concentric circles mounted in a substrate. The circles are composed of varying specialized alloys that mark both points of human interface for the user along with the location of the central logic gate wear measurement that takes place in the material of the device.
+* Created the Integrated Arcane Circuit Guage, a conductive arcane energy device that allows for the measurement of energy transfer. Uses a unipolar gate that relies on a field effect. The device is two concentric circles mounted in a substrate. The circles are composed of varying specialized alloys that mark both points of human interface for the user along with the location of the central logic gate where measurement takes place in the material of the device.
 * Collaborated with artificer colleague to engineer and manipulate the device
 * Isolated component mechanisms of casting process through independent measurement
 * Used dispel magic as a negative control to detect arcane energy vacancy
