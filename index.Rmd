@@ -16,7 +16,16 @@ library(rmarkdown)
 library(knitr)
 ```
 
-### Weekly Recap {.tabset .tabset-fade}
+### 2021 Weekly Recap {.tabset .tabset-fade}
+
+#### 02/13
+* The party sustained their respite with Leo in an attempt to strategize on a clean escape.
+* In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
+* With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
+* The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
+* Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
+
+### 2020 Weekly Recap {.tabset .tabset-fade}
 
 #### 12/13
 * A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
