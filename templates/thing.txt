@@ -1,5 +1,5 @@
 ### [ITEM NAME]
-* **Qualities:**
-* **Location:**
-* **Background:**
+- **Qualities:**
+- **Location:**
+- **Background:**
 

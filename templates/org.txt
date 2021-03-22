@@ -1,12 +1,12 @@
 ### [ORG NAME]
-* **Description:**
-* **Mission statement:**
-* **Motto:**
-* **Goals:**
-* **Location:**
-* **Services:**
-* **Membership:**
-* **NPCs:**
-* **Story arcs:**
-* **Background:**
+- **Description:**
+- **Mission statement:**
+- **Motto:**
+- **Goals:**
+- **Location:**
+- **Services:**
+- **Membership:**
+- **NPCs:**
+- **Story arcs:**
+- **Background:**
 

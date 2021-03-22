@@ -1,6 +1,6 @@
-* **Dungeon map:**
-* **Combat map:**
-* **Location:**
-* **Weather:**
-* **Environment:**
+- **Dungeon map:**
+- **Combat map:**
+- **Location:**
+- **Weather:**
+- **Environment:**
 

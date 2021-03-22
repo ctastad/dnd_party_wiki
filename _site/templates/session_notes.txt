@@ -1,23 +1,20 @@
 ##### Previous Summary
-*
 
 ##### Starting Conditions
-* *Start:*
-* *End:*
-* *Weather:*
-* *Location(s):*
-    - *Start:*
-* *NPCs:*
-* *Circumstances:*
-    -
+- *Start:*
+- *End:*
+- *Weather:*
+- *Location(s):*
+  - *Start:*
+- *NPCs:*
+- *Circumstances:*
+  -
 
 ##### Session Events
 
 *Anticipated*
 
-*
 
 *Occurred*
 
-*
 

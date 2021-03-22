@@ -1,8 +1,8 @@
 ### [NPC NAME]
-* **Race:**
-* **Class:**
-* **Motivations:**
-* **Traits:**
-* **Location:**
-* **Background:**
+- **Race:**
+- **Class:**
+- **Motivations:**
+- **Traits:**
+- **Location:**
+- **Background:**
 

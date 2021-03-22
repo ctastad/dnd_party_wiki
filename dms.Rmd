@@ -2,9 +2,9 @@
 title: "![](armour.svg) DM Screen - DM ONLY!"
 output:
   html_document:
-      toc: yes
-      toc_float: yes
-      theme: readable
+    toc: yes
+    toc_float: yes
+    theme: readable
 ---
 
 ```{r global_options, include=F}
@@ -21,40 +21,67 @@ library(knitr)
 ## Session
 
 ##### Previous Summary
-* A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
-* With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
-* The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
-* Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
+- (SECRET) Vaerune was approached by a flail snail messenger which informed him of the pleasure of the Emerald Compact in his work on the Laurentz Mine. He was told to visit the shop of Gormar Farbalar in Holworth who is holding a parcel for Vaerune.
+- The party fast traveled back to Holworth to explore a reset in the direction of their adventuring. In doing so they crossed paths with a few unique creatures which presented new challenges.
+- A hobgoblin devastator stood as the party's highest spell caster challenge to date, who required perceptive strategy and imaginative method to overcome.
+- Ultimately, the party reached the welcoming gates of Holworth to investigate what their path might hold next.
 
 ##### Starting Conditions
-* *Start:* 7th day of Kythorn (The Time of Flowers)
+- *Start:* 11th day of Kythorn (The Time of Flowers)
 * *End:*
-* *Weather:* Clear, 14 mph NE wind, High of 57
+* *Weather:* clear, 7mph wind, high 57
 * *Location(s):*
-    - *Start:* Leo Ferrari's home
+  - *Start:* Gates of Holworth
 * *NPCs:*
-    - Onry
-    - local militia
+  - all NPCs in Holworth
 * *Circumstances:*
-    - The party has been unable to avoid confrontation with the militia and is holed up in Leo's cellar. At the point they party leaves Leo's they will find one of the fern hounds who will alert the militia waiting in tow.
+  - The party is at the bookend of a chapter in their adventures. Without many leads they will seek out the beginning of a new objective.
 
 ##### Session Events
 
 *Anticipated*
 
-* The party will have a confrontation with the militia.
-* It's possible they will attempt to apprehend Onry after dispatching the other members of the millitia. That would be nice.
-* I'm hoping they read into Leo's the minor backstory elements alluding to a connection between him and LL as a connection to return to Holworth.
+- Vaerune will attempt to seek out the shop of Gormar Farbalar to retreive his package.
+- It sounds like the group will attempt to get another hero's contract and potentially contact Leo.
+- The party will be approached by a flail snail with a message from Fitz providing an invitation to join the Sovereign Academy of Metamagical Sciences.
 
 *Occurred*
 
-* The party sustained their respite with Leo in an attempt to strategize on a clean escape.
-* In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
-* With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
-* The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
-* Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
+##### Previous Summary
+- The party sustained their respite with Leo in an attempt to strategize on a clean escape.
+- In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
+- With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
+- The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
+- Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
 
 ---
+
+### Session Copy
+
+**Discussion w/ Gormar Farbalar re Emerald Compact parcel**
+
+You enter a general store of standard fare with an elderly man standing attentively behind the counter.
+
+He greets you.
+
+The owner of the shop turns back to rummage through a heaping collection of stored items. After a moment which approached the sense he may of lost the package, he spins back with excitement to reveal an understated box wrapped in stained parchment.
+
+"here we go!"
+
+He hands you the box with a look of completion in the exchange.
+
+Upon unwrapping the parcel, you are met with an ornate box which looks to be carved from a stained olive wood and endowed with illustrious carving. Shortly after laying eyes on the box, you are met with a deep aroma which reminds you of your connection to nature. At the top, an emblem of a hanging, green tulip encased with detailed filigree. At the bottom, 3 etched words in druidic "Speak the truth".
+
+After speaking the phrase, a green line becomes illuminated across the seem of the lid, indicating that you may open it. When you remove the lid, you find 3 items: First, an amulet of the same hanging tulip on the face of the box; second, a pale lavender stone; last, a note.
+
+The note reads "Highest regards in your work at the Laurentz Mine. Consider this package your official welcome present to the Emerald Compact. In this chest you will find two items given to all new agents of the Compact. The first item is an Ioun Stone of Absorption. May it shield you from the dangers of your mission. The second is the Emerald Compact amulet. The tip of this amulet, when bit, contains a lethal dose of deathcap poison. This is necessary should you become captive and need to preserve our cause. We imagine you would know the appropriate time to take such action.
+
+Take these items in confidence of our support and in fealty to our mission to be better heralds of nature's gifts.
+
+Stand ready,
+The world laughs in flowers my friend."
+
+
 
 ### UA Content
 
@@ -150,6 +177,90 @@ library(knitr)
 
 </br>
 
+lvl4
+
+<details>
+  <summary>**Savanna - Hill**</summary>
+
+1. Neogi (cr 3, vgm 180) and 3 x Neogi Hatchling (cr 1/8, vgm 179); easy, 775 xp
+1. Ogre Chain Brute (cr 3, mtf 221) and 1 x Ogre (cr 2, mm 237); hard, 1150 xp
+1. 1 x Mouth of Grolantor (cr 6, vgm 149); deadly, 2300 xp
+1. Barghest (cr 4, vgm 123) and 2 x Goblin (cr 1/4, mm 166); medium, 1200 xp
+1. 1 x Tanarukk (cr 5, vgm 186); hard, 1800 xp
+1. Hobgoblin Warlord (cr 6, mm 187) and 1 x Hobgoblin (cr 1/2, mm 186); deadly, 2400 xp
+1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 1 x Gnoll Witherling (cr 1/4, vgm 155); medium, 1150 xp
+1. 1 x Redcap (cr 3, vgm 188); easy, 700 xp
+1. 1 x Tanarukk (cr 5, vgm 186); hard, 1800 xp
+1. 2 x Orc Red Fang of Shargaas (cr 3, vgm 185) and 2 x Giant Bat (cr 1/4, mm 323); deadly, 1500 xp
+
+</details>
+
+<details>
+  <summary>**Grassland**</summary>
+
+1. 1 x Yeth Hound (cr 4, vgm 201); medium, 1100 xp
+1. Ogre Battering Ram (cr 4, mtf 220) and 1 x Ogre (cr 2, mm 237); deadly, 1550 xp
+1. 2 x Sword Wraith Warrior (cr 3, mtf 241); deadly, 1400 xp
+1. Leucrotta (cr 3, vgm 169) and 1 x Gnoll Witherling (cr 1/4, vgm 155); easy, 750 xp
+1. 1 x Wereboar (cr 4, mm 209); medium, 1100 xp
+1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 1 x Gnoll (cr 1/2, mm 163); medium, 1200 xp
+1. 1 x Yeth Hound (cr 4, vgm 201); medium, 1100 xp
+1. Hobgoblin Captain (cr 3, mm 186) and 2 x Hobgoblin (cr 1/2, mm 186); hard, 900 xp
+1. Leucrotta (cr 3, vgm 169) and 1 x Gnoll Witherling (cr 1/4, vgm 155); easy, 750 xp
+1. 2 x Manticore (cr 3, mm 213); deadly, 1400 xp
+
+</details>
+
+<details>
+  <summary>**Coastal - Tropical**</summary>
+
+1. 2 x Plesiosaurus (cr 2, mm 80); medium, 900 xp
+1. 1 x Water Elemental (cr 5, mm 125); hard, 1800 xp
+1. 2 x Ogre (cr 2, mm 237); medium, 900 xp
+1. 1 x Druid (cr 2, mm 346) and 1 x Wood Woad (cr 5, vgm 198); deadly, 2250 xp
+1. 2 x Veteran (cr 3, mm 350); deadly, 1400 xp
+1. 2 x Ogre (cr 2, mm 237); medium, 900 xp
+1. 1 x Banshee (cr 4, mm 23); medium, 1100 xp
+1. Sahuagin Baron (cr 5, mm 264) and 1 x Sahuagin (cr 1/2, mm 263); hard, 1900 xp
+1. 1 x Deep Scion (cr 3, vgm 135); easy, 700 xp
+1. 1 x Banshee (cr 4, mm 23); medium, 1100 xp
+
+</details>
+
+<details>
+  <summary>**Urban**</summary>
+
+1. 2 x Giff (cr 3, mtf 204); deadly, 1400 xp
+1. 1 x Vampire Spawn (cr 5, mm 298); hard, 1800 xp
+1. 1 x Swarm of Cranium Rats (cr 5, vgm 133); hard, 1800 xp
+1. 1 x Gladiator (cr 5, mm 346); hard, 1800 xp
+1. Succubus (cr 4, mm 285) and 1 x Imp (cr 1, mm 76); medium, 1300 xp
+1. 1 x Water Weird (cr 3, mm 299); easy, 700 xp
+1. 1 x Slithering Tracker (cr 3, vgm 191); easy, 700 xp
+1. 1 x Banderhobb (cr 5, vgm 122); hard, 1800 xp
+1. 2 x Veteran (cr 3, mm 350); deadly, 1400 xp
+1. Mage (cr 6, mm 347) and 1 x Apprentice Wizard (cr 1/4, vgm 209); deadly, 2350 xp
+
+</details>
+
+<details>
+  <summary>**Forest - Temperate**</summary>
+
+1. Hobgoblin Warlord (cr 6, mm 187) and 1 x Hobgoblin (cr 1/2, mm 186); deadly, 2400 xp
+1. 1 x Unicorn (cr 5, mm 294); hard, 1800 xp
+1. 1 x Vampiric Mist (cr 3, mtf 246); easy, 700 xp
+1. Barghest (cr 4, vgm 123) and 3 x Goblin (cr 1/4, mm 166); deadly, 1250 xp
+1. 2 x Phase Spider (cr 3, mm 334); deadly, 1400 xp
+1. 1 x Unicorn (cr 5, mm 294); hard, 1800 xp
+1. Werebear (cr 5, mm 208) and 1 x Brown Bear (cr 1, mm 319); deadly, 2000 xp
+1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 3 x Gnoll Witherling (cr 1/4, vgm 155); deadly, 1250 xp
+1. 1 x Oaken Bolter (cr 5, mtf 126); hard, 1800 xp
+1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 1 x Gnoll (cr 1/2, mm 163); medium, 1200 xp
+
+</details>
+
+</br>
+
 *Wilderness Features*
 
 <details>
@@ -176,12 +287,12 @@ library(knitr)
 <details>
   <summary>**Hazards**</summary>
 
-* Desecrated Ground
-* Frigid Water
-* Quicksand
-* Razorvine
-* Slippery Ice
-* Thin ice
+- Desecrated Ground
+- Frigid Water
+- Quicksand
+- Razorvine
+- Slippery Ice
+- Thin ice
 
 </details>
 
@@ -298,29 +409,29 @@ library(knitr)
 <details>
   <summary>**Names**</summary>
 
-* **Random**: Spotswood, Bushrod
-* **Elfs**: Arbelladon Yinwarin , Ailas Omajyre , Alluin Balmys , Theodred Aralana , Taleasin Vasandoral , Gormar Farbalar , Ornthalas Virjyre , Nesterin Triswarin , Volodar Sylbella , Zaos Josatra
-* **Dwarf**: Darendrog Metalstone , Skobrouth Keggrog , Varfulir Forgebuckle , Darefoid Steelbane , Huvouth Thunderforged , Vomdag Lavamaul , Nolgrarlug Shattermaul , Ararril Chaosshoulder , Joded Anvilbringer , Gotrad Snowview
-* **Dragon**: poidhi, the Life Giver , tiorvaen, Protector of the Weak , chaervorth, the Gifted , bieperth, the Jealous One , tudhait, the Dark , dennian, the Puny , gaekae, the Tall , payvinteil, the Bunny Killer , xudaepheo, the Warm , uvirus, the Dragonlord
-* **Dragon**: micdic , iktec , gosuph , krecshu , ~~baizax~~ , grona , roldrebuph , rocdraelo , velarciks , hoshiroz
-* **Human**: rishun cinom , bhurad cukhen , birkudd Fourclaw , nibrork Silentbelly , mabram ven , kem navrosk , golvor Roughbow , murth Voiddrifter , thehvezuz michahkem , dinas muuhreft , temondesk netrotvurgu , zirlat vruvzako , ioy li , jiap chuen , uerdeanez zascudrul , venin paldurgel
+- **Random**: Spotswood, Bushrod
+- **Elfs**: Arbelladon Yinwarin , Ailas Omajyre , Alluin Balmys , Theodred Aralana , Taleasin Vasandoral , Gormar Farbalar , Ornthalas Virjyre , Nesterin Triswarin , Volodar Sylbella , Zaos Josatra
+- **Dwarf**: Darendrog Metalstone , Skobrouth Keggrog , Varfulir Forgebuckle , Darefoid Steelbane , Huvouth Thunderforged , Vomdag Lavamaul , Nolgrarlug Shattermaul , Ararril Chaosshoulder , Joded Anvilbringer , Gotrad Snowview
+- **Dragon**: poidhi, the Life Giver , tiorvaen, Protector of the Weak , chaervorth, the Gifted , bieperth, the Jealous One , tudhait, the Dark , dennian, the Puny , gaekae, the Tall , payvinteil, the Bunny Killer , xudaepheo, the Warm , uvirus, the Dragonlord
+- **Dragon**: micdic , iktec , gosuph , krecshu , ~~baizax~~ , grona , roldrebuph , rocdraelo , velarciks , hoshiroz
+- **Human**: rishun cinom , bhurad cukhen , birkudd Fourclaw , nibrork Silentbelly , mabram ven , kem navrosk , golvor Roughbow , murth Voiddrifter , thehvezuz michahkem , dinas muuhreft , temondesk netrotvurgu , zirlat vruvzako , ioy li , jiap chuen , uerdeanez zascudrul , venin paldurgel
 
 </details>
 
 <details>
   <summary>**Chars**</summary>
 
-* **Onry**: Human Bard, strong sense of nationalism.
-* **Loby Finell**: Female Halfling Paladin, Good. Str 15, Dex 8, Con 7, Int 11, Wis 14, Cha 16. Loby has a round face, with golden hair and brown eyes. She wears splint armor and wields a warhammer and shield.
-* **Arget Courte**: Female Halfling Mercenary, CG. Str 10, Dex 12, Con 6, Int 13, Wis 10, Cha 15. Arget is tall and willowy, with auburn hair and soft gray eyes. She wears leather armor and wields a shortsword.
-* **Threri**: Male Dwarf Cleric, NG. Str 9, Dex 12, Con 11, Int 9, Wis 15, Cha 15. Threri has blonde hair and hazel eyes, and a curly moustache. He wears hide armor and wields a light hammer. Threri seeks to discover the truth of his lineage.
-* **Amira**: Female Halfling Peasant, NE. Str 10, Dex 9, Con 11, Int 9, Wis 8, Cha 9. Amira has thin gray hair and narrow brown eyes, and large ears. She wears simple clothing and carries a long knife. Amira is envious and deceitful.
-* **Hildga**: Female Dwarf Ranger, N. Str 8, Dex 10, Con 12, Int 12, Wis 13, Cha 8. Hildga has cropped golden hair and gray eyes. She wears half plate and wields a whip and shield. Hildga is extravagant and fierce.
-* **Ancin Gere**: Male Human Merchant, NG. Str 10, Dex 11, Con 10, Int 10, Wis 11, Cha 8. Ancin has thin red hair and blue eyes. He wears modest garments and a blue cloak. Ancin has an animal companion, a black cat named Ethen.
-* **Zita**: Male Half-orc Priest, NG. Str 8, Dex 10, Con 9, Int 11, Wis 12, Cha 12. Zita has copper hair and blue eyes, and prominent ears. He wears well-made clothing and carries a fine stiletto. Zita secretly serves Kaveph, an ancient god of chaos.
-* **Thrica**: Male Half-orc Alchemist, N. Str 9, Dex 6, Con 13, Int 10, Wis 14, Cha 8. Thrica has a narrow face, with blonde hair and bright green eyes. He wears well-made clothing and a sling of vials and potions. Thrica seeks revenge against the sister who betrayed him.
-* **Ursas**: Female Gnome Scofflaw, NG. Str 8, Dex 10, Con 12, Int 11, Wis 11, Cha 10. Ursas has auburn hair and sharp amber eyes, and pointed ears. She wears sturdy clothing and several pouches hang from her belt.
-* **Staga Jornidotr**: Female Dwarf Merchant, LN. Str 10, Dex 12, Con 12, Int 6, Wis 11, Cha 6. Staga is rough in appearance, with white hair and soft brown eyes. She wears plain clothing and a wide-brimmed hat. Staga has an animal companion, a gray rabbit named Bifar.
+- **Onry**: Human Bard, strong sense of nationalism.
+- **Loby Finell**: Female Halfling Paladin, Good. Str 15, Dex 8, Con 7, Int 11, Wis 14, Cha 16. Loby has a round face, with golden hair and brown eyes. She wears splint armor and wields a warhammer and shield.
+- **Arget Courte**: Female Halfling Mercenary, CG. Str 10, Dex 12, Con 6, Int 13, Wis 10, Cha 15. Arget is tall and willowy, with auburn hair and soft gray eyes. She wears leather armor and wields a shortsword.
+- **Threri**: Male Dwarf Cleric, NG. Str 9, Dex 12, Con 11, Int 9, Wis 15, Cha 15. Threri has blonde hair and hazel eyes, and a curly moustache. He wears hide armor and wields a light hammer. Threri seeks to discover the truth of his lineage.
+- **Amira**: Female Halfling Peasant, NE. Str 10, Dex 9, Con 11, Int 9, Wis 8, Cha 9. Amira has thin gray hair and narrow brown eyes, and large ears. She wears simple clothing and carries a long knife. Amira is envious and deceitful.
+- **Hildga**: Female Dwarf Ranger, N. Str 8, Dex 10, Con 12, Int 12, Wis 13, Cha 8. Hildga has cropped golden hair and gray eyes. She wears half plate and wields a whip and shield. Hildga is extravagant and fierce.
+- **Ancin Gere**: Male Human Merchant, NG. Str 10, Dex 11, Con 10, Int 10, Wis 11, Cha 8. Ancin has thin red hair and blue eyes. He wears modest garments and a blue cloak. Ancin has an animal companion, a black cat named Ethen.
+- **Zita**: Male Half-orc Priest, NG. Str 8, Dex 10, Con 9, Int 11, Wis 12, Cha 12. Zita has copper hair and blue eyes, and prominent ears. He wears well-made clothing and carries a fine stiletto. Zita secretly serves Kaveph, an ancient god of chaos.
+- **Thrica**: Male Half-orc Alchemist, N. Str 9, Dex 6, Con 13, Int 10, Wis 14, Cha 8. Thrica has a narrow face, with blonde hair and bright green eyes. He wears well-made clothing and a sling of vials and potions. Thrica seeks revenge against the sister who betrayed him.
+- **Ursas**: Female Gnome Scofflaw, NG. Str 8, Dex 10, Con 12, Int 11, Wis 11, Cha 10. Ursas has auburn hair and sharp amber eyes, and pointed ears. She wears sturdy clothing and several pouches hang from her belt.
+- **Staga Jornidotr**: Female Dwarf Merchant, LN. Str 10, Dex 12, Con 12, Int 6, Wis 11, Cha 6. Staga is rough in appearance, with white hair and soft brown eyes. She wears plain clothing and a wide-brimmed hat. Staga has an animal companion, a gray rabbit named Bifar.
 
 </details>
 
@@ -330,52 +441,52 @@ library(knitr)
 
 #### Tables
 
-* [DM Tables](https://dungeonmastertools.github.io/)
+- [DM Tables](https://dungeonmastertools.github.io/)
     + Player ref sheet
     + Treasure tables
     + Magic Items tables
     + Travel
-* [donjon](https://donjon.bin.sh/5e/)
+- [donjon](https://donjon.bin.sh/5e/)
     + Spell sheet
     + Enc table
     + Shop generator
     + Dungeon generator
-* [Zenith Games](https://zenithgames.blogspot.com/2013/06/200-random-campfire-events.html)
+- [Zenith Games](https://zenithgames.blogspot.com/2013/06/200-random-campfire-events.html)
     - Random campsite encounters
-* [DnD Speak](http://dndspeak.com/2018/03/100-social-encounters-on-the-road/)
+- [DnD Speak](http://dndspeak.com/2018/03/100-social-encounters-on-the-road/)
     - Social encounters
-* [The Loot Shop](https://www.5elootshop.com/)
+- [The Loot Shop](https://www.5elootshop.com/)
 
 #### PCs
 
-* [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
-* [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
-* [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
-* [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
-* [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
+- [Ashitaka](https://www.dndbeyond.com/characters/30354523) (Chang)
+- [Dimaya Urtac](https://www.dndbeyond.com/characters/30130370/FlOc6M) (Olson)
+- [Sk&auml;gd&umacr;n](https://www.dndbeyond.com/characters/30600024/vTJOE5) (Skoglund)
+- [Uzi Soggybottom](https://www.dndbeyond.com/characters/30350744/bpyqUe) (Gervais)
+- [Vaer&uuml;ne](https://www.dndbeyond.com/characters/29959151/Hd5Mwh) (Spaeth)
 
 #### Table top
 
-* [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
+- [Discord Server](https://discord.com/channels/717564296434810890/717712797881991259)
     + This server will provide several channels to organize party communication and in-game reference distribution.
-* [Combat Theater](https://shmeppy.com/) (Schmeppy)
+- [Combat Theater](https://shmeppy.com/) (Schmeppy)
     + On the ground, tactical game play will take place in this app.
-* [Combat Tracker](https://docs.google.com/spreadsheets/d/1rL39CGCfN8QkO9EGfUOtDL7sh1ExGMEJ0Z29MF1lG7Q/edit?usp=sharing)
+- [Combat Tracker](https://docs.google.com/spreadsheets/d/1rL39CGCfN8QkO9EGfUOtDL7sh1ExGMEJ0Z29MF1lG7Q/edit?usp=sharing)
 
 #### Books
 
-* [DMG](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/dmg.pdf)
-* [PHB](file:///home/chris/Seafile/library/personal/hobbies/dnd/refs/books/phb.pdf)
+- [DMG](file:e//home/chris/Seafile/library/personal/hobbies/dnd/ref/books/dmg.pdf)
+- [PHB](file:///home/chris/Seafile/library/personal/hobbies/dnd/ref/books/phb.pdf)
 
 #### Avrae Aliases
 
-* background
-* class
-* classfeat
-* condition
-* date
-* feat
-* generate
+- background
+- class
+- classfeat
+- condition
+- date
+- feat
+- generate
     - who
     - tavern
     - ship
@@ -383,113 +494,190 @@ library(knitr)
     - weapon
     - island
     - town
-* item
-* monimage
-* monster
-* race
-* racefeat
-* rule
-* spell
-* sane
-* token
-* weather
+- item
+- monimage
+- monster
+- race
+- racefeat
+- rule
+- spell
+- sane
+- token
+- weather
 
 ---
 
 ### Notes Log {.tabset .tabset-fade}
 
+#### 03/06
+
+##### Previous Summary
+- The party sustained their respite with Leo in an attempt to strategize on a clean escape.
+- In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
+- With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
+- The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
+- Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
+
+##### Starting Conditions
+- *Start:* 7th day of Kythorn (The Time of Flowers)
+- *End:* 11th day of Kythorn (The Time of Flowers)
+- *Weather:*
+- *Location(s):*
+    - *Start:* Outside of Greenbottlehill
+- *NPCs:*
+  - None
+- *Circumstances:*
+    - The party just recently encountered the town militia and barely made away with their lives. They are now hastely fleeing in the twilight of the day and expect to return to Holworth.
+
+##### Session Events
+*Anticipated*
+
+- Return to Holworth. They will likely want to fast travel.
+- Could potentially send word to leo.
+- Could potentially be approached about Sovereign Academy initiation.
+- Vaerune could be approached regarding emerald compact payment
+
+*Occurred*
+
+- (SECRET) Vaerune was approached by a flail snail messenger which informed him of the pleasure of the Emerald Compact in his work on the Laurentz Mine. He was told to visit the shop of Gormar Farbalar in Holworth who is holding a parcel for Vaerune.
+- The party fast traveled back to Holworth to explore a reset in the direction of their adventuring. In doing so they crossed paths with a few unique creatures which presented new challenges.
+- A hobgoblin devastator stood as the party's highest spell caster challenge to date, who required perceptive strategy and imaginative method to overcome.
+- Ultimately, the party reached the welcoming gates of Holworth to investigate what their path might hold next.
+
+#### 02/13
+
+##### Previous Summary
+- A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
+- With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
+- The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
+- Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
+
+##### Starting Conditions
+- *Start:* 7th day of Kythorn (The Time of Flowers)
+- *End:* 7th day of Kythorn (The Time of Flowers)
+- *Weather:* Clear, 14 mph NE wind, High of 57
+- *Location(s):*
+    - *Start:* Leo Ferrari's home
+- *NPCs:*
+    - Onry
+    - local militia
+- *Circumstances:*
+    - The party has been unable to avoid confrontation with the militia and is holed up in Leo's cellar. At the point they party leaves Leo's they will find one of the fern hounds who will alert the militia waiting in tow.
+
+##### Session Events
+
+*Anticipated*
+
+- The party will have a confrontation with the militia.
+- It's possible they will attempt to apprehend Onry after dispatching the other members of the millitia. That would be nice.
+- I'm hoping they read into Leo's the minor backstory elements alluding to a connection between him and LL as a connection to return to Holworth.
+
+*Occurred*
+
+- The party sustained their respite with Leo in an attempt to strategize on a clean escape.
+- In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
+- With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
+- The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
+- Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
+
+---
+
 #### 12/13
 
 ##### Previous Summary
-* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
-* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
-* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
-* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
-* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
-* In separate confrontations - Samuta through serpentine force and Nidei through parlor tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
-* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+- At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+- In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+- The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+- Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+- The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+- In separate confrontations - Samuta through serpentine force and Nidei through parlor tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+- With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 7th day of Kythorn (The Time of Flowers)
-* *Weather:*
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 7th day of Kythorn (The Time of Flowers)
+- *Weather:*
+- *Location(s):*
     - *Start:* In hiding at camp site within distance of Laurentz Mine.
-* *NPCs:*
+- *NPCs:*
     - Nidei
     - Lady Luna
     - Onry
     - local militia
-* *Circumstances:*
+- *Circumstances:*
     - After confronting both Samuta and Nidei the party resolved to lay low and assess fall out. The scene starts at the beginning of a long rest.
 
 ##### Session Events
 
 *Anticipated*
 
-* The party concluded they should not directly confront their employer after the fallout from the mine. I expect they will observe the on goings around the mine and potentially Greenbottle Hill and look for either an opportunity to intervene or escape.
-* If the party attempts to meet LL, they will find Onry and a hastily assembled local militia anticipating their arrival. They will learn Samuta alerted LL of the events in the mine leading to her departure, leaving Onry to manage the situation with reinforcement.
+- The party concluded they should not directly confront their employer after the fallout from the mine. I expect they will observe the on goings around the mine and potentially Greenbottle Hill and look for either an opportunity to intervene or escape.
+- If the party attempts to meet LL, they will find Onry and a hastily assembled local militia anticipating their arrival. They will learn Samuta alerted LL of the events in the mine leading to her departure, leaving Onry to manage the situation with reinforcement.
 
 *Occurred*
 
-* A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
-* With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
-* The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
-* Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
+- A pleasant rest brought daylight and the awareness of movement along the rode from Greenbottle Hill. Upon inspection by Skagdun, it became clear a militia of locals had been assembled in response to the party's actions.
+- With a set of fern hounds in tow, the militia was on the hunt. A brush with the senses of the hounds initiated near contact that was only delayed with a scented candle-based diversion. Still, at the hounds beckon, the militia detected they were closing in, and a loose chase ensued.
+- The party moved with haste, leveraging the ranging tactics of Skagdun and maneuvering of Vaerune to arrive in the hamlet unaware of the degree of their safety. A search for shelter led to the pub and their acquaintance, Leo Ferrari. Leo welcomed the party with dramatic affection after initiation into the Round Earth Society.
+- Leo's home and lab were found to be a domicile characteristic of his personality, although still filed with a genuine sincerity. Through Leo's efforts, the party evaded detection all while learning about Leo's unexpected heritage.
+
+---
 
 #### 11/21
 
 ##### Previous Summary
-* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
-* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
-* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
-* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
-* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
-* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+- Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+- The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+- Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+- After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+- To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+- Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:* Overcast, 20mph wind, 56F
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:* Overcast, 20mph wind, 56F
+- *Location(s):*
     - *Start:* Outside the entrance of the Laurentz Mine.
-* *NPCs:*
+- *NPCs:*
     - Nidei the Accursed
     - Samuta the Enslaved
-* *Circumstances:*
+- *Circumstances:*
     - Ashitaka just failed to covertly approach Nidei and Samuta while they were processing ore. In his panicked escape, he provoked Nidei who released Samuta to initiate pursuit of the party. The session ended when Dimaya attempted to communicate with Samuta.
 
 ##### Session Events
 
 *Anticipated*
 
-* Honestly don't even know. Could go any direction depending on how the party interacts with Nidei and Samuta. Nidei is not inherently hostile, but he party could provoke combat if handled poorly.
+- Honestly don't even know. Could go any direction depending on how the party interacts with Nidei and Samuta. Nidei is not inherently hostile, but he party could provoke combat if handled poorly.
 
 *Occurred*
 
-* At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
-* In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
-* The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
-* Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
-* The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
-* In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
-* With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+- At the outset, confrontation. Dimaya successfully captured the attention of Samuta while in pursuit, attempting to avoid violence.
+- In a tense exchange, the party learned Samuta was taken as a hatchling and enslaved by Nidei. The two of them seem to be callous entrepreneurs that are serving a lucrative contract applying their method of cold iron synthesis. Additionally, a vague reference was made to the retrofitting of military armaments.
+- The party attempted to negotiate their presence in the mine but was unable to sway the pair, and Nidei insisted on confronting their mutual employer.
+- Fortunately though, the party was offered a window of escape as a plume of smoke made the fire apparent to Nidei.
+- The party took flight but realized they were leaving an unraveling situation with lingering consequences. A good deal of deliberation led to the conclusion they needed to silence their potential betrayers.
+- In separate confrontations - Samuta through serpentine force and Nidei through parler tricks - the pair attempted to overpower the returning party with no success. Samuta met her demise while Nidei was able to escape and remain at-large.
+- With a quagmire growing in dimension at every step, the party elected to lay low and assess the fall out.
+
+---
 
 #### 11/5
 
 ##### Previous Summary
-* The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
+- The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:* Clear, 21mph wind, high 57
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:* Clear, 21mph wind, high 57
+- *Location(s):*
     - *Start:* At the base of the opening cavern of he Laurentz Mine.
-* *NPCs:*
+- *NPCs:*
     - Nidei the Accursed
     - Samuta the Enslaved
-* *Circumstances:*
+- *Circumstances:*
     - The party aggressively entered the mine and fought off 2 spiders dwelling near the entrance.
     - The caverns are very cold.
 
@@ -497,42 +685,42 @@ library(knitr)
 
 *Anticipated*
 
-* The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
-* A confrontation will ensue, and the outcome will depend on the party's approach.
-* Nidei is not inherently hostile but is well equipped to defend himself.
-* In the event the party returns to Holworth, a flail snail will approach them with an invitation for Dimaya to join the Threapnalt ...
+- The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
+- A confrontation will ensue, and the outcome will depend on the party's approach.
+- Nidei is not inherently hostile but is well equipped to defend himself.
+- In the event the party returns to Holworth, a flail snail will approach them with an invitation for Dimaya to join the Threapnalt ...
 
 *Occurred*
 
-* Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
-* The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
-* Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
-* After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
-* To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
-* Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
+- Venturing deeper into the mine, the party came across further outfitting in the development of the operation.
+- The party also reflected on the assumed goals of the operation and how cold iron might fit into the picture.
+- Uzi recalled hearing somewhere that cold iron has efficacy against fey creatures, though it's speculated this includes other races given the recency of magic material use in smithing.
+- After exploring a cache and excavation site, a fire was started around large portions of smelting implement.
+- To avoid the fire, the party chose another wing of the mine where they discovered an old wizard and a white dragon wyrmling utilizing frost magic in processing ore.
+- Ashitaka attempted to approach the pair unnoticed without success. In a rush of panic, the party fled, initiating a chase and an intense encounter.
 
 ---
 
 #### 10/29
 
 ##### Previous Summary
-* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
-* Skagdun conducts a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
-* Unable to make sense of these events, they continue on to eventually arrive at the mine where the party is told not to enter.
-* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
-* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
-* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+- After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+- Skagdun conducts a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+- Unable to make sense of these events, they continue on to eventually arrive at the mine where the party is told not to enter.
+- The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+- While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+- Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:* Clear, 21mph wind, high 57
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:* Clear, 21mph wind, high 57
+- *Location(s):*
     - *Start:* At the base of the opening cavern of he Laurentz Mine.
-* *NPCs:*
+- *NPCs:*
     - Nidei the Accursed
     - Samuta the Enslaved
-* *Circumstances:*
+- *Circumstances:*
     - The party aggressively entered the mine and fought off 2 spiders dwelling near the entrance.
     - The caverns are very cold.
 
@@ -540,178 +728,178 @@ library(knitr)
 
 *Anticipated*
 
-* The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
-* A confrontation will ensue, and the outcome will depend on the party's approach.
-* Nidei is not inherently hostile but is well equipped to defend himself.
-* Tell spaeth retconned emerald compact passphrase
+- The party will clear the mine and find Nidei and Samuta processing some cold iron in cavern room 1.
+- A confrontation will ensue, and the outcome will depend on the party's approach.
+- Nidei is not inherently hostile but is well equipped to defend himself.
+- Tell spaeth retconned emerald compact passphrase
 
 *Occurred*
 
-* The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
+- The party continued through the mine that was seemingly abandoned by any civilized creatures. Instead the party encountered several natural dwelling inhabitants during their exploration.
 
 ---
 
 #### 10/11
 
 ##### Previous Summary
-* After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
-* The space was a setting features not unfamiliar from their home plane but was clearly defined magical parameters.
-* With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
-* When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
+- After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+- The space was a setting features not unfamiliar from their home plane but was clearly defined magical parameters.
+- With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
+- When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:* partly cloudy, wind 14mph, high 59
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:* partly cloudy, wind 14mph, high 59
+- *Location(s):*
     - *Start:* original campsite before pocket dimension
-* *NPCs:*
+- *NPCs:*
     - lady luna
     - onry
-* *Circumstances:*
+- *Circumstances:*
     - The party has just navigated their way through the pocket dimension and have arrived back at their campsite just moments before. They will discover both Lady Luna and Onry just outside the perimeter of the campsite in a confused state totally unaware of the events that just transpired. If prompted, they will elect to continue on to the mine.
 
 ##### Session Events
 
 *Anticipated*
 
-* Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
-* After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
-* The party arrives at the mine and is given a day before their return trip.
-* With this downtime, the party will potentially enter the mine and get into some shenanigans.
+- Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
+- After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
+- The party arrives at the mine and is given a day before their return trip.
+- With this downtime, the party will potentially enter the mine and get into some shenanigans.
 
 *Occurred*
 
-* After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
-* They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
-* Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
-* The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
-* While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
-* Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
+- After being returned to their camp, the party proceeds to make sense of their circumstances by looking for LL and Onry.
+- They conduct a brief search to find the pair sitting, motionless, in a nearby clearing. When prompted they seem totally unaware of anything that transpired.
+- Unable to make sense of these events, they continue on to eventually arrive at the mine where they are told not to enter.
+- The party then travels to the nearby hamlet of Greenbottle Hill to investigate some info divulged by Onry re a wizard associate of LL.
+- While at a tavern Dimaya reaffirms her stance of the widely known fact that the world is flat.
+- Without much conclusive intel, the party decides to enter the mine in aggressive fashion.
 
 ---
 
 #### 09/20
 
 ##### Previous Summary
-* The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
-* The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
-* In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
-* They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
+- The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
+- The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
+- In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
+- They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
 
 ##### Starting Conditions
-* *Start:* 6th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:*
-* *Location(s):*
+- *Start:* 6th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:*
+- *Location(s):*
     - *Start:* PT pocket dimension
-* *NPCs:*
+- *NPCs:*
     - Lady Luna and Onry outside pocket dimension
-* *Circumstances:*
+- *Circumstances:*
     - The party has just been transported to the PT pocket dimension and will have to navigate their way out.
 
 ##### Session Events
 
 *Anticipated*
 
-* Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
-* The party passes through the pocket dimension and escapes.
-* After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
-* The party arrives at the mine and is given a day before their return trip.
+- Vaerune is approached by a flail snail while on watch. They bring a message re an opportunity to join the Emerald Compact.
+- The party passes through the pocket dimension and escapes.
+- After returning to camp, they find Lady Luna and Onry in a state of disillusion. Neither has any recollection of the encounter or thereafter.
+- The party arrives at the mine and is given a day before their return trip.
 
 *Occurred*
 
-* After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
-* The space was a setting with features not unfamiliar from their home plane but was clearly defined magical parameters.
-* With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
-* When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
+- After the confrontation with what were assumed to be agents of the terrorist group, the Progenitor Trust, the party found themselves in a sort of pocket dimension.
+- The space was a setting with features not unfamiliar from their home plane but was clearly defined magical parameters.
+- With a variety of clever problem solving, the party identified several lock-and-key steps to freely pass through stages of the pocket dimension.
+- When they finally aided in a king's dilemma, they were released back to their home plane - some having been rewarded, others punished.
 
 ---
 
 #### 08/23
 
 ##### Previous Summary
-* The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
-* In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the road toward Marwark.
-* During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
+- The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
+- In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the road toward Marwark.
+- During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
 
 ##### Starting Conditions
-* *Start:* 5th day of Kythorn (The Time of Flowers)
-* *End:* 6th day of Kythorn (The Time of Flowers)
-* *Weather:* clear, 9mph, 56
-* *Location(s):*
+- *Start:* 5th day of Kythorn (The Time of Flowers)
+- *End:* 6th day of Kythorn (The Time of Flowers)
+- *Weather:* clear, 9mph, 56
+- *Location(s):*
     + *Start:* Campsite just NE of Marwark
-* *NPCs:*
+- *NPCs:*
     - Lady Luna
     - Onry
-* *Circumstances:*
+- *Circumstances:*
     + The party had just finished a battle and was nearing EoD. They have just begun a long rest.
 
 ##### Session Events
 
 *Anticipated*
 
-* The party will continue on their journey toward the Laurentz mine at an accelerated pace
-* At some point, they will be attacked by Progenitor Trust agents who want to interrogate Lady Luna.
-* In an effort to avoid bloodshed, the PT mages will send the party to a puzzle filled pocket dimension.
-* A flail snail will approach Vaerune to deliver a message re membership in the Emerald Compact.
+- The party will continue on their journey toward the Laurentz mine at an accelerated pace
+- At some point, they will be attacked by Progenitor Trust agents who want to interrogate Lady Luna.
+- In an effort to avoid bloodshed, the PT mages will send the party to a puzzle filled pocket dimension.
+- A flail snail will approach Vaerune to deliver a message re membership in the Emerald Compact.
 
 *Occurred*
 
-* The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
-* The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
-* In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
-* They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
+- The party continued their trek toward the Laurentz Mine as they left the well-traveled road past Marwark and entered dense wilderness.
+- The caravan encountered several events of intrigue and intensity - a parlay with a band of gypsies, encroaching on a drake's territory, and a bout with some quicksand.
+- In exploring a camp site, Skagdun discovered a symbol which Onry identified as the mark of the Progenitor Trust, a Holworth-based terrorist group.
+- They attempted to avoid a confrontation to no avail. While Uzi stood watch, the camp was attacked by 3 hooded figures who swiftly transported the party to an unfamiliar place.
 
 ---
 
 #### 08/16
 
 ##### Previous Summary
-* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
-* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
-* The party then returned to the Holworth HA to claim their contract and pickup a new one
+- The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+- After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+- The party then returned to the Holworth HA to claim their contract and pickup a new one
 
 ##### Starting Conditions
-* **Start:** 4th day of Kythorn (The Time of Flowers)
-* **End:** 5th day of Kythorn (The Time of Flowers)
-* **Weather:** clear, 10mph, 57F
-* **Location(s):**
+- **Start:** 4th day of Kythorn (The Time of Flowers)
+- **End:** 5th day of Kythorn (The Time of Flowers)
+- **Weather:** clear, 10mph, 57F
+- **Location(s):**
     + *Start:* The lobby of the Holworth HA
-* **NPCs:** Asarkal
-* **Circumstances:**
+- **NPCs:** Asarkal
+- **Circumstances:**
     + The party is in the process of accepting HA contract #8
 
 ##### Session Events
 
 **Anticipated**
 
-* The party will be confronted by a member of the Aldock Distributed Messaging Brokerage to update their Beacon License.
-* Contract #8 will take the party to meet with Lady Luna to initiate their travel to the Laurentz Mine.
+- The party will be confronted by a member of the Aldock Distributed Messaging Brokerage to update their Beacon License.
+- Contract #8 will take the party to meet with Lady Luna to initiate their travel to the Laurentz Mine.
 
 **Occurred**
 
-* The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
-* In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the road toward Marwark.
-* During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
+- The party accepted another HA contract that will take them through the wilderness at the behest of a local noble business leader.
+- In initiating this contract, the party met Lady Luna Laurentz and her CoS, Onry. They set out west toward the mine, first traveling down the road toward Marwark.
+- During this leg of the journey, the party discovers they are being tracked by a lone Orog who they ambush and dispatch with some effort.
 
 ---
 
 #### 07/26
 
 ##### Previous Summary
-* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
-* They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
-* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
+- The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
+- They had a brush with fate as Skagdun nearly perished in confronting a set of guards in the outdoor proscenium.
+- After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
 
 ##### Starting Conditions
-* **Start:** 4th day of Kythorn (The Time of Flowers)
-* **End:** 4th day of Kythorn (The Time of Flowers)
-* **Weather:** Clear, 0mph, 53F
-* **Location(s):**
+- **Start:** 4th day of Kythorn (The Time of Flowers)
+- **End:** 4th day of Kythorn (The Time of Flowers)
+- **Weather:** Clear, 0mph, 53F
+- **Location(s):**
     + *Start:* Temple of Purpose, underground operation, rm4
-* **NPCs:** Priest and bandit captain in secret rm2
-* **Circumstances:**
+- **NPCs:** Priest and bandit captain in secret rm2
+- **Circumstances:**
     + The party is in rm4 of the Temple of Purpose having just defeated a bandit in the hall.
     + The first encounter was handled recklessly and may have stirred up awareness in the halls.
 
@@ -719,16 +907,16 @@ library(knitr)
 
 **Anticipated**
 
-* Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
-* Return to Hero’s Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
-* If it’s the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
-* Party will hopefully redeem snail mail license.
+- Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
+- Return to Hero’s Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
+- If it’s the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
+- Party will hopefully redeem snail mail license.
 
 **Occurred**
 
-* The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
-* After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
-* The party then returned to the Holworth HA to claim their contract and pickup a new one
+- The party continued through the administrative center of the Temple of Purpose, clearing the site and finally confronting the Bandit Captain that had taken the priest hostage.
+- After freeing the priest, he made the party aware that the eternal flame in the proscenium was the site of a miracle, bestowing healing powers. Additionally, the priest used a scroll to endow the entire party with inspiration.
+- The party then returned to the Holworth HA to claim their contract and pickup a new one
 
 ---
 
@@ -736,36 +924,36 @@ library(knitr)
 
 ##### Previous Summary
 
-* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
-* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
-* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
-* The party set out to complete contract #1 and ended the session outside the holy site.
+- On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
+- Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
+- After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+- The party set out to complete contract #1 and ended the session outside the holy site.
 
 ##### Game Dates
 
 ##### NPCs Present
-* None
+- None
 
 ##### Starting Conditions
-* **Weather:** clear, wind 14mph, high 53
-* **Location(s):**
+- **Weather:** clear, wind 14mph, high 53
+- **Location(s):**
     + *Start:* Temple of Purpose from HA contract #1
     +
-* **Circumstances:** Setting up in LOS of holy site, preparing to attack.
+- **Circumstances:** Setting up in LOS of holy site, preparing to attack.
 
 ##### Session Events
 **Anticipated:**
 
-* Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
-* Return to Hero's Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
-* If it's the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
-* Party will hopefully redeem snail mail license.
+- Recover Temple of Purpose and save priest. Priest will offer Scroll of Inspiration that provides each member of party with single bout of inspiration.
+- Return to Hero's Alliance to claim contract and pick up another. I anticipate they will go after the dragon.
+- If it's the dragon, they will find a solo silver dragon wyrmling who is non-combative and lawful good. If unprovoked, she will aid the party.
+- Party will hopefully redeem snail mail license.
 
 **Occurred**
 
-* The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
-* They had a brush with fate as Skagdun nearly perished in confronting a set of guards.
-* After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
+- The party descended on the Temple of Purpose in an effort to clear this holy site of the bandits that recently overtook it.
+- They had a brush with fate as Skagdun nearly perished in confronting a set of guards.
+- After recuperating, the party returned to the open air cathedral to enter into the bowels of the site, presumptively approaching the hostage priest. 
 
 ---
 
@@ -776,21 +964,21 @@ library(knitr)
 NA
 
 ##### Game Dates
-* **Start:** 3rd day of Kythorn (The Time of Flowers)
-* **End:** 3rd day of Kythorn (The Time of Flowers)
+- **Start:** 3rd day of Kythorn (The Time of Flowers)
+- **End:** 3rd day of Kythorn (The Time of Flowers)
 
 ##### NPCs Present
-* Farmer
+- Farmer
 
 ##### Location(s)
-* Hero's Alliance
-* Wonky Donkey
+- Hero's Alliance
+- Wonky Donkey
 
 ##### Session Events
-* On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
-* Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
-* After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
-* The party set out to complete contract #1 and ended the session outside the holy site.
+- On their journey to Holworth to take part in this era of magical awakening, the party came across a farmer’s plot and fought a collection of wolf spiders.
+- Upon victory, the party conferred with the Farmer receiving a Hero's Alliance contract he had open, a Beacon license to be activated at the Snail Mail office, and the ArcReader. Ashitaka provided a tender offering of a love pillow to the farmer.
+- After venturing to Holworth, the party briefly stopped by the Wonky Donkey for a drink and then traveled to claim their contract and join the Hero's Alliance.
+- The party set out to complete contract #1 and ended the session outside the holy site.
 
 ---
 
@@ -798,28 +986,28 @@ NA
 
 My job as DM:
 
-* Success as a DM
+- Success as a DM
     + is delivering narrative depth, game realism, and player reward through process. Winning does not take a binary form in DnD. Those can be player goals as well. 
-* Specifics of my job as DM
+- Specifics of my job as DM
     + I am the god of this world, but my purpose is to be an impartial narrator and referee. When I use discretion, it will always be in the larger interest of the above stated goals.
     + There will routinely be game knowledge I need but don't posses in the moment. As a result, I will be constantly thinking of the cost-benefit of how difficult it would be to address the lacking info. If it's prohibitive, I will make a judgement and note I need to clarify post-session.
-* I will generally be hands off.
-* The story may be fragmented.
+- I will generally be hands off.
+- The story may be fragmented.
     + and things may feel clunky and we may ultimately never complete major arcs. My job is to guide the game in a manner that is adaptive to the direction, momentum, and needs of the party.
 
 Your job as players:
 
-* Participate in the creation of the world.
+- Participate in the creation of the world.
     + There are times I may call on you to do this. There are times you will be totally unaware your actions spurred unplanned events. You are just as vital as the DM to the creation of the narrative.
-* Embrace the suspension of disbelief.
+- Embrace the suspension of disbelief.
     + Avoid metagame awareness by compartmentalizing knowledge and working through mechanisms that make sense for your char.
-* Personify your char as much as possible.
+- Personify your char as much as possible.
     + Aim for maximum cognitive immersion. DnD is unique in the level of mental access you have to connect with and guide the actions of a char. Strengths are obviously emphasized, but flaws hold relevance too.
-* Cheating or buffing gameplay holds no value.
+- Cheating or buffing gameplay holds no value.
     + Meaningful party outcomes, good or bad, are where success is had. As the players of dwarf fortress say, "losing is fun". Get out of the "beowulf" mindset (success is automatic and always assumed).
-* Cheating in-character definitely holds value
+- Cheating in-character definitely holds value
     + but it should make sense. For instance, a CN type would be out of character only doing good natured things. Steal from the party, murder every hobo, just do it with broad consideration for relevance and impact.
-* Talking about success
+- Talking about success
     + it includes the thoughts and preferences of each party member. If something makes you uncomfortable, if there is an aspect of game play you'd like to see elevated or diminished, raise these issues as we go.
 
 ---
@@ -827,72 +1015,75 @@ Your job as players:
 ## Story Arcs
 
 ### A Titan's Price
-* **Outline:**
+- **Outline:**
     + *Event:* Prahmethoth introduces magic to realm.
     + *Impact:* After millennia without arcane magic, this world undergoes a dramatic technological awakening.
     + *Call to action:* Inconsistencies in magical fidelity and a growing presence of Prahmethoth's work begin impacting society.
     + *Turn:* Upon initial confrontation, the PCs learn Prahmethoth has granular control of arcane drift, rendering him virtually invincible.
     + *Resolution:* The PCs attempt to develop a method for arcane permanence, allowing them to fight Prahmethoth at full strength.
-* **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, arcane drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate arcane drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
+- **Exposition:** This world is a lost Plagueland where a fundamental connection with the weave is broken. Due to unknown effects, arcane drift dynamics have effectively created an arcane energy void. All mechanics of the Ves-Tonder system are intact but cannot function with the energy vacancy. While attempting to attain a level of divinity, the Alhoon Prahmethoth travels to this realm in an effort to avoid detection from the Elder Brain. Through his work, he discovers a method to manipulate arcane drift. This enables the draw of arcane energy to this space, effectively introducing the completed circuit of the weave to the realm.
 
-* The realm lacks magical properties due to an arcane energy void
-* BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
-* BB discovers method to manipulate arcane drift that fills arcane void, making interaction with the weave possible
-* Need: ability or artifact to manipulate arcane drift.
-* This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
-* Party can discover method of controlling ability or forging artifact to give arcane drift permanence.
+- The realm lacks magical properties due to an arcane energy void
+- BB identifies the value of this to advance arcane study and avoid elder brain detection while pursuing motivations
+- BB discovers method to manipulate arcane drift that fills arcane void, making interaction with the weave possible
+- Need: ability or artifact to manipulate arcane drift.
+- This artifact/ability gives BB ability to conduct work in synthesized arcane space, effectively turning magic on/off. Goal is to achieve some kind of immortality without elder brain (lichdom, divinity)
+- Party can discover method of controlling ability or forging artifact to give arcane drift permanence.
 
 #### Investigation
-* Spell casting has become a routine nature that is focused on the functional outcome of its action without holding an understanding of the underlying mechanisms
-* What change occured to introduce the state of magic we see today? The capabilities of casting existed prior as shown by our psyonic colleagues, so what about the weave changed.
+- W. Fitzhugh Brundage and Amira Tonder collaborated as academics with Spotswood Bushrod (artificer) to research and create the Brundage-Tonder system of that includes Arcane Drift.
 
-* W. Fitzhugh Brundage and Amira Tonder collaborated as academics with Spotswood Bushrod (artificer) to research and create the Brundage-Tonder system of that includes Arcane Drift.
-* Created the Integrated Arcane Circuit Guage, a conductive arcane energy device that allows for the measurement of energy transfer. Uses a unipolar gate that relies on a field effect. The device is two concentric circles mounted in a substrate. The circles are composed of varying specialized alloys that mark both points of human interface for the user along with the location of the central logic gate where measurement takes place in the material of the device.
-* Collaborated with artificer colleague to engineer and manipulate the device
-* Isolated component mechanisms of casting process through independent measurement
-* Used dispel magic as a negative control to detect arcane energy vacancy
+- Spell casting has become a routine nature that is focused on the functional outcome of its action without holding an understanding of the underlying mechanisms
+- What change occured to introduce the state of magic we see today? The capabilities of casting existed prior as shown by our psyonic colleagues, so what about the weave changed.
+- Created the Integrated Arcane Circuit Guage, a conductive arcane energy device that allows for the measurement of energy transfer. Uses a unipolar gate that relies on a field effect. The device is two concentric circles mounted in a substrate. The circles are composed of varying specialized alloys that mark both points of human interface for the user along with the location of the central logic gate where measurement takes place in the material of the device.
+- Collaborated with artificer colleague to engineer and manipulate the device
+- Isolated component mechanisms of casting process through independent measurement
+- With this we announce the Brundage-Tonder system and its application.
 
 ##### Experiments
+- Used dispel magic as a negative control to detect arcane energy vacancy
+
+- The system we've developed follows an analog of a lantern.
 
 **Tear**
 
-* detect arcane energy procurement (flame) use conductive device
+- detect arcane energy procurement (flame) use conductive device
 
 **Amplification**
 
-* quantify and show difference in containment of energy (lvl difference between spells) (fuel) use conductive device
+- quantify and show difference in containment of energy (lvl difference between spells) (fuel) use conductive device
 
 **Diffraction**
 
-* delineate difference in channeling arcane energy to different schools of magic. (lens) something with diffraction
+- delineate difference in channeling arcane energy to different schools of magic. (lens) something with diffraction
 
 **Containment**
 
-* prove ability to hold casting (aperture)
+- prove ability to hold casting (aperture)
 
-* **Items:**
-* **Chars:**
+- **Items:**
+- **Chars:**
     + Prahmethoth
-* **Plot hooks:**  
-* **Events:**
+- **Plot hooks:**  
+- **Events:**
     + Anticipated:**
         - "blackout" event where magic shuts off momentarily. Prahmethoth is testing something that impacts arcane permanence.
     + Transpired:**
 
 ### An Introduction
-* **Outline:**
+- **Outline:**
     + *Event:* PCs appear and witness farm being attacked.
     + *Impact:* Risk of harm to everyone in area.
     + *Call to action:* Only the party can save the farmer.
     + *Turn:* Party decides to intervene.
     + *Resolution:* Farmer is grateful and passes on prized adventuring items
-* **Exposition:** The PCs were drawn to Holworth as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
-* **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
-* **Chars:**
+- **Exposition:** The PCs were drawn to Holworth as the cultural epicenter of magic. The farmer is a former adventurer and will pass on his items if assisted.
+- **Items:** ArcReader, Snail Mail beacon license, Hero’s Alliance contract
+- **Chars:**
     + Old farmer
     + Attacking giant wolf spiders
-* **Plot hooks:**  NA
-* **Events:**
+- **Plot hooks:**  NA
+- **Events:**
     + Anticipated:**
         - Random encounter with aggressor NPCs
         - Party intervenes to save farmer
@@ -900,17 +1091,17 @@ Your job as players:
     + Transpired:**
 
 ### Arms Race
-* **Outline:**
+- **Outline:**
     + *Event:* arms manufacturer offers lucrative contract to party
     + *Impact:*
     + *Call to action:*
     + *Turn:*
     + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
+- **Exposition:**
+- **Items:**
+- **Chars:**
+- **Plot hooks:**  
+- **Events:**
     + Anticipated:**
     + Transpired:**
 
@@ -957,36 +1148,36 @@ Your job as players:
     + Pay: 50gp
 
 ### Heralds Inbound
-* **Outline:**
+- **Outline:**
     + *Event:* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of "fresh" territory.
     + *Impact:*
     + *Call to action:*
     + *Turn:*
     + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
+- **Exposition:**
+- **Items:**
+- **Chars:**
+- **Plot hooks:**  
+- **Events:**
     + Anticipated:**
     + Transpired:**
 
 ### Realignment
-* **Outline:**
+- **Outline:**
     + *Event:* The Progenitor Trust attempts to organize a coup and seize power within their locality.
     + *Impact:* With their early investments in magical capability, the Trust is able to upend the historical power structure and seek greater ambitions (conquest).
     + *Call to action:* 1) Gain sympathy of party and participate in the coup. 2) Prevent coup.
     + *Turn:* 1) Party becomes aware of intentions beyond coup
     + *Resolution:* Party succeeds in either C2A they choose.
-* **Exposition:**
+- **Exposition:**
     - The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the Awakening, the Verdan made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
-* **Items:**
-* **Chars:**
+- **Items:**
+- **Chars:**
     - W. Fitzhugh Brundage
     - Lady Luna
-* **Plot hooks:** 
+- **Plot hooks:** 
     - Party encounters group of PT agents looking to interrogate Lady Luna. The agents dispatch the party to a pocket dimension to avoid confrontation.
-* **Events:**
+- **Events:**
     + Anticipated:**
         - Party interacts with race leadership.
         - Blackout creates window for local leader to raid race hq.
@@ -996,17 +1187,17 @@ Your job as players:
         - Given the party's first contact with the PT is in the presence of their stated enemy, the PT is characterized as a terrorist group by Lady Lunda and Onry.
 
 ### Twin Metals
-* **Outline:**
+- **Outline:**
     + *Event:* mining for magical ore has expanded dramatically
     + *Impact:*
     + *Call to action:*
     + *Turn:*
     + *Resolution:*
-* **Exposition:**
-* **Items:**
-* **Chars:**
-* **Plot hooks:**  
-* **Events:**
+- **Exposition:**
+- **Items:**
+- **Chars:**
+- **Plot hooks:**  
+- **Events:**
     + Anticipated:**
     + Transpired:**
 
@@ -1015,144 +1206,148 @@ Your job as players:
 ## Institutions
 
 ### Emerald Compact
-* **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
-* **Mission statement:**
-* **Motto:** The earth laughs in flowers
-* **Goals:**
+- **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
+- **Mission statement:**
+- **Motto:** The earth laughs in flowers
+- **Goals:**
     + Enlists agents to support their cause of environmental intervention.
     + Coordinate efforts to obstruct humanoid causes of environmental damage by any means necessary.
     + A primary target of their focus is the recent expansion in mining for magical ore.
-* **Location:** Unknown
-* **Services:**
-* **Membership:**
+- **Location:** Unknown
+- **Services:**
+- **Membership:**
     + Allegiance is sworn upon receiving an invitation to become an agent.
     + Agents are conscripted to secrecy.
     + All druids are given an opportunity at membership.
-* **NPCs:**
-* **Story arcs:**
-* **Background:**
+    + All members are offered an amulet showing an upside down green tulip, the emblem of the org. Contained within the petals are a dose of deathcap poison, should an agent be captured and need preserve the compact's cause.
+    + Additionally, agents are given an emerald Ioun Stone of Absorption upon completion of first mission.
+- **NPCs:**
+  - Gormar Farbalar: shop owner in holworth holding parcel for vaerune.
+- **Story arcs:**
+- **Background:**
+    + Organization symbol is a green tulip.
 
 ### Hero’s Alliance
-* **Description:** A union of adventuring members with common goals and public professional services.
-* **Mission statement:**
-* **Motto:** I wish to see what lies beyond
-* **Goals:**
+- **Description:** A union of adventuring members with common goals and public professional services.
+- **Mission statement:**
+- **Motto:** I wish to see what lies beyond
+- **Goals:**
     + Provide public access to adventurer talent and services through contract hire.
     + Serve as support union for adventurers.
     + Give endless feed of easy quest plot hooks.
     + Remain apolitical.
-* **Location:** Branches in most major cities.
-* **Services:**
+- **Location:** Branches in most major cities.
+- **Services:**
     + Contract to hire adventurer jobs
     + Training
     + Practice combat theater
-* **Membership:**
+- **Membership:**
     + Must be actively working as a professional adventurer.
     + Complete a test job at discretion of branch warden
-* **NPCs:**
-* **Story arcs:**
+- **NPCs:**
+- **Story arcs:**
     + An introduction
-* **Background:**
+- **Background:**
 
 ### Progenitor Trust
-* **Description:** An order of Verdan mages who, previously beset by oppression, heavily embraced magic post-Awakening.
-* **Mission statement:**
-* **Motto:**
-* **Goals:** Employ academic head start in magic prowess to organize a coup. Upon seizing power, embark on aggressive conquest in expansion of race influence.
-* **Location:** Threapnalt University
-* **Services:**
-* **Membership:**
-* **NPCs:**
+- **Description:** An order of Verdan mages who, previously beset by oppression, heavily embraced magic post-Awakening.
+- **Mission statement:**
+- **Motto:**
+- **Goals:** Employ academic head start in magic prowess to organize a coup. Upon seizing power, embark on aggressive conquest in expansion of race influence.
+- **Location:** Threapnalt University
+- **Services:**
+- **Membership:**
+- **NPCs:**
     + W. Fitzhugh Brundage
-* **Story arcs:**
+- **Story arcs:**
     + Realignment
-* **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
+- **Background:** The race are a people who have historically been oppressed by the ruling class of their locale. In the immediate aftermath of the [awakening], the race made early investments in magical knowledge and building of their collective capability. A race previously beset with little opportunity saw dramatic advancements in the state of their human capital. Even still, this did not come with social realignment, and thus, the leadership of the race have set out to correct this historic imbalance.
     - HA contract #8
 
 ### Round Earth Society
-* **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
-* **Mission statement:**
-* **Motto:** We're ahead of the curve.
-* **Goals:** Promote the belief that the world is spherical.
-* **Location:**
-* **Services:**
-* **Membership:**
-* **NPCs:** Leo Ferrari
-* **Story arcs:**
-* **Background:** This group is one of many elements who have embraced psuedointellectual leanings in the wake of the Awakening. The degree to which society's understanding of reality was fundamentally changed has uprooted many previously steadfast beliefs.
+- **Description:** An advocacy group that promotes the belief the world is spherical while denying existence of a firmament.
+- **Mission statement:**
+- **Motto:** We're ahead of the curve.
+- **Goals:** Promote the belief that the world is spherical.
+- **Location:**
+- **Services:**
+- **Membership:**
+- **NPCs:** Leo Ferrari
+- **Story arcs:**
+- **Background:** This group is one of many elements who have embraced psuedointellectual leanings in the wake of the Awakening. The degree to which society's understanding of reality was fundamentally changed has uprooted many previously steadfast beliefs.
 
 ### Snail Mail
-* **Description:** Aldock Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
-* **Mission statement:**
-* **Motto:**
-* **Goals:** Provide high fidelity messaging services across the realm.
-* **Location:** Branches in most major cities.
-* **Services:**
+- **Description:** Aldock Distributed Messaging Brokerage. A communication service of the flail snail hive mind collective. AKA Snail Mail.
+- **Mission statement:**
+- **Motto:**
+- **Goals:** Provide high fidelity messaging services across the realm.
+- **Location:** Branches in most major cities.
+- **Services:**
     + Priority Telepathy –
     + Priority Express Telepathy -
     + Beacon License – recipients receive charm which allows for persistent tracking in roaming message delivery.
     + Joke payment – flail snails love jokes. A new joke (and food) can substitute as payment for a received message.
-* **Membership:**
+- **Membership:**
     + Standard pricing array for varying services
     + Certain Licenses that allow for elevated access and pricing gratuity
-* **NPCs:** flail snail hive mind collective
-* **Story arcs:** An introduction
-* **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
+- **NPCs:** flail snail hive mind collective
+- **Story arcs:** An introduction
+- **Background:** Flail snails take their service to the realm very seriously. Their collective psionic capabilities allowed them to provide their services long before the [awakening] and the introduction of other methods of arcane data transfer.
 
-### Sovereign Academcy of Metamagical Sciences
+### Sovereign Academy of Metamagical Sciences
 
 ### Threapnalt University
-* **Description:** An institution of higher learning in the arcane arts
-* **Mission statement:**
-* **Motto:** Driven to Discover
-* **Goals:** Advance the discovery of arcane knowledge.
-* **Location:** Holworth, Noon Orchard district
-* **Services:**
+- **Description:** An institution of higher learning in the arcane arts
+- **Mission statement:**
+- **Motto:** Driven to Discover
+- **Goals:** Advance the discovery of arcane knowledge.
+- **Location:** Holworth, Clearpole district
+- **Services:**
     + Library
     + Training
-* **Membership:**
+- **Membership:**
     + Admissions process for students
     + Hiring process for faculty
-* **NPCs:**
+- **NPCs:**
     + W. Fitzhugh Brundage
-* **Story arcs:**
+- **Story arcs:**
     + Main plot
     + Realignment
-* **Background:** Named for founding leader of Progenitor Trust.
+- **Background:** Named for founding leader of Progenitor Trust.
 
 ---
 
 ## People
 
 ### Asarkal
-* **Race:** Human
-* **Class:** Warlock
-* **Traits:** loyal, organized
-* **Motivations:** Serve with dignity
-* **Location:** Holworth Hero's Alliance
-* **Background:** Asarkal is the commander of the Holworth HA branch.
+- **Race:** Human
+- **Class:** Warlock
+- **Traits:** loyal, organized
+- **Motivations:** Serve with dignity
+- **Location:** Holworth Hero's Alliance
+- **Background:** Asarkal is the commander of the Holworth HA branch.
 
 ### Baizax
-* **Race:** Silver Dragon
-* **Class:** Wyrmling
-* **Motivations:** Follow a drive for exploration. Maintain a deep conviction of honor. Support the efforts of a great cause. Defend the innocent.
-* **Traits:** lawful good, curious, honorable
+- **Race:** Silver Dragon
+- **Class:** Wyrmling
+- **Motivations:** Follow a drive for exploration. Maintain a deep conviction of honor. Support the efforts of a great cause. Defend the innocent.
+- **Traits:** lawful good, curious, honorable
     * prominent neck frills, a beaklike snout, plated facial armor, and long, backswept horns. From a distance, the exceptionally fine scales appear to blend together, lending the dragon the appearance of a sculpture
     * scent reminiscent of rain and evergreen needles
-* **Location:** Lair of Baizax
-* **Background:** Approximately a 4yo silver dragon
+- **Location:** Lair of Baizax
+- **Background:** Approximately a 4yo silver dragon
 
 ### Farmer
-* **Race:** Human
-* **Class:** Fighter
-* **Motivations:** Live a simply after a life of adventuring
-* **Traits:** old, feeble
-* **Location:** Farm off main road south of Holworth.
-* **Background:** Spent a career as an adventurer with wife but has since retired.
+- **Race:** Human
+- **Class:** Fighter
+- **Motivations:** Live a simply after a life of adventuring
+- **Traits:** old, feeble
+- **Location:** Farm off main road south of Holworth.
+- **Background:** Spent a career as an adventurer with wife but has since retired.
 
 ### Greenbottle Hill Militia
-* **Leader:** Onry
-* **Members:** x12 stout halfling locals, x3 fern domesticated fern hounds
+- **Leader:** Onry
+- **Members:** x12 stout halfling locals, x3 fern domesticated fern hounds
 
 
 <details>
@@ -1276,56 +1471,56 @@ Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) 
 
 
 ### Lady Luna Laurentz
-* **Race:** Human
-* **Class:** na, noble
-* **Motivations:** expand operations around magical mine products
-* **Traits:**
+- **Race:** Human
+- **Class:** na, noble
+- **Motivations:** expand operations around magical mine products
+- **Traits:**
     - Dismissive of lower class
     - Sees Verdan as subhuman
-* **Location:** Often in The Walls district at her home or office
-* **Background:**
+- **Location:** Often in Catroad district at her home or office
+- **Background:**
     - Owner of Twin Metals, Aldock's largest mining and refinery outfit.
     - Major figure in a ruling family of Aldock.
     - Played a role in historic oppression of Verdan people pre-Awakening.
 
 ### Laquillal
-* **Race:** Orc
-* **Class:** Barkeep, commoner
-* **Traits:** Non-binary, energetic
-* **Motivations:** Serve good beer
-* **Location:** Wonky Donkey
-* **Background:** Laquillal is the barkeep of the Wonky Donkey.
+- **Race:** Orc
+- **Class:** Barkeep, commoner
+- **Traits:** Non-binary, energetic
+- **Motivations:** Serve good beer
+- **Location:** Wonky Donkey
+- **Background:** Laquillal is the barkeep of the Wonky Donkey.
 
 ### Leo Ferrari
-* **Race:**
-* **Class:**
-* **Motivations:**
-* **Traits:**
-* **Location:**
-* **Background:**
+- **Race:**
+- **Class:**
+- **Motivations:**
+- **Traits:**
+- **Location:**
+- **Background:**
 
 ### Mule
-* **Race:**
-* **Class:**
-* **Traits:** feeble, psyonic abilities, appears to be harmless
-* **Motivations:** serve Prahmethoth as main lieutenant
-* **Location:**
-* **Background:**
+- **Race:**
+- **Class:**
+- **Traits:** feeble, psyonic abilities, appears to be harmless
+- **Motivations:** serve Prahmethoth as main lieutenant
+- **Location:**
+- **Background:**
 
 ### Nidei
-* [char sheet](./chars/nidei.html)
-* **Motivations:**
-* **Traits:**
-* **Location:** Works in the Laurentz mine.
-* **Background:**
+- [char sheet](./chars/nidei.html)
+- **Motivations:**
+- **Traits:**
+- **Location:** Works in the Laurentz mine.
+- **Background:**
 
 ### Onry
-* **Race:** Dark Elf
-* **Class:** Bard
-* **Motivations:** Serve the realm with honor
-* **Traits:** Highly loyal, nationalistic
-* **Location:** Typically with Lady Luna
-* **Background:**
+- **Race:** Dark Elf
+- **Class:** Bard
+- **Motivations:** Serve the realm with honor
+- **Traits:** Highly loyal, nationalistic
+- **Location:** Typically with Lady Luna
+- **Background:**
 
 <details>
   <summary>**Class Features**</summary>
@@ -1389,38 +1584,38 @@ Languages: speaks Elvish and Undercommon.
 </br>
 
 ### Prahmethoth
-* **Race:** Alhoon
-* **Class:**
-* **Motivations:**
-* **Traits:**
-* **Location:**
-* **Background:**
+- **Race:** Alhoon
+- **Class:**
+- **Motivations:**
+- **Traits:**
+- **Location:**
+- **Background:**
 
 
 ### Samuta
-* **Race:** White Dragon Wyrmling
-* **Class:**
-* **Motivations:** Escape enslavement
-* **Traits:** Chaotic Evil
-* **Location:** Laurentz Mine
-* **Background:** Samuta was captured by Nidei the Accursed as a hatchling. In developing his technique for synthesizing cold iron, Nidei conscripted Samuta to a life of indentured servitude by using her frost breath in his transmutation process.
+- **Race:** White Dragon Wyrmling
+- **Class:**
+- **Motivations:** Escape enslavement
+- **Traits:** Chaotic Evil
+- **Location:** Laurentz Mine
+- **Background:** Samuta was captured by Nidei the Accursed as a hatchling. In developing his technique for synthesizing cold iron, Nidei conscripted Samuta to a life of indentured servitude by using her frost breath in his transmutation process.
 
 
 ### Siyorac
-* **Race:** Human
-* **Class:** Guard
-* **Traits:**
-* **Motivations:** Serve Aldock
-* **Location:** Holworth South Gate
-* **Background:**
+- **Race:** Human
+- **Class:** Guard
+- **Traits:**
+- **Motivations:** Serve Aldock
+- **Location:** Holworth South Gate
+- **Background:**
 
 ### W. Fitzhugh Brundage
-* **Race:**
-* **Class:**
-* **Motivations:** discovery, aid the party in pursuit of discovery, support Progenitor Trust
-* **Traits:** intelligent, curious, persistent
-* **Location:** Threapnalt University
-* **Background:**
+- **Race:**
+- **Class:**
+- **Motivations:** discovery, aid the party in pursuit of discovery, support Progenitor Trust
+- **Traits:** intelligent, curious, persistent
+- **Location:** Threapnalt University
+- **Background:**
     + Conducts academic work on the arcane.
     + Stands as a leader in the early findings of arcane mechanisms (Ves-Tonder System).
     + Currently expanding into area of arcane drift.
@@ -1431,125 +1626,150 @@ Languages: speaks Elvish and Undercommon.
 ## Places
 
 ### Brushgathershire
-* Brushgathershire is a primarily Halfling village with a population of 313. The population is 86% halfling, 1% human, 1% elf, 1% dwarf, and 11% other races.
-* Public Figures:
-* Mayor: Alton Tosscobble, Halfling
-* Greeter: Verna Tealeaf, Halfling
-* Guard Captain: Portia Fingertoes, Halfling
-* Religious Leader: Wellby Tosscobble, Halfling
-* Town Gossip: Vani Tosscobble, Halfling
-* Tavern
+- Brushgathershire is a primarily Halfling village with a population of 313. The population is 86% halfling, 1% human, 1% elf, 1% dwarf, and 11% other races.
+- Public Figures:
+- Mayor: Alton Tosscobble, Halfling
+- Greeter: Verna Tealeaf, Halfling
+- Guard Captain: Portia Fingertoes, Halfling
+- Religious Leader: Wellby Tosscobble, Halfling
+- Town Gossip: Vani Tosscobble, Halfling
+- Tavern
     * Name: Sapphire Crocodile
     * Owner: Milo Greenbottle, Halfling
-* Most Popular Smith
+- Most Popular Smith
     * Name: Andry's Smithy
     * Owner: Andry High-hill, Halfling
-* Tailor
+- Tailor
     * Name: Modern Raiments
     * Owner: Wellby Tosscobble, Halfling
-* Bakery
+- Bakery
     * Name: Hot Pastries
     * Owner: Paela Greenbottle, Halfling
-* Most Popular Butcher
+- Most Popular Butcher
     * Name: Exalted Meatmarket
     * Owner: Eldon Thorngage, Halfling
 
 ### Holes Magic Potions
-* **Location:** Holworth, Applearch
-* **Description:** A trade shop dedicated to potions.
-* **NPCs:**
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
+- **Location:** Holworth, The Grove
+- **Description:** A trade shop dedicated to potions.
+- **NPCs:**
+- **Organizations:**
+- **Items:**
+- **Story arcs:**
+- **Background:**
+
+### Holworth
+- **Districts**
+  - Clearpole
+    - industrial center with processing and refinement
+    - high poverty, largely low skilled laborers
+    - high concentration of verdan race
+  - The Port
+    - port district, largely commercial
+  - Dogbridge
+    - port district, largely commercial
+  - The Grove
+    - middle class residential and commercial
+  - Otat's Bridge
+    - skid row-like warehouse district
+    - high poverty, largely low skilled laborers
+  - Three Songs
+    - isolated agrarian serf community.
+  - Southgate
+    - lower class simple artisans.
+  - Castle
+  - Westgate
+    - area within gate holds large area of affluence
+  - Catroad
+    - area within gate holds large area of affluence
+
+### Holworth Hero's Alliance
+- **Location:** Holworth, The Grove
+- **Description:**
+- **NPCs:** Asarkal
+- **Organizations:**
+- **Items:**
+- **Story arcs:**
+- **Background:**
 
 ### Greenbottle Hill
-* Greenbottle Hill is a primarily Halfling hamlet with a population of 104. The population is 72% halfling, 10% human, 1% elf, 1% dwarf, 1% gnome, 1% dragonborn, 1% half-elf, 1% tiefling, 1% aasimar, and 11% other races.
-* Public Figures:
+- Greenbottle Hill is a primarily Halfling hamlet with a population of 104. The population is 72% halfling, 10% human, 1% elf, 1% dwarf, 1% gnome, 1% dragonborn, 1% half-elf, 1% tiefling, 1% aasimar, and 11% other races.
+- Public Figures:
     * Mayor: Lyle Thorngage, Halfling
     * Greeter: Sindri Beren, Gnome
     * Guard Captain: Milo Tealeaf, Halfling
     * Religious Leader: Left-Handed Hummingbird Bright Cliffs, Tabaxi
     * Town Gossip: Merric Underbough, Halfling
-* Smith
+- Smith
     * Name: Fine Hammer
     * Owner: Merla Underbough, Halfling
-* Butcher
+- Butcher
     * Name: Eldon's Meatmarket
     * Owner: Eldon Beren, Gnome
 
-### Holworth Hero's Alliance
-* **Location:** Holworth, Applearch
-* **Description:**
-* **NPCs:** Asarkal
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
-
 ### Lair of Baizax the Wyrmling
-* **Location:** Upstream of the Dunter River, W of Holworth near small burough of Brushgathershire
-* **Description:** A small cave network with a large central cavern where Baizax has settled in.
-* **NPCs:** Baizax the silver dragon wyrmling
-* **Organizations:** NA
-* **Items:**
-* **Story arcs:** HA contract #7
-* **Background:** Cavern was unoccupied prior to Baizax taking up temporary shelter here. The cave is filled with typical cavern vermin otherwise.
+- **Location:** Upstream of the Dunter River, W of Holworth near small burough of Brushgathershire
+- **Description:** A small cave network with a large central cavern where Baizax has settled in.
+- **NPCs:** Baizax the silver dragon wyrmling
+- **Organizations:** NA
+- **Items:**
+- **Story arcs:** HA contract #7
+- **Background:** Cavern was unoccupied prior to Baizax taking up temporary shelter here. The cave is filled with typical cavern vermin otherwise.
 
 
 ### Laurentz Mine
-* **Location:** A mile NE of Greenbottle Hill
-* **Description:** This is a slopped outcropping mine under recent development by Lady Luna Laurentz.
+- **Location:** A mile NE of Greenbottle Hill
+- **Description:** This is a slopped outcropping mine under recent development by Lady Luna Laurentz.
     - This is a naturally formed cavern that was identified to have iron veins present.
     - The cave opens to cavern #2 with the primary exploration for cold iron taking place in cavern #7
-* **NPCs:**
+- **NPCs:**
     - Lady Luna
     - Nidei the Accursed
     - Samuta the Enslaved
-* **Organizations:** Laurentz Family Enterprises
-* **Items:**
-* **Story arcs:** Realignment
-* **Background:** Lady Luna's family enterprise has set out to expand their mining industry into the newly available magical materials space. With the advent of the awakening, several minerals with previously unknown qualities have become available. In the case of the Laurentz Mine, it was previously a standard iron vein, but the Laurentz family has licensed a metalurgic process that allows for the extraction of cold iron using Ray of Frost.
+- **Organizations:** Laurentz Family Enterprises
+- **Items:**
+- **Story arcs:** Realignment
+- **Background:** Lady Luna's family enterprise has set out to expand their mining industry into the newly available magical materials space. With the advent of the awakening, several minerals with previously unknown qualities have become available. In the case of the Laurentz Mine, it was previously a standard iron vein, but the Laurentz family has licensed a metalurgic process that allows for the extraction of cold iron using Ray of Frost.
 
 
 ### PT Pocket Dimension
-* **Location:** A contained void in space
-* **Description:**
+- **Location:** A contained void in space
+- **Description:**
     - Consists of 3 magically conjoined environments that contain visualizations and interactive objects that have been arranged in a manner to be solvable puzzles.
     - Room 1 (Art of Programming)
     - Room 2 (Rude Guantlet)
     - Room 2b (Backward Hall)
     - Room 3 (King's Dilemma)
 
-* **NPCs:**
-* **Organizations:** Progenitor Trust
-* **Items:**
+- **NPCs:**
+- **Organizations:** Progenitor Trust
+- **Items:**
     - Rude Guantlet
-* **Story arcs:** Realignment
-* **Background:** This dimension was created to be a testing ground as a academic exercise by W. Fitzhugh Brundage. It has since become a useful tool for him in avoiding combat.
+- **Story arcs:** Realignment
+- **Background:** This dimension was created to be a testing ground as a academic exercise by W. Fitzhugh Brundage. It has since become a useful tool for him in avoiding combat.
 
 
 ### Temple of Purpose
-* **Location:** Just off the lesser route, 5mi S of Chilseading
-* **Description:**
+- **Location:** Just off the lesser route, 5mi S of Chilseading
+- **Description:**
     + *Map:*
     + An open air regional holy site of the Witnesses of Morinzi.
     + The site features a large assembly platform that centers on a lecturn and the main feature of an eternal flame.
     + Additionally, there is an underground structure that serves as an organizing and worship environment for the religious leadership.
-* **NPCs:**
-* **Organizations:** Witnesses of Morinzi
-* **Items:**
-* **Story arcs:** HA contract #1
-* **Background:** Built about 400 years ago, this eternal flame just outside the city limits is here to celebrate the rich musical and artistic history of this region, which is still part of it today. Its position within this community is meant to represent the heart and soul of the people and the unbreakable bond between past and future generations. It was designed by a famous international artist who accurately captured the varied history of the region and used an elegant style to convey her vision in this piece of art.  Every element was crafted and created with durable materials from local suppliers, ensuring this monument will continue to adorn the community for generations to come.
+- **NPCs:**
+- **Organizations:** Witnesses of Morinzi
+- **Items:**
+- **Story arcs:** HA contract #1
+- **Background:** Built about 400 years ago, this eternal flame just outside the city limits is here to celebrate the rich musical and artistic history of this region, which is still part of it today. Its position within this community is meant to represent the heart and soul of the people and the unbreakable bond between past and future generations. It was designed by a famous international artist who accurately captured the varied history of the region and used an elegant style to convey her vision in this piece of art.  Every element was crafted and created with durable materials from local suppliers, ensuring this monument will continue to adorn the community for generations to come.
 
 ### Wonkey Donkey
-* **Location:** Holworth, Stormgrove dist
-* **Description:** Energetic atmosphere
-* **NPCs:** Laquillal
-* **Organizations:**
-* **Items:**
-* **Story arcs:**
-* **Background:**
+- **Location:** Holworth, Stormgrove dist
+- **Description:** Energetic atmosphere
+- **NPCs:** Laquillal
+- **Organizations:**
+- **Items:**
+- **Story arcs:**
+- **Background:**
 
 ---
 
@@ -1561,25 +1781,25 @@ ArcReader, Snail Mail beacon license
 
 **Double Items**
 
-* Dagger
-* Bullseye lantern (filled and lit)
-* Steel mirror
-* 10-foot pole
-* Hempen rope (50 feet, coiled)
-* Sack
+- [] Dagger
+- [] Bullseye lantern (filled and lit)
+- [] Steel mirror
+- [] 10-foot pole
+- [] Hempen rope (50 feet, coiled)
+- [] Sack
 
 **Single Items**
 
-* riding horse
-* bag of 100gp
-* 3rd lvl spell scroll
-* 4 potions of healing
-* 4 potions of healing
-* silver coffer
-* iron door
-* 10 gems worth 100gp each
-* rowboat
-* wooden ladder
+- [x] riding horse
+- [] bag of 100gp
+- [] 3rd lvl spell scroll
+- [] 4 potions of healing
+- [] 4 potions of healing
+- [] silver coffer
+- [] iron door
+- [] 10 gems worth 100gp each
+- [] rowboat
+- [] wooden ladder
 
 ## Workshop
 
@@ -1596,23 +1816,23 @@ ArcReader, Snail Mail beacon license
 
 ### Puzzles
 
-* air lock
+- air lock
     - barren room with one other door and impression for single medium char.
     - ceiling slowly drops as first door is closed. ceiling stops at 1 ft and raises. 2nd door opens.
     - only dmg is what chars commit themselves.
-* poem that is a for loop to complete task
-* backward wall - wall appears when party turns around.
+- poem that is a for loop to complete task
+- backward wall - wall appears when party turns around.
     - "Life can only be understood backward, but it must be lived forward"
     - "AH, look out behind you. There's a monster."
     - "The obstacle is the only way."
     - "Back street's back, alright."
-* items disappear, task completed without equipment
-* pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
-* hoffman encoding for Prahmethoth encrypted messages
-* graph algorithm
-* timed effects
-* kobe - party needs to cast fireball through basketball hoop
-* https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
+- items disappear, task completed without equipment
+- pc performs action to bind themselves to curse, they get isolated, a simulacrum of that pc returns to the party to fight them
+- hoffman encoding for Prahmethoth encrypted messages
+- graph algorithm
+- timed effects
+- kobe - party needs to cast fireball through basketball hoop
+- https:\/\/docs.google.com\/document\/d\/1hfompGbslrV_YvQ4ktPnY7vg-_blkIZ72hPcXLEWZdQ\/edit
 
 #### rude door
 - located in an armory, 3 iron doors, 2 won't open, 1 is guarded by rude gauntlet.
@@ -1692,12 +1912,12 @@ King: Alas, we've lost miserably, and I must face my people in great shame. I ca
 
 ### Random
 
-* what is the ancillary effect bbg is having on th world?
-* come up with some non-magic items
-* think of exposition device
-* extend narrative arc of emerald compact
-* create pun trap for darin
-* brainstorm how to integrate pc background better
+- what is the ancillary effect bbg is having on th world?
+- come up with some non-magic items
+- think of exposition device
+- extend narrative arc of emerald compact
+- create pun trap for darin
+- brainstorm how to integrate pc background better
 
 https://www.dmsguild.com/browse.php?filters=0_0_0_45752_0_0_0_0
 
@@ -1719,17 +1939,17 @@ subplots
 
 political factions of mage guild
 
-* order of thieves - secretly enlist party thief as plot mechanism
-* construct experimentation methodology as mechanism for puzzle solving
-* create historian character to provide exposition on discovery of magic
-* create university and academic chars to provide exposition on magical properties
-* subjugated race embraces magic early and forms strong fabric within magic community at heart of country where magic is introduced. they intend to over throw their oppressors and embark on aggressive conquest.
-* radical environmentalist group forms and enlists agents to support their cause of intervention
-* mining for magical ore has expanded dramatically
-* [world name] distributed messaging brokerage - A service of the flail snail hive mind collective. party receives credentials for premium beacon \"tracking\" service. snails take payment in food or jokes.
-* create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for Prahmethoth
-* gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
-* arms manufacturer offers lucrative contract to party
+- order of thieves - secretly enlist party thief as plot mechanism
+- construct experimentation methodology as mechanism for puzzle solving
+- create historian character to provide exposition on discovery of magic
+- create university and academic chars to provide exposition on magical properties
+- subjugated race embraces magic early and forms strong fabric within magic community at heart of country where magic is introduced. they intend to over throw their oppressors and embark on aggressive conquest.
+- radical environmentalist group forms and enlists agents to support their cause of intervention
+- mining for magical ore has expanded dramatically
+- [world name] distributed messaging brokerage - A service of the flail snail hive mind collective. party receives credentials for premium beacon \"tracking\" service. snails take payment in food or jokes.
+- create npc modeled after the mule. feeble, psyonic abilities, appears to be harmless. maybe is main lieutenant for Prahmethoth
+- gods converge on the reintroduction of magic, sending heralds and trying to vie for control of \"fresh\" territory.
+- arms manufacturer offers lucrative contract to party
 
 ---
 
