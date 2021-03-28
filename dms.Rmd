@@ -1205,6 +1205,21 @@ Your job as players:
 
 ## Institutions
 
+### Bank of Holworth
+- **Description:** Standard, large banking enterprise
+- **Mission statement:**
+- **Motto:**
+- **Goals:**
+- **Location:**
+- **Services:**
+  - Full slate of typical financial vehicles.
+  - Administration of proprietary arcane cryptographic identity token
+- **Membership:**
+  - Basic savings accounts can be had at any level.
+- **NPCs:**
+- **Story arcs:**
+- **Background:**
+
 ### Emerald Compact
 - **Description:** Underground, decentralized eco-terrorist group that utilizes militant tactics in limiting humanoid environmental impact.
 - **Mission statement:**
@@ -1236,7 +1251,7 @@ Your job as players:
     + Serve as support union for adventurers.
     + Give endless feed of easy quest plot hooks.
     + Remain apolitical.
-- **Location:** Branches in most major cities.
+- **Location:** Holworth - The Grove District, Branches in most major cities.
 - **Services:**
     + Contract to hire adventurer jobs
     + Training
@@ -1600,7 +1615,6 @@ Languages: speaks Elvish and Undercommon.
 - **Location:** Laurentz Mine
 - **Background:** Samuta was captured by Nidei the Accursed as a hatchling. In developing his technique for synthesizing cold iron, Nidei conscripted Samuta to a life of indentured servitude by using her frost breath in his transmutation process.
 
-
 ### Siyorac
 - **Race:** Human
 - **Class:** Guard
@@ -1608,6 +1622,14 @@ Languages: speaks Elvish and Undercommon.
 - **Motivations:** Serve Aldock
 - **Location:** Holworth South Gate
 - **Background:**
+
+### Skobrouth Keggrog
+- **Race:** Dwarf
+- **Class:** Fighter, smith
+- **Motivations:**
+- **Traits:** v grumpy
+- **Location:** Holworth HA
+- **Background:** Goes by Skolly, servers the Holworth HA as chief smith.
 
 ### W. Fitzhugh Brundage
 - **Race:**
@@ -1624,6 +1646,15 @@ Languages: speaks Elvish and Undercommon.
 ---
 
 ## Places
+
+### Andrel and Kudu's Oddities
+- **Location:** Holworth, South Gate District
+- **Description:** General Trader
+- **NPCs:**
+- **Organizations:**
+- **Items:**
+- **Story arcs:**
+- **Background:**
 
 ### Brushgathershire
 - Brushgathershire is a primarily Halfling village with a population of 313. The population is 86% halfling, 1% human, 1% elf, 1% dwarf, and 11% other races.
@@ -1682,15 +1713,6 @@ Languages: speaks Elvish and Undercommon.
     - area within gate holds large area of affluence
   - Catroad
     - area within gate holds large area of affluence
-
-### Holworth Hero's Alliance
-- **Location:** Holworth, The Grove
-- **Description:**
-- **NPCs:** Asarkal
-- **Organizations:**
-- **Items:**
-- **Story arcs:**
-- **Background:**
 
 ### Greenbottle Hill
 - Greenbottle Hill is a primarily Halfling hamlet with a population of 104. The population is 72% halfling, 10% human, 1% elf, 1% dwarf, 1% gnome, 1% dragonborn, 1% half-elf, 1% tiefling, 1% aasimar, and 11% other races.
