@@ -21,44 +21,65 @@ library(knitr)
 ## Session
 
 ##### Previous Summary
-- (SECRET) Vaerune was approached by a flail snail messenger which informed him of the pleasure of the Emerald Compact in his work on the Laurentz Mine. He was told to visit the shop of Gormar Farbalar in Holworth who is holding a parcel for Vaerune.
-- The party fast traveled back to Holworth to explore a reset in the direction of their adventuring. In doing so they crossed paths with a few unique creatures which presented new challenges.
-- A hobgoblin devastator stood as the party's highest spell caster challenge to date, who required perceptive strategy and imaginative method to overcome.
-- Ultimately, the party reached the welcoming gates of Holworth to investigate what their path might hold next.
+- The party reacclimated themselves with Holworth and its ammenities
+- Upon their first pass through the center of the city, the group dispatched an assault by a group of bandits on 2 verdan laborers.
+- In pursuit of new opportunities, the party revisited the Hero's Alliance to make repairs and take a small contract regarding a monster nuisance north of town.
+- The party made quick work of the monster and set out to claim the contract. Before making it back they received an unexpected snail mail message from W. Fitzhugh Brundage
+- This message gave an offering an invitation to dimaya to join the Sovereign Academy of Metamagical Sciences as an adjunct adventuring faculty.
 
 ##### Starting Conditions
-- *Start:* 11th day of Kythorn (The Time of Flowers)
-* *End:*
-* *Weather:* clear, 7mph wind, high 57
-* *Location(s):*
-  - *Start:* Gates of Holworth
-* *NPCs:*
-  - all NPCs in Holworth
-* *Circumstances:*
-  - The party is at the bookend of a chapter in their adventures. Without many leads they will seek out the beginning of a new objective.
+- *Start:* 14th day of Kythorn (The Time of Flowers)
+- *End:*
+- *Weather:* showers, 0mph wind, high 55
+- *Location(s):*
+  - *Start:* Holworth Hero's Alliance
+- *NPCs:*
+  - Asarkal
+  - Skobrouth Keggrog
+- *Circumstances:*
+  - The party just completed a contract to eliminate a pesky monster
+  - Prior to claiming the contract they received a message inviting them to Threapnalt University
 
 ##### Session Events
 
 *Anticipated*
 
-- Vaerune will attempt to seek out the shop of Gormar Farbalar to retreive his package.
-- It sounds like the group will attempt to get another hero's contract and potentially contact Leo.
-- The party will be approached by a flail snail with a message from Fitz providing an invitation to join the Sovereign Academy of Metamagical Sciences.
+- The party will travel to Threapnalt University to participating in the faculty induction of Dimaya.
+- At the ceremony, Dimaya will give a presentation followed by new findings from Fitz related to Arcane Drift.
+- Secretly, Fitz will pass a message from the Emerald Compact to Vaerune.
+- After both presentations, the faculty will deliberate where the truth about the Progenitor Trust may be revealed.
 
 *Occurred*
-
-##### Previous Summary
-- The party sustained their respite with Leo in an attempt to strategize on a clean escape.
-- In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
-- With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
-- The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
-- Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
 
 ---
 
 ### Session Copy
 
-**Discussion w/ Gormar Farbalar re Emerald Compact parcel**
+<details>
+<summary>**Note dropped by Fitz for Vaerune**</summary>
+
+You see a piece of parchment fall to Professor Brundage's feet. No one else seems to notice this.
+
+As you unfold the paper, you see the contents are written in Druidic with the green tulip of the Emerald Compact in the letterhead.
+
+It reads:
+
+Greetings Agent,
+
+I've asked this wizard to surreptitiously pass this message for a few reasons - most of which is to say that the goals of the Emerald Compact and his organization are aligned for the moment. He is likely going to approach your party with a striking proposal. While the work of the Compact remains independent and secret, we must ultimately endorse his undertaking. With that, your mission is to lay influence on your party to take up and serve out Mr. Brundage's proposal.
+
+This work will not feel easy and may blur the lines of our stated convictions. By and by, we must answer the question of who will be the better stewards of our mother nature.
+
+
+
+
+The world laughs in flowers my friend
+
+</details>
+
+<details>
+
+<summary>**Discussion w/ Gormar Farbalar re Emerald Compact parcel**</summary>
 
 You enter a general store of standard fare with an elderly man standing attentively behind the counter.
 
@@ -81,103 +102,12 @@ Take these items in confidence of our support and in fealty to our mission to be
 Stand ready,
 The world laughs in flowers my friend."
 
+</details>
 
 
 ### UA Content
 
 *Plot Hooks*
-
-1. A horde of giants has destroyed an abandoned outpost to the southwest.
-2. A gathering of craftsmen was murdered on the road to the northwest.
-3. An army of dwarves stumbled into a hidden section of the sewers.
-4. A band of entertainers is on the run from the law for a crime they didn't commit.
-5. A troupe of wanderers is looking to buy strange devices that can be found beneath the mountains far to the south.
-
-*Random Encounters*
-
-<details>
-  <summary>**Savanna - Hill**</summary>
-
-1. 1 x Shadow Mastiff (cr 2, vgm 190); easy, 450 xp; treasure 9 gp
-1. Ogre Battering Ram (cr 4, mtf 220) and 1 x Ogre (cr 2, mm 237); deadly, 1550 xp; treasure 16 cp + 13 gp
-1. Ogre Bolt Launcher (cr 2, mtf 220) and 1 x Ogre (cr 2, mm 237); hard, 900 xp; treasure 19 cp + 14 gp
-1. 2 x Werewolf (cr 3, mm 211) and 4 x Wolf (cr 1/4, mm 341); deadly, 1600 xp; treasure 11 ep + 14 sp + 18 cp + 17 cp + 14 gp + 16 sp
-1. Neogi (cr 3, vgm 180) and 6 x Neogi Hatchling (cr 1/8, vgm 179); deadly, 850 xp; treasure 20 cp + 13 sp + 2 pp + 15 gp + 9 sp + 12 sp + 9 gp
-1. Bandit Captain (cr 2, mm 344) and 2 x Bandit (cr 1/8, mm 343); easy, 500 xp; treasure 12 cp + 16 sp + 7 sp
-1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 7 gp
-1. Barghest (cr 4, vgm 123) and 1 x Goblin (cr 1/4, mm 166); hard, 1150 xp; treasure 11 sp + 13 ep
-1. 1 x Bulette (cr 5, mm 34); hard, 1800 xp; treasure 210 sp, 90 gp
-1. Green Hag (cr 3, mm 177) and 1 x Boggle (cr 1/8, vgm 128); easy, 725 xp; treasure 10 ep + 12 ep
-
-</details>
-
-<details>
-  <summary>**Grassland**</summary>
-
-1. 2 x Ogre (cr 2, mm 237); hard, 900 xp; treasure 21 cp + 18 sp
-1. 1 x Ogre (cr 2, mm 237); easy, 450 xp; treasure 12 gp
-1. Ogre Battering Ram (cr 4, mtf 220) and 1 x Ogre (cr 2, mm 237); deadly, 1550 xp; treasure 17 sp + 17 sp
-1. 2 x Allosaurus (cr 2, mm 79); hard, 900 xp; treasure 7 sp + 12 sp
-1. 1 x Oaken Bolter (cr 5, mtf 126); hard, 1800 xp; treasure 1500 cp, 60 ep
-1. Gnoll Fang of Yeenoghu (cr 4, mm 163) and 2 x Gnoll Witherling (cr 1/4, vgm 155); hard, 1200 xp; treasure 17 cp + 11 gp + 9 gp
-1. Vampiric Mist (cr 3, mtf 246) and 2 x Shadow (cr 1/2, mm 269); hard, 900 xp; treasure 9 gp + 14 ep + 16 sp
-1. Barghest (cr 4, vgm 123) and 2 x Goblin (cr 1/4, mm 166); hard, 1200 xp; treasure 16 cp + 16 sp + 22 cp
-1. 1 x Iron Cobra (cr 4, mtf 125); medium, 1100 xp; treasure 14 gp
-1. 1 x Stegosaurus (cr 4, vgm 140); medium, 1100 xp; treasure 14 sp
-
-</details>
-
-<details>
-  <summary>**Coastal - Tropical**</summary>
-
-1. 2 x Sea Spawn (cr 1, vgm 189); easy, 400 xp; treasure 22 cp + 15 gp
-1. 1 x Berserker (cr 2, mm 344); easy, 450 xp; treasure 3 pp
-1. Sahuagin Baron (cr 5, mm 264) and 1 x Sahuagin (cr 1/2, mm 263); hard, 1900 xp; treasure 130 gp + 15 sp
-1. 2 x Plesiosaurus (cr 2, mm 80); hard, 900 xp; treasure 10 gp + 13 gp
-1. 1 x Plesiosaurus (cr 2, mm 80); easy, 450 xp; treasure 13 cp
-1. 2 x Giant Eagle (cr 1, mm 324); easy, 400 xp; treasure 18 cp + 18 cp
-1. 2 x Sea Spawn (cr 1, vgm 189); easy, 400 xp; treasure 14 ep + 2 pp
-1. 2 x Tortle Druid (cr 2, mtf 242) and 3 x Tortle (cr 1/4, mtf 242); hard, 1050 xp; treasure 10 gp + 24 cp + 9 gp + 10 ep + 11 sp
-1. 1 x Druid (cr 2, mm 346) and 1 x Wood Woad (cr 5, vgm 198); deadly, 2250 xp; treasure 20 cp + 180 sp, 50 gp
-1. Sahuagin Priestess (cr 2, mm 264) and 2 x Sahuagin (cr 1/2, mm 263); hard, 650 xp; treasure 9 sp + 9 gp + 9 gp
-
-</details>
-
-<details>
-  <summary>**Urban**</summary>
-
-1. Bandit Captain (cr 2, mm 344) and 10 x Bandit (cr 1/8, mm 343); deadly, 700 xp; treasure 27 cp + 14 sp + 16 cp + 8 sp + 14 gp + 16 sp + 23 cp + 4 ep + 17 cp + 10 ep + 14 sp
-1. 1 x Giff (cr 3, mtf 204); easy, 700 xp; treasure 15 sp
-1. 1 x Wight (cr 3, mm 300); easy, 700 xp; treasure 2 pp
-1. Deathlock (cr 4, mtf 128) and 1 x Cultist (cr 1/8, mm 345); hard, 1125 xp; treasure 12 gp + 15 gp
-1. Wight (cr 3, mm 300) and 2 x Zombie (cr 1/4, mm 316); medium, 800 xp; treasure 11 sp + 15 sp + 8 ep
-1. 1 x Babau (cr 4, vgm 136); medium, 1100 xp; treasure 16 cp
-1. Ghast (cr 2, mm 148) and 2 x Ghoul (cr 1, mm 148); hard, 850 xp; treasure 6 ep + 20 sp + 11 sp
-1. 1 x Will-o-wisp (cr 2, mm 301); easy, 450 xp; treasure 16 gp
-1. 1 x Veteran (cr 3, mm 350); easy, 700 xp; treasure 10 gp
-1. 2 x Orc Red Fang of Shargaas (cr 3, vgm 185) and 2 x Giant Bat (cr 1/4, mm 323); deadly, 1500 xp; treasure 11 cp + 18 sp + 7 sp + 5 pp
-
-</details>
-
-<details>
-  <summary>**Forest - Temperate**</summary>
-
-1. 1 x Banshee (cr 4, mm 23); medium, 1100 xp; treasure 4 pp
-1. Werebear (cr 5, mm 208) and 1 x Brown Bear (cr 1, mm 319); deadly, 2000 xp; treasure 80 gp, 13 pp + 4 ep
-1. 1 x Awakened Tree (cr 2, mm 317); easy, 450 xp; treasure 1 pp
-1. Grung Elite Warrior (cr 2, vgm 157) and 1 x Grung (cr 1/4, vgm 156); easy, 500 xp; treasure 19 sp + 19 cp
-1. Hobgoblin Devastator (cr 4, vgm 161) and 1 x Hobgoblin (cr 1/2, mm 186); hard, 1200 xp; treasure 9 ep + 11 sp
-1. 2 x Orc Red Fang of Shargaas (cr 3, vgm 185) and 2 x Giant Bat (cr 1/4, mm 323); deadly, 1500 xp; treasure 15 cp + 11 cp + 14 sp + 11 cp
-1. Unicorn (cr 5, mm 294) and 1 x Dryad (cr 1, mm 121); deadly, 2000 xp; treasure 210 sp, 50 gp + 7 gp
-1. 1 x Werewolf (cr 3, mm 211) and 1 x Wolf (cr 1/4, mm 341); medium, 750 xp; treasure 19 cp + 7 gp
-1. 1 x Yuan-ti Broodguard (cr 2, vgm 203) and 1 x Yuan-ti Malison (cr 3, mm 309); hard, 1150 xp; treasure 14 sp + 16 cp
-1. Hobgoblin Captain (cr 3, mm 186) and 3 x Hobgoblin (cr 1/2, mm 186); deadly, 1000 xp; treasure 18 cp + 16 sp + 10 gp + 9 gp
-
-</details>
-
-</br>
-
-lvl4
 
 <details>
   <summary>**Savanna - Hill**</summary>
@@ -508,6 +438,49 @@ lvl4
 ---
 
 ### Notes Log {.tabset .tabset-fade}
+
+#### 03/21
+
+##### Previous Summary
+- (SECRET) Vaerune was approached by a flail snail messenger which informed him of the pleasure of the Emerald Compact in his work on the Laurentz Mine. He was told to visit the shop of Gormar Farbalar in Holworth who is holding a parcel for Vaerune.
+- The party fast traveled back to Holworth to explore a reset in the direction of their adventuring. In doing so they crossed paths with a few unique creatures which presented new challenges.
+- A hobgoblin devastator stood as the party's highest spell caster challenge to date, who required perceptive strategy and imaginative method to overcome.
+- Ultimately, the party reached the welcoming gates of Holworth to investigate what their path might hold next.
+
+##### Starting Conditions
+- *Start:* 11th day of Kythorn (The Time of Flowers)
+* *End:* 14th day of Kythorn (The Time of Flowers)
+* *Weather:* clear, 7mph wind, high 57
+* *Location(s):*
+  - *Start:* Gates of Holworth
+* *NPCs:*
+  - all NPCs in Holworth
+* *Circumstances:*
+  - The party is at the bookend of a chapter in their adventures. Without many leads they will seek out the beginning of a new objective.
+
+##### Session Events
+
+*Anticipated*
+
+- Vaerune will attempt to seek out the shop of Gormar Farbalar to retreive his package.
+- It sounds like the group will attempt to get another hero's contract and potentially contact Leo.
+- The party will be approached by a flail snail with a message from Fitz providing an invitation to join the Sovereign Academy of Metamagical Sciences.
+
+*Occurred*
+
+- The party reacclimated themselves with Holworth and its ammenities
+- Upon their first pass through the center of the city, the group dispatched an assault by a group of bandits on 2 verdan laborers.
+- In pursuit of new opportunities, the party revisited the Hero's Alliance to make repairs and take a small contract regarding a monster nuisance north of town.
+- The party made quick work of the monster and set out to claim the contract. Before making it back they received an unexpected snail mail message from W. Fitzhugh Brundage
+- This message gave an offering an invitation to dimaya to join the Sovereign Academy of Metamagical Sciences as an adjunct adventuring faculty.
+
+##### Previous Summary
+- The party sustained their respite with Leo in an attempt to strategize on a clean escape.
+- In executing that plan, the group found another peculiar plant outside the shack, which turned out to be a fern hound standing guard
+- With this exposure, the fern hound alerted the militia in waiting, and a fierce battle ensued.
+- The party was nearly overrun by the bard-led opposition, with Leo taking substantial damage, Vaerune being knocked unconscious, and Ahitaka falling within a breath of the grip of death.
+- Yet still, the party prevailed and escaped into the wilderness with a quite whisper from a feebeled Leo to send him call.
+
 
 #### 03/06
 
